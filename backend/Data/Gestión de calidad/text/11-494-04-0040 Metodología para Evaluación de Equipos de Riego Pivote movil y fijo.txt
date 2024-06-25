@@ -1,362 +1,362 @@
-INSTRUCTIVO ‘Cédigo: 11-494-04-0040
+INSTRUCTIVO Código: 11-494-04-0040
 
 CONTENIDO
 1. OBJETIVO Y ALCANCE.
 
-2. DOCUMENTOS ¥ REGISTROS QUE APLICAN,
-3. DEFINICION
+2. DOCUMENTOS Y REGISTROS QUE APLICAN.
+3. DEFINICIÓN
 3.1. Aspersor Komet twin.
-3.2. Termo anemémetro
-3.3 Caudalimetr.
-3.4 Tacémetro
-3.5 vacuémetro.
-4, NORMAS. .
-5. DESCRIPCION DE PROCESO.
-6 DIAGRAMA DE FLUJO...
-7. MATRIZ PLAN,
-8
+32. Termo anemómetro.
+333 Caudalímerro.
+34 Tacómetro
+3.5 vacuómetro.
+4. NORMAS -
+$. DESCRIPCIÓN DE PROCESO.
+6. DIAGRAMA DE FLUJO......
+7. MATRIZPLAN
+E
 9.
 
-‘CONTINGENCIAS
+CONTINGENCIAS
 ANEXOS
 
-‘autor expecaancocegony reas | Jefe Oop Gn de aed
-eprtarets de Gustin de Cand Proce Areas Gererte dren Genin da Cae
+udor specoano d fgos y denajs | ee Dertamerto Gn d l add
+Deprtamnto de Gatón de C Procss Aremas GerrtedresGentón delc
 
-eee Aas Foe j3/ra/t023
+T = n/nf223
 
-(©2023, CompaiaAgcla aut! Sart Aa, SA Ele doen no pune er raped ata,
+O 202 Compaña Agcl ndusilSart Aa, S. Este dcumento o pund er rrc i teado,
 
-INSTRUCTIVO beige: 11-494-04-0080
-ego de Phote Central Fecha: 14 de noviembre de 2023
-Departamento de Gestién de Calidad Proceso
+INSTRUCTIVO Código: 1494040010
+Tiego de Pvcta Contal Fecha: 14 de novembre de 2023
+Departamento de Gestión de Calidad Proceso
 
-Agricola versiin:2 | Pagina: 2de9
+Agrícola Versión:2 | - Página:2 de
 
-1. OBJETIVO Y ALCANCE
+1. OBIETIVO Y ALCANCE
 
-\Verificar la calidad operacional de los equipos que realizan la aplicacién del riego,
-medir las variables y determinar el cumplimiento de cada uno de sus pardmetros.
-‘Determinar las oportunidades de mejora para que los equipos evaluados operen de una
-‘manera eficiente. Este instructivo es aplicable para todas las labores de riego de Pivote
-Central ejecutadas en ls fineas bajo administraciOn del Ingenio Santa Ana,
+Verificar la calidad operacional de los equipos que realizan la aplicación del riego,
+medir las variables y determinar el cumplimiento de cada uno de sus parámetros,
+Determinar las oportunidades de mejora para que los equipos evaluados operen de una
+manera eficiente, Este instructivo es aplicable para todas las abores de riego de Pivote
+Central ejecutadas en las fineas bajo administración del Ingenio Santa Ana,
 
 2. DOCUMENTOS Y REGISTROS QUE APLICAN.
-Especificacién 11-494-05-0005 Parimetros pivote central VO3,
+Especificación 11-494-05-0005 Parámetros pivote central VO3
 
-3. DEFINICION
+3. DEFINICIÓN
 3.1. Aspersor Komet twin
 
-Proporciona aleance y uniformidad de ricgo gracias al rompe-chorro dinémico que
-facilita un riego delicado para los cultivos més sensibles, adaptindose a cualquier
-resin. Reduce los costos de operacién y ahorra energia.
+Proporciona alcance y uniformidad de riego gracias al rompe-chorro dinámico que
+fucilita un riego delicado para los cultivos más sensibles, adaptándose a cualquier
+presión. Reduce los costos de operación y ahorra energía.
 
-3.2. Termo anemémetro
-‘Aparato utilizado para medir la velocidad del aire y la temperatura del aire. Poseen un
-alambre de cobre o un elemento muy fino que se calienta por superando la
+3.2. Termo anemómetro
+Aparato utilizado para medir la velocidad del aire y la temperatura del a. Poseen un
+alambre de cobre 0 un elemento muy fino que se calienta por superando la
 temperatura del medio ambiente.
 
-3.3 Caudalimetro
-Un instrumento de medicién que permite determinar el caudal de un fluido. El caudal
-ela cantidad de flujo por unidad de tiempo que circula por una conducci
+3.3 Caudalimotro
+Tn instrumento de medición que permite determinar el caudal de un fluido. El caudal
+es la cantidad de flujo por unidad de tiempo que circula por una conducci
 
-3.4 Tacémetro
+34 Tacómetro
 Es un dispositivo que registra de forma continua datos del movimiento del motor de
-‘multitud. Etimologicamente, el témino tacémetro proviene de las palabras griegas|
+multtud. Etimológicamente, el término tacómetro proviene de las palabras griegas
 tachos, que significa «rapidez», y metron, cuyo significado es medida,
 
-3.5 vacuémetro
-Es un instrumento de medicién que permite determinar la presién de un fluido cuando
-std a una presién menor que la atmosférica. Es decir, sirve para medir presiones muy
-bajas
+3.5 vacuómetro
+Es un instrumento de medición que permite determinar la presión de un fluido cuando
+está a una presión menor que la atmosférica. Es devir, sirve para medir presiones muy
+bajas.
 
 4. NORMAS
-El jefe del departamento de Gestién de Calidad de Procesos Agricola, el jefe del
-<departamento de Ingenieria Agricola, El auditor especializado en Riegos, Gestor de
-riego Y Auditores de calidad son los responsables de velar por el eumplimento de
-este instructive,
+El jefe del departamento de Gestión de Calidad de Procesos Agrícolas, el jefé del
+departamento de Ingeniería Agrícola, El auditor especializado en Riegos, Gestor de
+riego Y Auditores de calidad son los responsables de velar por el cumplimento de
+este instructivo.
 
-(©2023 ComoaiaAacole nui arta Aa, S.A. Ele document no usd sr erect lated
-lego de Pivote Centra Fecha: de noviembre de 2023
+(O 2023 Camta Ancl ndusíl Sarta Aa,SA.Etedcumnto n uedesrrercucio n aterada
+Riego de Pvote Central Fecha: 14 de novembre de 2023
 
-SANTAANA | Departamento de Gestién de Calidad Proceso
+SANTAANA | — repartamento de Gestón de Caliad Proceso
 
-INSTRUCTIVO écigo: 13-494-08-0040 |
+INSTRUCTIVO Código: 1-494-08-00:0 ;
 
-5. DESCRIPCION DE PROCESO.
+5. DESCRIPCIÓN DE PROCESO.
 
-EVALVACK DE RIE OTE
+EVALUACIO DE RIE 0TE C
 
-Notas introductorias
+Notas introductorías
 
-Cada mayordomo y/o caporal de rego debe informar en los Grupos de Gestién de calidad
-de cada regién el programa de trabajo a seguir con los equipos de riego el dia siguiente, a
-mds tardar a las 19:00 de cada dia,
+Cada mayordomo y/o caporal de riego debe informar en los Grupos de Gestión de calidad
+de cada región el programa de trabajo a seguir con los equipos de riego el día siguiente, a
+más tardar a las 19:00 de cada día
 
-El auditor de calidad notificaré al mayordomo y al gestor de riego, en el Grupo de Gestién
-de calidad con regién, para establecer el punto de reunién del dia siguiente y a partir de
-ese punto definirin la ruta y los equipos a evaluar. Se debe establecer el punto a més tardar
-21:00 de cada dia
+El auditor de calidad notifcará al mayordomo y al gestor de riego, en el Grupo de Gestión
+de calidad con región, para establecer el punto de reunión del día siguiente y a partir de
+ese punto definirán la ruta y los equipos a evaluar. Se debe establecer el punto a más tardar
+21:00 de cada día
 
-Antes de las 21:00 se definié si para la visita dard acompafiamiento el Gestor de Riego y
-‘Mayordomo o alguno de los dos. No se podré asignar para esta actividad caporaleso alguien
-de rango inferior.
+Antes de las 21:00 se definrá si para la vsita dará acompañamiento el Gestor de Riego y
+Mayordomo o alguno de los dos. No se podrá asignar para esta actividad caporales o alguien
+de rango inferor.
 
-Si, después de 20 minutos de la hora acordada, no se presenta el responsable del
-acompafiamiento, el auditor de calidad procederd con la ejecucién de la auditoria y
-notificara en su reporte la ausencia del responsable. Si el auditor no se presenta, el
-responsable notificaré a su jefe inmediato para dar seguimiento, de igual forma en el Grupo
+Sí, después de 20 minutos de la hora acordada, no se presenta el responsable del
+acompañamiento, el auditor de calidad procederá con la ejecución de la auditoría y
+notificará en su reporte la ausencia del responsable. Si el auditor no se presenta, el
+responsable notificará a su jefe inmediato para dar seguimiento, de igual orma en el Grupo
 
-de Gestién de Calidad de la regién,
+de Gestión de Calidad de la región,
 
-Posterior a la auditoria en campo se debe realizar una reunién Post-auditoria entre el
-‘auditor de calidad y el Gestor de riego para revisar la evaluacin y determinacién de causa
-riz, si alguna causa Raiz no queda bien definida el gestor de riego podré indagar sobre la
-causa y notificar al auditor de calidad a més tardar a las 19:00 horas de ese mismo dia para
+Posterior a la auditoría en campo se debe realizar una reunión Post auditoría entre el
+auditor de calidad y el Gestor de riego para revisar la evaluación y determinación de causa
+rai si alguna causa Raí no queda bien definida el gestor de riego podrá indagar sobre la.
+causa y noifcar al auditor de calidad a más tardar a las 19:00 horas de ese mismo día para
 su registro en el sistema.
 
-Si durante la auditoria en campo no estuvo presente el gestor de riego, el auditor de calidad
-le trasladara el reporte de auditoria y entre los dos deberdn acordar hora y lugar para hacer
-la reunién Post-Auditoria, el mismo dia, a més tardar a las 17:00.
+Si durante la auditoría en campo no estuvo presente el gestor de riego, el auditor de calidad
+le trasladará el reporte de auditoría y entre los dos deberán acordar hora y lugar para hacer
+la reunión Post-Auditoría, el mismo día, a más tardar a las 17:00.
 
-Si durante el analisis de Causa Rafz se determina utilizar la causa 34 OTROS, el gestor de
-riego debers trasladar un detalle de la causa que consideré al gestor de calidad, quien lo
-<escribiré como parte de las observaciones de la auditor,
+Si durante el análisis de Causa Rafz se determina utilizar la causa 34 OTROS, el gestor de
+riego deberá trasladar un detalle de la causa que consideró al gestor de calidad, quien lo
+describirá como parte de las observaciones de la auditoría,
 
-(©2023, ComeetiaAaclinfutil Sara Ana. S.A. Ete dociert no ound a oro stra,
-INSTRUCTIVO igo: 11-494.04-0040
-Fecha: 14 de noviembre de 2023
+62023 Cameeña Acl Iul Snt Ana. 5. Estedcumento o mund r oroducio i a,
+INSTRUCTIVO cómgo: 1494.04.0010
+Fecha: 14 de novembre de 2073
 
 Riego de Pivote Central
-Departamento de Gestién de Calidad Proceso
-Agricola Verién:2 | Pagina: 4 de9
+Departamento de Gestión de Calidad Proceso
+Agricola versión:2 | - Pigna:adeo
 
-Este parémetro se mediré utilizando el manémetro instalado en la base
+Este parámetro se medirá utlizando el manómetro instalado en la base
 del equipo a evaluar.
 
-Se deberd evaluar la funcionalidad del accesorio, de presentar falls, se
-debers reportar al caporal de riego o gestor para que aperture orden
-de trabajo con taller solicitando el cambio, i previamente ya existe una
+Se deberá evaluar la funcionalidad del accesorio, de presentar falls, se
+deberá reportar al caporal de riego o gestor para que aperture orden
+de trabajo con tallersolcitando el cambio,sipreviamente ya existe una
 solicitud de orden de trabajo generar alerta para taller.
 
-1.1 | Presién de entrada
+11 |Presión de entrada
 en la base del
 
 pivote.
 
-‘Se mediré la presién de descarga de agua en la boquilla del ditimo aspersor instalado en el voladizo o|
-ultima torre del equipo, para lo cual deberé garantizarse que el manémetro utilizado esté en buenas
-condiciones. Se validaré la lectura tomada respecto al mandmetro instalado al final del pivote, de exist
-variacién respecto a este de + 5 PSI, se validard con manémetro de personal de finca que acompaa,
+Se medirá la presión de descarga de agua en la boquilla el último aspersor instalado en el voladizo o
+ultima torre del equipo, para lo cual deberá garantizarse que el manómetro utilizado esté en buenas
+condiciones. Se validará la ectura tomada respecto al manómetro instalado al fnal del pvote, de existir|
+variación respecto a este de + 5 PSI,se validará con manómetro de personal de finca que acompaña.
 
-‘oO
+oO—
 
-1.3 Presi6n al final del pivote cumple con presién minima requerida segun disefio:
-‘Se compara la presién medida en el inciso 1.2. respecto ala presién al final del equipo, detallada en el
-disefio.
+1.3 Presión al final del pivote cumple con presión mínima requerida según diseño:
+Se compara la presión medida en el inciso 1.2. respecto a la presión al inal del equipo, detallada en el
+diseño.
 
-La presin debe ser mayor o igual a esta presién, pero no superior a + 5 PSI sobre la presién detallada
-‘en disefo,
+La presión debe ser mayor o igual a esta presión, pero no superior a + 5 PSI sobre la presión detallada
+en diseño.
 
-Se consideraré aprobado sla presién supera o es menor a #2 PSI, respecto a los parémetros.
+Se considerará aprobado si a presión supera o es menor a +2 PSI,respecto a los parámetros.
 
-Ejemplo: Presin en disefio 15 PSI, presién medida 21 (Cumple),sifuese 23 ya no cumpliiao si fuese 12.
-Sifuese 22 todavia cumplitia por los 2 PSI de error que pudieran dar mandmetros
+Ejemplo: Presión en diseño 15 PSI, presión medida 21 (Cumple), i fuese 23 ya no cumpliía o si fuese 12.
+$i fuese 22 todavía cumplría porlos 2 PSI de error que pudieran dar manómetros
 
-ranistnos pe orexacton |
+ranivrrROsDE OPERACIÓN |
 
-\
+y
 
-(©2023, Comsoti Arcola Sart Ana. S.A. Ete document ound er orc trad
-INSTRUCTIVO Cbaigo:11-494.08-0040
+( 2023 Comeeñía Acl Indusal Snt Ana. 5. Et acument o mueo r recroduado í ad
+INSTRUCTIVO Código: 1498050010
 
-lego de Piote Cantal Fecha: 14 de noviembre de 2023
-Departamento de Gestion de Calidad Proceso
-Agricola Versién:2 | Pégina:s deo
+Plago de Phote Cantal Fecha: 14 de novembre de 2023
+Departamento de Gestión de Calidad Proceso
+Agrícola versión:2 | - página:5 de
 
 2. PROFUNDIDADES DE MOJADO
 
-Se realizardn 2 0 mas muestreos con Profundimetro por tramo, espacio entre torres, entre 12 y 24 horas,
+Se realizarán 2 0 más muestreos con Profundímetro por tramo, espacio entre torres, entre 12 y 24 horas|
 después del riego.
 
-De los muestreos realizados se calcularé la media y sobre ello se realizaré la evaluacién del parémetro.
+De los muestreos realizados se calculará la media y sobre ellose realizaré la evaluación del parámetro.
 
-Sila profundidad excede el limite superior del pardmetro se generaré un hallazgo, no afectando la nota
-de la evaluacién,
+Si la profundidad excede el límite superior del parámetro se generará un hallazgo, no afectando la notal
+de la evaluación.
 
-“Observacién: Por cada punto muestreado que se detecte sin humedad se restarén 3 puntos a la nota
-del parémetro.
+*Observación: Por cada punto muestreado que se detecte sin humedad se restarán 3 puntos a la nota
+del parámetro.
 
-Sise detectan mas de 3 puntos, el parémetro se ponderaré
+$i se detectan más de 3 puntos, el parámetro se ponderará
 
 3. RPM EN MOTOR Y PRESIONES DE SALIDA EN BOMBA
 
-Nota": Previo a la evaluacién de los parémetros de RPM y Presién de salida, debe realizarse una
-validacion de la correcta calibracién del equipo.
+*Nota*: Previo a la evaluación de los parámetros de RPM y Presión de salida, debe realizarse una
+validación de la correcta calibración del equipo.
 
-En el caso del tacémetro, debe verificarse con tacémetro digital que este se encuentre proporcionando
-lecturas que correspondan.
+En el caso del tacómetro, debe verificarse con tacómetro digital que este se encuentre proporcionando
+Tecturas que correspondan.
 
-Siel tacémetro esta descalibrado se aperturara orden de trabajo a taller
+Si el tacómetro esta descalibrado se aperturará orden de trabajo a taller
 
-4. DISTRIBUCION DE ACCESORIOS, DISENO Y OPERACION
+4. DISTRIBUCIÓN DE ACCESORIOS, DISEÑO Y OPERACIÓN
 
-‘Se deberd contar con un disefio general de operacién, en el que Se
+Se deberá contar con un diseño general de operación, en el que se
 
-4.1 | Presencia de disefio | detalle las caracteristicas de operacién como velocidad porcentual,
+4:1. | presencia de diseño | detalle las características de operación como velocidad porcentual,
 
-de riego. lamina a regar por etapa fenolégica, frecuencia de riego base, duracion
-de giro y rea efectiva a regar por lote.
+deriego lamina a regar por etapa fenológica, frecuencia de riego base, duración
+de giro y área efectiva a regar por lote.
 
-ET equipo mecanizado contard con una cartilla de aspersin donde se
+El equipo mecanizado contará con una cartila de aspersión donde se
 
-42 | Cartilla de aspersi6n | detalle la distribucién de boquillas y reguladores de presién a usar en
-‘cada tramo del equipo, de la misma forma se detallaré la ldmina
+42 | Cartilla de aspersión | detall la distribución de boquilas y reguladores de presión a usar en
+cada tramo del equipo, de la misma forma se detallará la lámina
 
-<descargada por el equipo segin la velocidad con que trabaje.
+descargada por el equipo según la velocidad con que trabaje,
 
-@3__| Fugas en tuberia | Se deberd revisar que a tuberia de conduccion de agua principal sobre
+4:3- Fugas en tubería  Sedebers revisar que a tubería de conducción de agua principal[sobre
 lateral el pivote), no presente fugas.
 
-De presentarlas se verifcaré siya fue reportada a taller, sino ha sido
-reportada se generaré alerta para la regién, si ya fue reportada se
-generaré hallazgo para taller.
+De presentarlas se verificará si ya fue reportada a taller, si no ha sido
+reportada se generará alerta para la región, sl ya fue reportada se
+generará hallazgo para taler.
 
-(©2023, comsetia Actus Santa Ane. A, Este cima o sua ser rod nl ateac,
-INSTRUCTIVO Cbeigo:11-498-04-0040
+( 202 Comseñia Acl u! Snta Ane. 5 Estedcument o sued r rnrducóo l tra.
+INSTRUCTIVO ósigo:11-404-04.0040
 
-lego de Pivote Central Fecha: 14 de noviembre de 2023
-Departamento de Gestién de Calidad Proceso
-Agricola Versiin:2. | Pigina:6 de9
+Rlego de Plvore Central Fecha: 14 de novembre de 2023
+Departamento de Gestión de Calidad Proceso
+Agrícola Versón:2 | - Pigna:ódeo
 
-De no haberse generado Orden de trabajo a taller el hallazgo sera para
-Operacién Agricola,
+De no haberse generado Orden de trabajo a tallr el hallazgo será para
+Operación Agrícola.
 
-aa [presencia de | Yodo fos bajantes, que no etdn cevados,debern contr con un
-reguladres de regulador depres, seg nicacondecartil
-resin en todos es
-bajantes
-45 | Homogencided en | os regulores de presonistalados en os janes debarn wr del
-bresin de trabajo | miki rang de presion en odo pete
-te reqladores de
-presgn usados ; |
-7B Presencia de | Reisar qu odo lant gus no este cerrado, cuore on un Sper
-Canasta, de
-asperslon en todos
-forbajates |
-47 | Presencia de Reviar que todos lox asperoresnaladospresnten Bogue epia
-Boquila en todos |cartil
-tapersores |
-instsadoe ;
+[44-—[Presenda de [ Todos os ajanes, que no etán ceados,Jeberán contarcom un
+reguldores — de regulador de presión,según niacón de eal
+presin en todos los
+Vaantes
+457| Homogeneldad —en | Losreguladores de presónistulados en osbjonesdeberán er del
+presión de tabajo mimo rango e presón en todo el le
+de reguladore de
+presón usados _ ! |
+456 Presenda — de | Reuiar que todobalaneque no eé crrado, uente comursiprior
+canastila — de
+aspersón en todos
+tostalmtes — |
+47 — Presenca — de | Reviarque vdos ls aspersres Instldospreente boquill egúr
+Moquil entodos lo ra
+npariors |
+instaados _ u
 
-(2023, comoatia Aaa ndstal Sars Ara A Est ocr o puede er otc ater.
-Departam
+( 203.Compañia Aucola V Sr Ara 5. Esl dcument o puede a rcrduco laa
+Departame
 
-INSTRUCTIVO Cédigo:11-494-04.0080
-lege de Phote Cantral Fecha: 14 de noviembre de 2023
-lento de Gestion de Calidad Proceso T
-Agricola Versién:2 | Pigina:7 469
+INSTRUCTIVO código:11-194-04.0040
+Riago de Phvote Cantral Fecha: 14 de noviembre de 2073
+vento de Gestión de Calidad Proceso T
+Agrícola Verión:2 | - ágina:7 0e9
 
-48] Fugas en manguera | Revsar que todos los bajantes no preventen fugas en la Conduedion de
-bajante agua, desde ol euello de ganso hasta la conexién con el aspersor.
-49 | Velocidad porcentual| Que la velocidad porcentual en el panel de control esté en un rango de
-20% alejado de la velocidad diseRada para el equipo, seguin la etapa
-fenolégica segtin | fenolégiea en la que se encuentre, Ejemplo: Si el diseRo indica que la
-diseho velocidad de dso es de 10% el rango de aceptacion seria de: 10% -
-(0.210% a 10%+0.2°10%, es decir: 8% a 12%
-con SEES
-‘Se medird la diferencia de altura entre el bajante mds largo y el mas
-410 | Longitudde corto, esta no debe exceder el +/-40 em
-bojantes | La forma de medir Ia altura seré del nivel del suelo al inicio de la
+48 [Fugas en manguera | Revisar que todos os bajantesno presenten fugas en la conducción de
+bajante agua, desde el cuello de ganso hasta la conexión con el aspersor.
+49 [Velocidad porcentual Que la velocidad porcentual en l panel de control esté en un rango de
+20% alejado de la velocidad diseñada para el equipo, según la etapa
+fenológicasegún — |fenológica en la que se encuentre. Ejemplo: 51 el diseño inica que la
+diseño velocidad de diseño es de 10% el rango de aceptación sería d: 10% -
+02*10% a 10%102*10%, es decir: — 8% a 12%
+m
+Se medirá la diferencia de altura entre el bajante más largo y el más
+40 | - tongitudde — | cortoestano debe excederel +/- 40 cm
+bajantes —| La forma de medir la altra será del nivel del suelo l nicio de la
 | canasta
-‘Nota: Evitar hacer la medlcién en éreas con cambios de pendiente
-‘muy pronunciadas
-aa | Posieibn de | Los emisores se deben encontrar sobre Ta altura del cutive con un
-aspersores sobre el minimo de0.20m y maximo de 1m.
-caltivo
-442 | Presencia de | Validar que cada equipo mecanizado cuente con un mandmetro al final
+*Noto": Evitar hacer la medición en óreos con cambios de pendiente
+muy pronunciodos.
+411 | posición de | Los emisores se deben encontrar sobre la aura del cultvo con un
+aspersores sobre el mínimo de 0.20 my máximo de 1 m.
+cultvo
+432 |Presencia — de | Validarque cada equipo mecanizado cuente con un manómetro al Fnl
 
-‘Manémetro Final
+Manómetro Final
 
-del equipo. Este puede estar instalado en cualquiera de los aspersores |
-de ia ultima torre
+del equipo. Este puede estar nstalado en cualquiera de los aspersores |
+de la última torre.
 
-I
+-
 
-(©2023, Comostia Aros ndusta Sara Ara S.A Est documento no suede ror aera,
-INSTRUCTIVO Cédigo:11494-04-0040
-ego de Pivote Central Fecha: 14 de noviembre de 2023
-Departamento de Gestion de Calidad Proceso
-Agricola Versién:2 | Pégina:8 469
+9 202,Comosñia Acl Irstil Sarta Ana . Est dcument o suede e rorducó l aedo.
+INSTRUCTIVO Código: 11404040040
+Rlego de Pvote Cenral Fecha: 14 de novembre de 2023
+Departamento de Gestión de Calidad Proceso
+Agrícola Versión:2 | - Pigina:B deo
 
-5. ADECUACIGN DE EQUIPO DE BOMBEO
-] Profundidad del agua donde se realizara Ta extraccin, se mide desde
-|5.2 | Profundidad de | elespejo de agua al inicio dela pichacha y de final dela pichacha hasta
-Punto debombeo | el fondo de la fuente debiendo contar con 25 cm de diferencia entre
-cada punt.
+5. ADECUACIÓN DE EQUIPO DE BOMBEO —
+T Profundidad del agua donde se realizará la extracción, se mide desde
+[51- | Profundidad — de | el espejo de agua al inicio de la pichacha y del final de la pichacha hasta
+punto de bombeo — | el fondo de la fuente debiendo contar con 25 cm de diferenciaentre
+cada punto.
 
-5.2 Altura de succién
+5.2 Altura de succión
 Desde el centro de la abertura de entrada de agua a la bomba hasta el espejo de agua.
 
-a
-5.3 | Equipo de bombeo | Validar que el equipo de riego se encuentre nivelado respecto al suelo,
-nivelado
-54 | Uso de rejila Aplicable @ derivas de rios 0 norlas con basura 0 vegetation, uso de
-| malta gallnera
-Tdentificar a presencia de un flotador que ayude a regular Ta)
-5.5 | Uso de flotador en | profundidad a la que se encuentra la succién del equipo, es aplicable 2
-manguera de | motobombas méviles abasteciéndose de fuentes de agua como
-succién pocetas, derivas 0 ros.
+— ==
+53 | Equipo de bombeo [ Validar que el equipo de riego se encuentre nivelado respecto al suelo.
+nivelado __
+54 | uso de rejilla Aplicable a derivas de ríos o norlas con basura o vegetación, uso de
+| mallagallnera.
+dentficar la presencia de un fotador que ayude a regular la|
+5.5 | Uso de flotador en | profundidad a la que se encuentra la succión del equipo, es aplicable a
+manguera de | motobombas móviles abastecióndose de fuentes de agua como
+succión pocetas, derivas o ríos.
 'No aplica pozos y avances.
-Evaluar este pardmetro cuando Ia profundidad de la fuente de agua |
+Evaluar este parámetro cuando la profundidad de la fuente de agua |
 supere 2.00 metros.
-J
+_ J
 
-(©2023, Comatia Acoli Sara Ana. S.A Ele dient no ound se erect nl atera,
+6202 Camestia Anicol Iul Snta Ana. 5. Et dcamento o uede ar rrc l tera.
 Riego de Pivote Central
-Departamento de Gestién de Calidad Proceso
+Departamento de Gestión de Calidad Proceso
 
-INSTRUCTIVO eign: 1-494-08-0040
+INSTRUCTIVO cÓgo: 11404040040
 
-Fecha: 14 de noviembre de 2023
+Fecha: 14 de novembre de 2023
 
-36
+56
 
-Fugas en tuberia de
-condueeién
+Fugas en tubería de
+conducción
 
-En la identificaciGn de fugas se consideraran con eleriterio siguiente:
-Por cada fuga que se dentifique se descontaré un punto a la nota total
-{que corresponde a este parsmetro, hasta llegar a cero.
+En la identificación de Tugas se considerarán con el crterio siguiente:
+Por cada fuga que se dentifique se descontará un punto a la nota total
+que corresponde a este parámetro, hasta llegar  cero.
 
-Clasificar fugas por empaque, tubos rotos, debiltacién de soldadura,
-Existiré una tabla de clasificacién visual de fugas (GC y 4)
+Clasificar fugas por empaque, tubos rotos, debiltación de soldadura.
+Existró una tabla de closificación visual de fugas (GC y IA)
 
 6. LIMPIEZA Y ORDEN
 
-61
+si
 
-‘Ambiente limpio,
+Ambiente — limpio,
 desechos ordenados
 
-‘Todos los desechos inorganicos (Nylon, botellas, plsticos, aluminio)
-‘que se origen dentro del proceso de la operacién de riego serin
-‘ordenados y almacenados en recipientes (costales) para su traslado @
+Todos los desechos inorgánicos (Nylon, botellas, plásticos, alumínio)
+que se origen dentro del proceso de la operación de riego serán
+ordenados y almacenados en reciplentes (costales) para su traslado a
 finca.
 
-7. CAPACITACION
+7. CAPACITACIÓN
 
-74
+71
 
-Constancia de
-capacitacién
+Constanda — de
+capacitación
 
-EI operador de la motobomba deberd presentar su constancla de
-capacitacién de riego, que consistiré en una tarjeta con el resumen de
+El operador de la motobomba deberó presentar su constancia de
+capacitación de riego, que consistirá en una tarjeta con el resumen de
 responsabilidades.
 
 i
-#
+U
 
 i
 
@@ -364,13 +364,13 @@ i
 
 No hay.
 
-7. MATRIZ PLAN
-‘No aplica.
+7. MATRIZPLAN
+No aplica.
 
 8. CONTINGENCIAS
 No hay.
 
 9. ANEXOS
-No hay.
+'No hay.
 
-(©2023 comeatla Ancol aus arta Aa, SA Este docieni no unde ser erode trad
+( 202 Comadía Acl iiil Sr a,. Es dcumenio o puede r reroducióo l aeno

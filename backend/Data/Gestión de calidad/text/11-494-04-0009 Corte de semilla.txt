@@ -1,202 +1,202 @@
 INSTRUCTIVO
 Corte de semilla
-SANTANA
+ELTET
 
-Departamento de Gestién de Calidad Proceso Agricola
+Departamento de Gestión de Caldad Proceto Agrcola
 
-(Codigo: 11-494-04.0008
+Código: 11-494-040009
 
 Fecha: 31 de octubre 2023
 
-rsién: 2
+rsión:2
 
 CONTENIDO
 
-4 OBJETIVO Y ALCANCE.
+1. OBJETIVO Y ALCANCE.
 
-2, DOCUMENTOS ¥ REGISTROS QUE APLICAN..
-3. NORMAS....
+2. DOCUMENTOS Y REGISTROS QUE APLICAN...
+. NORMAS....
 
-4, DESCRIPCION DE PROCESO.
-5. DIAGRAMA DE FLUIO
+. DESCRIPCIÓN DE PROCESO.
+5. DIAGRAMA DE FLUJO.
 
-6, MATRIZ PLAN ncn
-T.CONTINGENCIAS nn :
-‘8. ANEXOS.
+6. MATRIZ PLAN .rc
+7 CONTINGENCIAS ea "
+8 ANEXOS.
 
-TaORS
-d
-eer de Caldas hela | ee Depatarrt asin dea aliad
-Process Aras
-Dapatamers de Gustin de a Cada
+ELeoRÓ —
+¿
+Coondrador d Cn Agcl — | ee Deprtamento En de la Cl
+oc rc
+Depatameno de Gestón del Caiad
 
-eRe
+Es
 
-f7 £)
+E2
 
-Cate es
+Gn des
 
-Fea:
+Fec
 
-b3/nfr0r3
+13/2/20:3
 
-=a
+'
 
-(©2023, Comsat Aclaindusil Sra Ana, SA Este document no puede ser eres tera
-INSTRUCTIVO Cédigo: 12-494-04-0008
+( 2023 Campaña Acl Indusil Snt ra, 5. Ete dcuento o puede r reroducin i aerdo
+INSTRUCTIVO Código: 11-494-04-0009
 Corte de semilla Fecha: 31 de octubre 2023
-SANTAANA | Devartamento de Gestion de Calidad Proceso Aaricola | Yoragna |
+SANTAANA | - Departamento de Gestión de Calidad Proceso Agrícola — [ varugn: 7 |
 
-Versi: 2
+Versión: 2
 
 1. OBJETIVO Y ALCANCE.
 
-Determinar la buena ejecucién de la labor con el fin de garantzar los requisitos establecidos de
-produccién. As{ mismo la mejora a los procesos de manejo integral de cultvo de cafia de atcar.
+Determinar la buena ejecución de la labor con el fin de garantzar los requistos establecidos de
+producción. Así mismo la mejoraa los procesos de manejo Integral del cultvo de cafía de azúcar
 
 2. DOCUMENTOS Y REGISTROS QUE APLICAN.
-Espacifcacin de 03-965-05-0006 Parimetro Carte de Semi
+Especifcación de 03-965-05-0006 Parámetro Corte de Semi
 
-3. NORMAS.
+3.NORMAS.
 
-vo3
+vos
 
-El jefe del departamento de gestién de la calidad procesos agricaas, analsta de procesos de
-auaitorias, coordinador de procesos y el auditor de calidad agricola son los responsables del
+El jefe del departamento de gestión de la calidad procesos agrícolas, analsta de procesos de
+auditoría, coordinador de procesos y el auditor de calidad agrícoa son los responsables del
 
-Ccumplimiento de este instructiv.
+cumplimiento de este Instructivo.
 
-4, DESCRIPCION DE PROCESO.
+4. DESCRIPCIÓN DE PROCESO.
 
-1 | Programacion de labores.
+17 | Programación de labores.
 
-‘Cada mayordomo y/o caporal debe informar en los Grupos de Gestion
-de calidad de cada regin el programa de trabajo a seguir con ls labores
-2 ejecutar el dia siguiente, a ms tardar alas 19:00 h del dia anterior.
+“Cada mayordomo y/o caporal debe informar en los Grupos de Gestión
+de calidad de cada rgión el programa de trabajo a seguir con as labores
+2 ejecutar el díasiguiente, a más tardar a las 19:00 hr del día anterior
 
-2 | Wentificacion de ubicacién
-de a labor.
+2— | identificación de ubicación
+delalabor.
 
-El auditor de calidad agricola debera identifica por finca,lote y division
-on la ayuda de la aplicaci6n mévil Avenza maps, en la cual se estaré
-s*jecutando El corte de seria
+El auditr de calidad agricola deberé identificar por finca,lote y dvisión
+con la ayuda de la aplicación móvil Avenza maps, en la cual se estaá
+ejecutando El corte de semila.
 
-‘3 | Comunicacin con Finca
+3| Comunicación con Finca
 
-El auditor de calidad agricola deberd comunicar al grupo de Gestion de
-Calidad antes de comenzar a realizar la auditora con el fin de que los
-istintos encargados den acompafiamiento Previo, Durante y Post
-auditor, Posterior ala notificaién los responsables de la ejecucién de
-la labor no se hacen presente, el auditor deberé proceder con la
-aucitora
+El auditor de calidad agricola deberá comunicar al grupo de Gestión de
+Calidad antes de comenzar a realzar la auditoría con el fin de que los
+distintos encargados den acompañamiento Previo, Durante y Post
+auditoria.Posterior a la notificación os responsables de la ejecución de
+la labor no se hacen presente, el auditor deberá proceder con la
+auditoria,
 
-2 | Distibucibn de muestras
+4 | Disribución de muestras
 
-——
+CU [ e
 
-El auditor deberd ubicarse en el drea a cortar, seleccionar 10 paquetes
-de semila de forma al azar y considera lo siguiente:
-‘+ Numero de cortaderes de semilla
-(© Siel nimero de cortadores es menor aS se procederd a
+El auditor deberá ubicarse en el área a cortar, seleccionar 10 paquetes
+de semila de forma al azar y considerar lo siguiente:
+* - Numero de cortaderes de semilla
+9 Siel número de cortadores es menoraa 5 s procederá a
 
-auditor deberdsolcitar al encargado ls sgulentes datos:
-‘+ Numero de cortadres programados.
+Elauditor deberá solicitar al encargado os sguientes datos:
++ - Numero de cortadores programados.
 Variedad
-Edad de semillero.
-Realiza orden de envi.
-% purera varietal.
-Informacion complementaria para dar inicio ala avditora,
+Edad de semiller.
+Realiza orden de envió.
+% pureza varetal.
+Información complementaria paradar nicio a la auditoria.
 
-© | Orden de envio
+6— Ordende envi
 
-Verifcar que todos los espacios de llenado estén debidamente |
-completados, marcados con lapicero, al no presentar el requisito el
-auditor deberé generar un hallazgo al respect.
+Verificar que todos los espacios de llenado estén debidamente |
+completados, marcados con lapicero, al no presentar el requisto el
+auditor deberá generar n hallazgo al respecto
 
-(©2023. Comcat Ascii Sara Ana. SA. Ete document no ouade ser rosa tage
+( 202.Coeaña Acl Idueíal Snta Ana. 5A Ete dciment o muede sr roroducio i aurado
 
-INSTRUCTIVO Codigo: 11-498-04-0009
+INSTRUCTIVO Código: 11-494-04-0009
 
 Corte de semilla Fecha: 31 de octubre 2023
-Departamento de Gestin de Calidad Proceso Agricola | Versions g
-7] Variables a medir ETauditor deberd vercar las siguientes var 7
+Departamento de Gestón de Calidad Proceso Agricola — [ eraign: y
+7| variablesa medir El audtr debers veriicar ls siguientes vara !
 
-"© Cuenta con agua y som
-‘+ Desinfeccién de machete.
++ - Cuentaconagua y sombr
++ Desinfección de machete.
 
-‘7A | Desinfeccién de machete. | El auditor deberd identifiar que el recipiente con desinfectante
-contenga un contenido de 2 de vanodine
+7.1 | Desinfección de machete. — El auditor deberé ¡dentificar que el recipiente con desinfectante
+contenga un contenido de 2 % de vanodine.
 
-@ _| Aspectos a evaluar en} Elauditor deberd cuantifcar lo siguiente:
+8 | Aspectos a evaluar en | €l audior deberá cuantficr lo siguiente:
 
-paquetes de semilla ‘+ Esquejeso Toletes por paquete.
+paquetes de semilla + - Esquejes o Tolees por paquete
 
-{% de esquejes dafados por barrenador.
+% de esquejes dañados por barrenador.
 
-Viablidad de la semis,
+Viablidad de la semilia.
 
-Longitud de esqueies.
+Longitud de esquejes.
 
-Altura de Tocon,
+Altura de Tocon.
 
-Amarre doble cogolo,
+Amarre doble cogollo
 
-+ _Distribucién de la agarrada
++ _ Distrbución de l agarrada.
 
-‘BA_| Esquejes 0 Toletes por | Elaudltor deberd cuantifiearel numero de Esque)es oToletes contenidos
+81 |Esquejes o Toletes por | El uditor deberá cuantificar el numero de Esquejes 0 Toletes contenidos
 
-paguete ‘en cada paqueteyverficarlacantidad estableiés seg tipo de corte.
-| de esauejes dafados por [El auditor debers cuanticar y evidenciar el numero de Esquejes ©
-barrenador. Toletes dafiados por barrenador contenidos en cada paguete
-30 | Viebilded dea semila. [El auditor debera cvanticar el total de yemas con las siguientes
-caracterstieasy datos
+paquete en cada paquete y verificar a cantdad esablciós según tipo de cote.
+91 % de esquejes dañados por | El audtr deberá cuantifcr y evidenciar el número de Esquejes o
+barrenador. Toletes dañados porbarrenador contnidos en cada paquete
+30| Viabildad de la semila. — [ El auditor deberá cuanticar el total de yemas con las siguentes
+caracterísicas y daños:
 
-+ Viabes.
++ Viables
 
-+ Dato mecénico.
+« - Daño mecánico.
 
-+ Daf por roedor.
++ - Daño porroedor.
 
-+ Dato por barrenséor
+« - Daño por barrenador
 
-+ Estimuladss.
++ - Estimulados.
 
-% Viabilidad de semilla ZYemas viables 100
+% Viabilidad de semilla Evemas viables 100
 
-‘Yemas Totales ”
-Ti | Longitud de esquejes | El auditor deberd medir Ta Tongitud de cada esqueje de cada paquete
+Yemas Totales "
+11 | Longitud de esquejes —| El audtor deberá medir la Tongitud de cada esqueje de cada paquete
 
-utilizando la siguiente formula para calcular el % de esquejes o toletes
-dentro del parémetros permitidos:
+utilizando l siguiente formula para calcularel % de esquejes 0 toletes
+dentro del parámetros permitidos:
 
-INo.< Esquejes
-ongitud = 2X2-< Esaueles
-% <Longitud No. Esquejes 0
+ENo.< Esquejes
+ongitud = 2N0-<Esquejes, a
+% <Longitua No. Esquejes 0
 
-_INo.> Esquejes
-96> Longitud = Spas” 100
+_ ENo.> Esquejes
+% > Longitud = ejos * 100
 
 % Longitud = % > Longitud + % < Longitud
 
-(©2023, Comatia Aalst Santa Aa. SA Este documents no ade steered sero.
-INSTRUCTIVO Céaligo: 23-494-08-0009
-Corte de sania Fecha: 21 de octubre 2023
+( 2023 Comeañia Ancl InusílSata Ana. 5A Extedocureno n uedevrrereducio r anrado.
+INSTRUCTIVO Césigo: 11-494-04.0009
+Corta dasamila Fecha: 31 de octubre 2023
 
-Departamento de Gestion de Calidad Proceso Agricola | yeraganp
+Departamento de Gestión de ClidadProceso Arícola — [varigo 7
 
-12 | Altura de Tocon Wate eron en el mim puro al wera el paquets |
-semi
-B a semila dentro del paquete beberd estar alineada al eurco y las
+12 Altura de Tocon. Ae el ec nl mimo puno n al le el el pquee de
+semilo.
+5 La semilla dentro del paquete Peberd estar alíneada al surco y ss
 
-agarradas estén terminadas al momento de extraet la semilla del campo
-tevitando que et transporte pisotee el cultivo y posea acceso a toda ia
+agarradas están terminadas al momento de extraer la semilla del campo
+evitando que el transporte pisotee el cultvo y posea acceso a toda la
 semila,
 
-5. DIAGRAMA DE FLUJO.
+5. DIAGRAMA DE FLUJO
 No hay.
 
 6. MATRIZ PLAN
-No aplica
+No aplica.
 
 7. CONTINGENCIAS
 No hay.
@@ -204,6 +204,6 @@ No hay.
 8. ANEXOS
 No hay.
 
-bia en estructura y re:
+bla en estructura y red
 
-(©2023, Comsat Aricls insu Sart Ana, SA Ete docimanlo no ouede ar oreo teeta
+( 2023 Camgafa Acl Indueti Sr Aa. 5. Este ocumento n uede r moroducio l aerado

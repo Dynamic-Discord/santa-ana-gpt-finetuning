@@ -1,198 +1,195 @@
-INSTRUCTIVO Ces: ti-t9t-04-0007
-Labor de Esearificade Fecha: 31 de octubre 2023,
+INSTRUCTIVO de 114005007
+Labor de Escarficado Fecha: 31 de octubre 2023
 
-Departamento de Gestion de Calidad Proceso Agricola
+Departamento de Gestión de Calidad Proceso Agricola
 
 CONTENIDO
 1. OBJETIVO Y ALCANCE.
 
-2. DOCUMENTOS ¥ REGISTROS QUE APLICAN,
-3. DEFINICIONES.
-
-2.1 Profundimetro:
-
-2.3 Labor.
-
-24 cepa:
-4. NORMAS. o
-5. DESCRIPCION DE PROCESO...
+2. DOCUMENTOS Y REGISTROS QUE APLICAN,
+3, DEFINICIONES. ...
+21 Profundimetro:
+23 Labor
+24 copa:
+4.NORMAS. .
+5. DESCRIPCIÓN DE PROCESO...
 6. DIAGRAMA DE FLUJO
-7.MATRIZ PLAN...
-8, CONTINGENCIS.
-9. ANEXOS
+7.MATRZ PLAN..
+8. CONTINGENCIAS.
+9.ANEYOS .
 
-"086
+o
 
-biti
-wr
+—
+Yh
 
-scone
-row 13 frovs
+mc d
+l M
 
-(©2023, Compute Aart Intl Sata An, S.A. Exe documenta no ade sar epraducid n strd.
+O 2023 ol Aoteca nsrl Sa An. .A Exte doumano n pedoverrpoducido n atrado
 
 |
-INsTRUCTIVO Cédigo: 11-494-04.0017
+INSTRUCTIVO Código: 11-494-04-0017
 
-Labor de Escarficado Fecha: 31 de octubre 2023
-Departamento de Gestin de Calidad Proceso Agricola
+Labor de Escarificado Fecha: 31 de octubre 2023
+Departamento de Gestión de Calidad Proceso Agrícola
 
-Versién:2 | pagina: 2de4
+Versión:2 | Página:2 de 4
 
 1. OBJETIVO Y ALCANCE.
-Determinar la calidad de operacin en la labor de Escarificado con el fin de establecer los controles
-‘necesarios para el cumplimiento de buenas prcticasagrcolas y para elcumplimiento con los inicadores
-Y variables establecidos. Asi mismo la mejora a los procesos de manejo integral del cultvo de cafia de
-azicar. Esta aucitoria seré aplicable a todas las labores de escarificado realizadas en fincas bajo
-administracin de Ingenio Santa Ana,
+Determinar la calidad de operación en la labor de Escarificado con el fin de establecer los controles
+necesarios para el cumplimiento de buenas práctics agrcolas y para el cumplimiento con os Indicadores
+y variables establecidos. Así mismo la mejora  los procesos de manejo integral del cultvo de caña de
+azúcer. Esta auditoria será aplicable a todas las labores de escaríicado realizadas en fincas bajo
+administración de Ingenio Santa Ana.
 
 2. DOCUMENTOS Y REGISTROS QUE APLICAN.
-Especificacin Escarificado VO3 Cod, 03-965-05-0009
+Especifcación Escarificado VOS Cod. 03-965-05-0009
 
-3. DEFINICIONES.
-2.4 Profundimetro:
-Herramienta de medicién de cuerpo metalico en forma de T con medidas expresadas en centimetros
-para mediciones de profundidad en el suelo.
-23 Labor:
-Conjunto de actividades, procesos y trabajos de précticasagrcolas ejecutadas en el campo.
+3. DEFINICIONES,
+21 Profundimetro:
+Herramienta de medición de cuerpo metálico en forma de Tcon medidas expresadas en entímetros
+para medicones de profundidad en el uelo.
+23Labor:
+Conjunto de actividades, procesos y trabajos de práctcasagrícolasejecutadas en el campo.
 
-2.4 copa:
-Parte del ronco de un arbol o una planta que esta bajo la tierra y unida a la raz
+24 copa:
+Parte del vonco de un árbol o una planta que está bajo la terra y unida a la raíz.
 
-4, NORMAS.
-El jefe del departamento de gestion de Ia calidad procesos agricolas, analista de procesos de
-‘uditorias, coordinador de procesos y el auditor de calidad agricola son los responsables del
-‘cumplimiento de este instructivo.
+4.NORMAS.
+El jefe del departamento de gestión de la calidad procesos agrícolas, analita de procesos de
+euditorías, coordinador de procesos y el auditor de calidad agrícola son los responsables del
+cumplimiento de este Istructivo.
 
-(©2023, cooatia Anca ndstial Sara Ana. S.A. Ete document no cunde seroma Watered,
-INSTRUCTIVO. Codigo: 11-494-04-0017
-Labor de Escarificado Fecha: 31 de octubre 2023
+( 202.Comoañia Acl Indutial Sr Ana . Et dcumento o puede r rerducio ad
+INSTRUCTIVO Código: 11-494-04-0017
+Labor de Escarificado Fecha: 31 de octubre 2073
 
-Departamento de Gestin
+Departamento de Gestión:
 
-de Calidad Proceso Agricola
+de Calidad Proceso Agrícola
 
-Version:2 | pagina: 3 de J
+Versión:2 | página:3 de s J
 
-5. DESCRIPCION DE PROCESO.
+5. DESCRIPCIÓN DE PROCESO.
 
 1
 
-Programacion de labores.
+Programación de labores
 
-‘Cada mayordomo y/o caporal debe informar en los Grupos de Gestion
-de calidad de cada region e programa de trabajo a seguir con las labores
-2 ejecutar el dia siguiente, a ms tardar alas 19:0 de cada cia,
+Cada mayordomo y/o caporal debe informar en los Grupos de Gestión
+de clidad de cada región el programa de trabajo a seguir con las labores
+2 ejecutar el díasiguente, a mástardar a las 19:00 e cada ca.
 
-Tentificacion de ubicacion
-ela labor.
+dentiiación de ubicación
+delalabor.
 
-El auditor de calidad agricola deberd identificar por finca, lote y dvision |
-con la ayuda de la apicacién mévil Avenza maps, en a cual se estard
-ejecutando la labor de escarificado,
+El auditor de calidad agrícola deberá identificar por finca, lote y división |
+con la ayuda de la aplcación móvil Avenza maps, en la cual se estará
+ejecutando la labor de escarficado.
 
-‘Comunicacion con Finca,
+Comunicación con Finca.
 
-El auaitor de calidad agricola deberd comunicar al grupo de Gestion de
-Calidad antes de comenzar a realizar la auditora con el fin de que los
-dlistintos encargados den acompafiamiento Previo, Durante y Post
-‘audtoria. Posterior ala natificaién los responsables de la ejecucion de
-la labor no se hacen presente, el auditor deberé proveder con la
-autora,
+El auditor de calidad agrícola deberá comunicar l grupo de Gestión de
+Calidad antes de comenzar a rslizar la auditora con el fin de que los
+ditintos encargados den acompañamiento Previo, Durante y Post
+auditori. Posterior a la otiicación os responsables de la ejecución de
+1a labor no se hacen presente, el auditor deberá proceder con la
+auditori.
 
-‘Clasficaiony medicion de variable
+Clsificación y medición de variable
 
-Distribucion de mustras
+Distribución de muestras
 
-El auditor deberd ubicarse al final del drea Taborada © iniia con Tw
-distibucién de 10 puntos al azar sin ingresar al lote con el fin de
-‘determinar el drea muestra de la auditoria,
+El auditor deberá ubicarse al final del área Taborada € inicia con la
+distribución de 10 puntos al azar sin ingresar al lote con el fin de
+determinar el área muestral de la audiroia,
 
-5 [Variables evaluadas | Se Identifia la ubicacién de la maquinaria con el fin de medir las
-lesa la maquinara | siguientes variables:
-‘= Arrangue de Cepas.
-+ _Objetivo de ia labor.
-| Arrangue de Cepas. ETauditor deberéverificar que elimplementovllizado no reaie nngin
-dafio 0 arranque dels cepa, Colocando tres muestas previo al paso del
-Implemento y posterior al paso del implemento con una longitud de 2
-‘metros por coda muestra. Ullzando la siguiente forma:
-no = 2Tallos dafiados
-% Dato = “rallos totales
-5.2 | Objetive de a labor. "Tauditor deberdconsultar con que objetivo se ext relizando esta labor
-los responsables para verificar si se amerita la reaizacin dela labor y
-si su realizacién cumple con el objetivo establecido,
-‘6 | Fjecucién de las muestras. | ET aucitor busca el punto geo referenclado en la aplcacién y medi ar
-siguientes variables:
-‘+ Profundidad
-‘Distancia del centro del surco al cincel
-+ Distancia de cincel al ila de ta cepa,
-61 | Medien de profundidad. | El auditor deberd introduci la herramienta (Profundimeto) de manera
+$ - [Varlables — — evaluadas |Se Identfia la ubicación de la maquinaria con el fin de medr las
+ls a la maquinara | siguentes variables:
+* - Arranque de Cepas
++ _ Objetivo de la labor.
+51| Arranque de Cepas. El uditor deberá verficar que el mplemento utizado o ralie ingún
+daño 0 arranque de la cepa. Colocando tres muestas preio al paso del
+implemento y posterior al paso del implemento con una longitud de 2
+metros por cada muestra. tlizando la siguiente formula:
+s, - ETallos dañados
+%6 DaO = Tallos totales
+52 - Objetivo de la labor: Elauditor deberá consularcon que objetvo se esá realizando estalabor
+3 los responsables para verliar si se amerit a realización de la labor y
+si su realzación cumple con el objetivo establecido.
+6-| Ejecución de las muestras. | El audtor busca el punto geo referenciado en la aplicación y madir as
+siguentes varables
++ - Profundidad
++ - Ditancia del centro del suco al cncel
++ —Distancia del cincel al rilla de la cepa,
+61| Medición de profundidad. —| El auditor deberá inroducir la herramienta (Profundimetro) de manera
 
-| FoRmuLA:
+| FORMULA:
 
-vertical en el punto ya realizado porlarasra con el fn de verfcara que
-‘medida de profundidad en metros se encuentra
+verticalen el punto ya realizado por la rastra con el fin de verfcar a que
+medida de profundidad en metros se encuentra.
 
-(©2023 Comoe Aarcl Intl Sata Ana. S.A. Ete docu n tte sree saad
+O 2022 Comula Acl Indistíl Sata An .A.Etedcunto n ouede srrroducio r aturdo
 INSTRUCTIVO
 Labor de Escarificado Fecha: 31 de octubre 2023
 
-Departamento de Gestién de Calidad Proceso Agricola
+Departamento de Gestión de Calidad Proceso Agrcola
 
-(Codigo: 11-494-04-0017
+Código: 11-494-04-0017
 
-1 Sprofundidades mes
+— Eprofundidades mis
 Profundidad muestras realizadas
 
-62 Distancia del centro del
-surco al cnc
+62 | Distancia del centro del
+surco al cince.
 
-El auditor deberd verfcar en el mismo punto de la medicion de
-rofundidad mediré la distancia que existe entre los cinceles al centro
+El auditor deberá veriicar en el mismo punto de la medición de
+profundidad medirá la distancia que exite entre los cinceles al centro
 del surco,
 
-3 Distancia del cncel @
-orila de a cepa
+63| Distancia del cincel a la
+orilla de a cepa.
 |
 
-1 auditor deberd verfcar en el mismo punto de Ta medicion de
-rofundidad mediré la distancia que existe entre ls cinceles hacia la |
-orlla de a cepa
+El auditor deberá verificar en el mismo punto de la medición de
+profundidad medirá la istancia que existe entre los cinceles hacia la |
+rl de la cepa
 
-7. [Variables evaluadas T
+7 | Variables — evaluadas |
 
-atribuibles a la maquinaria
-implementa estacionado,
+atrbuibles 3 la maquinaria
+e implemento estacionado.
 
-auditor deberdabocarse can el encargado Ge la labor w opevadar para
-‘cabal informactn pertinent yvaldacién de variables a evalar
-‘Numero de cincees por mesa. |
-1+ Estado del implement
-+ Mantenimiento del equipo.
-+ _potenca del tractor.
+El auditor deberdabocarsecon el encargado de a labor u operador para
+recabar l informacón pertinente y valiacón e vaiables a evaluar,
++ - Numero de cincelespor mesa. |
++ - Estado del mplemento
++ - Mantenimiento del equipo.
++ _Potenca del ractor.
 
-7a [Numero de cinceles por
+71 |Numero de cinceles por
 
-Crauditor deberd cuantifcar eindmero de cinceles por cada mesa
+Elauditor deberá cuantficar el número de cinceles por cado mesa.
 
-72__| Estado del implemento
+72 | Estado del implemento
 
-ET auditor deberd evaluar de forma visual el correcto estado del
-Implemento utiizado en la labor con los siguientes aspectos a evaluar:
-‘Estado de cinceles.
-© chasis:
-‘© Enganches.
-+ _Calbracién del implemento. |
+El auditor deberá evaluar de forma visual el correcto estado del
+Implemento utiizdo en la labor con lossiguientesaspectos a evaluar:
+* - Estado de cinceles.
++ Chas
++ Enganches,
+« _ Calbración del implemento. |
 
 73 | Mantenimiento del equipo
 
-ETauditor deberd evaluar de forma visual los siguientes aspectos:
-+ Fugas en el sistema hidréulico,
-+ Estado de a bara de tro.
-‘+ Brazos hidrdulicos,
-Fecha de tltimo servicio,
+El auditor deberá evaluar de forma visuallossiguentes aspectos!
+* - Fugas enl sistema hidráuico,
+* - Estado de a barra de tiro.
++ - Brazos hidráulicos.
++ _Fecha de último servicio.
 
-6. DIAGRAMA DE FLUJO.
+6. DIAGRAMA DE FLUJO
 No hay.
 
 7. MATRIZ PLAN
@@ -201,9 +198,9 @@ No aplica.
 8. CONTINGENCIAS
 No hay.
 
-9. ANEXOS,
+9. ANEXOS
 No hay.
 
-docum:
+ docume
 
-(© 2023, Comesta Arc nds arta Ana. A. Ete cum no cued ser etoduce ata
+( 202.Comesfía Acl Indutial an Ana . Et dcument o ur er reroducóo l m

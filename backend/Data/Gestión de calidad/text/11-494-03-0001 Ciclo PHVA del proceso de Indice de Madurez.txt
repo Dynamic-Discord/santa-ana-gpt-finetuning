@@ -1,611 +1,609 @@
-PROCEDIMIENTO Chto: 31-494-03-0001
-Ciclo PHVA del proceso de indice de madurez | ''#: 07 dejuio 2023
+PROCEDIMIENTO ódigo: 188020001
+Cielo PHVA del proceso de Índice de madurez | *** 7 dejuli 2023
 
-Planificacién estratégica de los procesos
-Departamento de Gestidn de Calidad Proceso Agricola | Versiéna | Pégina 1 de 15
+Planificación estratégica de los procesos
+Departamento de Gestión d Calidad Proceso Agrícola — | Versión1 | Página 1 de 15
 
 CONTENIDO
-1. OBJETIVO ALCANCE...
+1. OBIETIVO Y ALCANCE..
 
-2. DOCUMENTOS DE REFERENCIA Y REGISTROS QUE APLICAN
-3. DEFINICIONES
-3.1. INDICE DE MADUREZ.
-32. CICLOPHVA.
-3.3. PROGRAMACION DIARIA
-3.4, SUPERVISION...
-3.5. _EVALUADOR DE CALIDAD DE PROCESO AGRICOLA...
-3.6. COORDINADOR DE CALIDAD,
-3.7. COORDINADOR DE PROCESOS...
-3.8. CLIENTE INTERNO,
-4. NORMAS so vo
-4. _ RESPONSABLES DE LA APLICACION DE ESTE PROCEDIMIENTO.... — .
-4.2, _ PARAMETROS PARA REALIZAR MUESTREO DE INDICE DE MADUREZ PREVIO A LA APLICACION DE
+2 DOCUMENTOS DE REFERENCIA Y REGISTROS QUE APLICAN
+3 DEFINICIONES
+31 INDICEDEMADUREZ
+32 CICOPHVA.
+33. - PROGRAMACIÓN OIARIA.
+24. SUPERVISIÓN...
+25. - EVALUADOR DE CALIDAD DE PROCESO AGRÍCOLA ..
+36.  COORDINADOR DE CALIDAD.
+37.  COORDINADOR DE PROCESOS ...
+38 CUENTE INTERNO.
+4. NORMAS c =
+41. - RESPONSABLES DE LA APLICACIÓN DE ESTE PROCEDIMIENTO ... — ..
+42. - PARÁMETROS PARA REALIZAR MUESTREO DE ÍNDICE DE MADUREZ PREVIO A LA APLICACIÓN DE
 
-43. _PARAMETROS PARA REALIZAR MUESTREO DE INDICE OE MADUREZ PREVIO ALA COSECHA soso 2
-DESCRIPCION DEL PROCESO... sd
-DIAGRAMA DE FLUO... 7
+43. . PARÁMETROS PARA REALIZAR MUESTREO DE ÍNDICE DE MADUREZ PREVIO ALA COSECHA.e3
+DESCRIPCIÓN DEL PROCESO ... _
+DIAGRAMA DE FLUJO... 1
 
-~ 15
+- 15
 
-CCONTINGENCIAS
+CONTINGENCIAS
 ANEXOS.
 
 5.
-6
-7. MATRIZPLAN
-8.
+É
+7 MATRZPLAN
+3.
 9.
 
-“aPRo8S
+APRODÓ
 
-\nth
+Vl
 
-fe Depart de Gast ds
-‘Cale Process Arias
+ee Deprtaent e Gn de la
+(al Proceos Ayc
 
-Geet rn Gest. Eakod
-BS 13/hfre3
+ur en G e Cd
+7777
 
-‘© 2023, Compafia Aico inal Santa Ana SA, Revered Tod ls Derecho.
-Planificacién estratégica de los procesos
+( 2023,Compañí Agcl d nta An .- MesevadosTode ls Dercha.
+Planificación estratégica de los procesos
 
-Departamento de Gestion de Calidad Proceso Agricola
+Departamento de Gestión e Calidad Proceso Agrícla
 
-PROCEDIMIENTO. Cédigo: 11-494-03-0001
-Y Ciclo PHVA del proceso de indice de madurez | Fecha: 07 de julio 2023
-SANTAANA Versiéna | Pégina2de 15
+PROCEDIMIENTO Código: 11-494-03-0001
+º Ciclo PHVA del proceso de Índice de madurez | Fecha: 07 de julio 2073
+SANTA AA Versión2 | Página2 de 15
 
-‘OBJETIVO Y ALCANCE
-Describir los lineamientos para la planificacin y verficacién de acciones a tomar en el proceso
+OBJETIVO Y ALCANCE
+Describir ls lineamientos para la planificación y verficación de acciones a tomar en el proceso
 
-de muestreos de Indice de madurez que permitan recabar, documentar, y estandarizar la
-Informacién con el fin de evaluar de manera objetiva y precisa garantizando asi la calidad y
-Veracidad de los datos proporcionados. Este instructivo es aplicable para todas las mediciones
+de muestreos de Índice de madurez que permitan recabar, documentar, y estandarizar la
+Información con el in de evaluar de manera objetiva y precisa garantizando así la calidad y
+veracidad de los datos proporcionados. Este Instructivo es aplicable para todas las mediciones
 
-del departamento de Gestién de la Calidad Procesos Agricolas.
+del departamento de Gestión de a Calidad Procesos Agrícolas
 
-DOCUMENTOS DE REFERENCIA Y REGISTROS QUE APLICAN,
-Registro“Boleta Pre-Madurante Gestin dela Calidad Proceso Agricola’, Codigo: 11-494-08-0024.
+DOCUMENTOS DE REFERENCIA Y REGISTROS QUE APLICAN
+Regístro“Boleta Pre-Madurante Gestión d la Calidad Proceso Agricola”, Código:11-494-08-0024.
 
-Registro “Boleta Pre-Cosecha Gestién de la Calidad Proceso Agricola’, Cédigo: 11-494-08-002
-Procedimiento Administraciin de documentos yregistros Cig: 11-493-03-0001
+Registro “Boleta Pre-Cosecha Gestión de la Calidad Proceso Agricola”, Código: 11-491-08-002,
+Procedimiento Administracón de documentos y regstros Código: 11-493-03-0001
 
-DEFINICIONES,
+DEFINICIONES
 
-3.1. indice de madurez
-Se reiere al modelo muestra para determinar el estado de madurez dela cafa de azUcar previo ale
+3. Índice de madurez
+Se rfiere al modelo muestrl para determinar el estado de madurez de la caña de azúcar prvio la
 
-aplicacion de madurantes 0 previ a lacosecha,
+aplicación de madurantes o previo a la cosecha.
 
-3.2. Ciclo PHVA
-Elciclo PHVA es un modelo de gestién utilzado para el mejoramiento continuo de los procesos en una
+32. CidoPHVA
+Elciclo PHVA es un modelo de gestión tiizado para el mejoramiento continuo de los procesos en una
 
-organizacién,
+organización.
 
-3.3. Programacién diaria
-Documento escrito en el cual se establecen y asignan ls diferentes actividades a eecutar en conjunto
-«ona informacién defincay lote a evaluar con elfin de que et evaluadorconozca sus tareasaejecutar
-durante et ia,
+33. Programación diaria
+Documento escrito en l cual se establecen y asignan ls diferentes actvidades a ejecutar en conjunto
+<ontainfrmación de finca y lote a evaluar con el f e que el evaluador conozca sus treas a ejecutar
+durante el día.
 
-3.4, Supervisi6n
-Se refiere al proceso mediante el cval el lider del proceso y/o los caordinadores de calidad con el fn de
+344. Supervisión
+Se refiere al proceso mediante el cul el íder del procesoy/o as coordinadores de calidad con el fin de
 
-corroborarl calidad dela labor realizada por parte del evaluador de proceso agricola,
+corroborar a alidad de la labor ralizada por parte del evaluador de proceso agríola.
 
-(© 2023, compatia Agcla indus sata Ana S.A, Reserved Todos los Derechos
-PROCEDIMIENTO Céigo:11-454-03-0001
-Ciclo PHVA del proceso de indice de madurez | Feche: 07 de julio 2023
+(5 2023 Compaña Aprcl IndustialSantaAne S, Rservidos Todos lo Derechos
+PROCEDIMIENTO Cósigo: 11-494-03-001
+Cielo PHVA del proceso de Índice de madurez | Fecha: 07 de julío 2023
 
-Planificacién estratégica de los procesos Pagina 3de s]
+Planificación estratégica de los procesos Página3 de ,5J
 
-Departamento de Gestién de Calidad Proceso Agricola | Version
+Departamento de Gestión de Calidad Proceso Agricla — | Versión1
 
-3.5. Evaluador de
+35. Evaluador de
 
-id de proceso agricola
-Colaborador responsable de realizar el muestreo de indice de madurez en campo.
+«el de proceso agrícola
+Colaborador responsable de reallar el muestreo de ínice de madurez en campo.
 
-3.6. Coordinador de calidad
-Se efiere al colaborador cuyas funciones son atribuibles a organiza, planiary dar seguimiento alas
-actividades del proceso, as como también ese responsable directo de velar por la calidad y veracidad
-‘de las labores yl informacin de ios muestreos.
+36. Coordinador de calidad
+Se refiere al colaboradorcuyas funcones son atribubles a organizar,plnificar y dar seguimiento a las
+acividades del proceso, as omo también es el responsable vecto de velar por a caldad y vercidad
+de ls labores y l información de los muesteos.
 
-3.7. Coordinador de procesos
-Hace referencia a lider y encargado del proceso el cual es el principal responsable del cumplimiento
-de las metas e indicadores del proceso.
+3.7.. Coordinador de procesos
+Mace referencia al líder y encargado del proceso el cul es el principalresponsable del cumplimiento
+de las metas e indicadores del proceso,
 
-3.8. Cliente interno
-Se reflee a las partes interesadas que reciben los entregables por parte de Gestién de la calidad
-roporcionando atencién a los indicadores de madurez dela cafa de azar.
+3.8. Cliente nterno
+Se refiere a las partes ¡teresadas que reciben los entregables por parte de Gestión de la calidad
+proporcionando atención a los Indicadores de madurez de la caña de azúcar
 
 NORMAS
 
-4.1, Responsables de la aplicacién de este procedimiento
-El jefe del departamento de Gestin de la Calidad Procesos Agricolas, supervisor de muestreos,analsta
-e Procesos de Aucitoria, asistente administratvo, coordinadores de calidad, serdn los responsables del
-cumplimiento de este procedimiento,
+4.1. Responsables de la aplicación de este procedimiento
+El fe del departamento de Gestón de la Calidad Procesos Agricols, supervisor de muestreos,analsta
+de Procesos de Auditoría,asistente administrativo, cordlnadores de clidad, seránlos responsables del
+cumplimiento de este procedimiento.
 
-4.2. Pardmetros para realizar muestreo de indice de madurez previo a la aplicacién de
+42. Parámetros para realizar muestreo de Índice de madurez previo a la aplicación de
 madurantes
 
-41. Lote sin ningtn tipo de maduratvo.
+1.. Lotesin ningún tipo de maduratvo.
 
-2. Cultivo con 45 das sin aplicacin de riego
+2.. Cultvo con a5 dassin aplcación de riego
 
-3. Laplantacién de cafia de anicar deberé tener minimo 10.5 meses de edad
+3.. La lantación de caña de anócar deberá tener mínimo 10.5 meses de edad
 
-4
+E
 
-Contar con 10 dias de anticipacién a programacién de aplicacién de madurante,
-4.3. Pardmetros para realizar muestreo de indice de madurez previo ala cosecha
+Contar con 10 días de anticipación a programación de aplicación de madurante.
+4:3. Parámetros para realizar muestreo de índice de madurez previo a la cosecha
 
-(©2023, compaia Agricola dustrial Sata Ana S.A, Reserved Todos los Derechos.
-Ciclo PHVA del proceso de indice de madurez | Fecha: 07 de julio 2023
+( 2023 Compala Agcl dusrialSataAra 5, Reservados Todos lo erchos.
+Ciclo PHVA del proceso de Índice de madurez | Fecha: 07 de jli 2023
 
-Planificaci6n estratégica de los procesos
-SANTAAM | oevaramento de Gestion de Caed Proceso rarola
+Planificación estratégica de los procesos
+SANAAM | renanament de Gestón de CaadPoces gria
 
-PROCEDIMIENTO Codigo: 11-494-03-0001 ‘|
+PROCEDIMIENTO Código: 11-494-03-0001 j
 
-versién1 | Pagina 4de 25
+Versión 1 | Página a de 15
 
-Lote con més de 45 dias después de aplicado
-Edad minina 10.5 meses
+Lote con más de 45 días después de apicado
+Edad minina 105 meses
 
-Lote en proyeccién de cosecha de acuerdo a su prioridad
+Lote en proyección de cosecha de acuerdo a su pioridad
 
-Lote sin condiciones de anegamiento o aplicacién reciente de rego.
+Lote sin condiciones de anegamiento o aplcación eciente de riego.
 
-© 2023, compa Arctic Snta Ana. Reserados Todos ls Derechos.
-‘xo 505090 opeAAEY YS EUW RS INP HEAVY ‘E22
+€ 2023 Compaña Agcl Indusrianta An , Reservaos Todos lo Derchos.
+sa o sopo,sopenncy “y euy ee as sy eyc zz a
 
-7 Saqeanpeur
-= op
-| ap sawe sup sy
-Bou op ug
-vn sosaveid ap soansoow | | op
-sopeuypice) vn ap soswuodns 2 | Gouay senjend e aio «
-| ‘anb 12109009 gs0qop
-as aquesnpew-o1d zasnpew
-2p 2o1pu ap soanisenua so 3 |
-“our2qu awuaip op oued
-vw sosanoid 9p um seoyjuea
-sopeuypi0e vm veo
-opezyenire
-seuoupne soansona eypas0> 9p ajuaypued
-ww | spronmont ™ frnnsona | gang |e 9p voonohosd 99 99
-ap esjeuy ° s uojpewioju} e| uoo sorep ap
-seq ee eynsue> 1 seAP}05
-vrremedns | sang oper sgesodsoy
-oss sjgesuodsoy | e.ovansaig a
-‘ns20y onsoy ce Pepianay vais
-osmowd HONORS “Ss
-st 2p seuseg Tuoisen 28 ofa00n4 pepie9 ap uonisag ap owaweredag
-‘Sosa20id so] ap e9/89ye1389 Uo!DeD\}UEId
+T sauempeur
+E u9p
+ey ap saue sejp sp
+an p vg
+v sosma.d p somsamas |y |
+aopeupicos NO ap.ospuadas [ eñuar uenjero e mo] »
+| - aexogooo esagap
+0s aquempeu-asd zampew
+a oipuyap soansanuu soyuz |
+rouuanuranuay p aved
+v sosaosd p oe aey
+vopeupi0o) u ea
+opezyene
+seuonpne ann expasos — ap — aquapued
+w| opiomo v sN ee -| ee ap ual ap p
+p eseuy ? s ugppeuwoju[ e uo sonep ap
+ased e| e exsuo” el zexpos:
+P T uopnata paemodioy
+osundns apgesuocau | - epuamary p
+ansoy p L pennoy vANa
+OSDOUA TIO NODAMDSIO-—“S
+srapseutra TupiaA e2 osaoad Pepleo ap uonsao p avimueniedad
+s0sa20.d soy ap eajfgre.sa u9peayjuejd
 
-£202 Onn ap 20 :e4pag
+zaz oymtap 20 :epas
 
-To00-€0-v6+
+TO00-ED:68
 
-11 :081p09
+1r :08p9o
 
-ze:npewi ap ao1puy ap osaaoud [ap VAHd OPI
-OLN3IWIG300¥d
+23:npew ap aolpuj ap osa>o1d j>p VAHA oPID
+OLNSINIAIJOUd
 
-+4980 0 sap operas "y's eu es MEAP RAY ENON ‘Oe &
+00200 ol sapossopennay “y euy ee elpur jy ed 0z a
 
-sewesBorg
-‘joo8e
+aewesosg
+rejooyñe
 
-jwoBur 9p RoW
-jde ej ua seouy
+tuadur p mq
+yde ey ua sesuy
 
-Wu e Seman) 2p
-revorsiy |2 seynsu0y
+1u e sepinj| p
+1enonsIy [> eynsuo)
 
-“qwouoste
-2p owuawenedap
-[2 woo sopenyde saroy
-2p ugpeWo}L e|
-seprten Addysteym ap
-sodni8 so] ua seyian,
+“epuono e
+p omawenedap
+19 u00 sopeoyjde savor
+p uoDewioju el
+aepyenA ddysieym ap
+sodruf soj ua 1eyuan
 
-‘08a
-2p _pepinne ew
-2] a1qos upeWojut
-fe} seouy  sequnsip
-se} uo) seynsuop
+"ofo
+p peprme eN
+el augos vopeuojur
+ej —seuy — senunsip
+sej - u0) - seynsuo)
 
-‘saquempew ap
-Uuo.aenyde 8} & oynaud
-Sup OF #95 uoPen|eng
+ssajuempewap
+uoneoyde ey e ovad
+sejp or eas uppenjenz
 
-vevenns ns “eos oygesuodsoy Pepinna vane
-osu sou | epuanoaiy
-ensitou onsfou
-(a Tupison stooityoranergpepte> 2p upnsa9 ap owowersedag
-sosavoad so| ap e2/89ye1159 uo}peoy|Ue|g
+s dns m oruesuodiay pePme vi
+cospu sy | epuamasa .
+onsoy onsoy
+[__srenonuna TugsiaA efcy osaoa pepi p ugnsao ap onuauenedag
+sosaD01d soj ap exfiamensa uopeoyjuejd
 
-£202 onnt ap £0 :eyp24
-1O000-£0-66-11 20899
+Ezozommtap ¿0 :eupa4
+1000-E0-160-LT :0MP90
 
-zaanpeui ap 92!pu) ap osa2011 |p VAHd 01919
-OLN3INIGI0Nd
+23Jnpeu ap a3Ipuj ap osa>o1d [3p VAHd opID
+OLNIINIOIDONd
 
-‘expsin 5090 open "V's uy ELS ENP MOH!DY eed E20
+ua o soos sapenmay ys eu ees eul o ed z a
 
-UTES)
-ep 2ued sod pn
-© pepuoud eas a
+ENEN
+19p aued Jod n
+o pepuoud eas a
 
-sopewesdoud si
+sopewesdord s:
 
-aouejeq ep
-A yempe euewas | ua
-opluayuos asa 210) «
-‘owiaruy 91U9I
-9p ued 40d proyos
-© pepuoud eas a
-pepe ap sasaut
+auejeg - rP
+A jenpe euewos ej u
+opluauo> aa lo] »
+rouanur aua
+1P aued 10d projos
+o pepvopd eas a
+pepa ap sasauw
 
-SOT =< eas alo +
+Ssor =< ea loe
 
-ajuenpew sep
+ayuempeusejp
 
-$50] uo> edwin 930] «
-109 ejduina
-298 101 opundias A sowd 19
-ered anb sexoqoss09 paqap
-5 eypasoo-aid zaunpew
-‘9p 22)puy ap soasnsanu so} U3
+5P sojuo> epdunsajoy +
+:u09 ejduno
+25 opiar opundos A Jauipd |
+esed anb uezogozos pagap
+25 epasooaid - zampew
+aP a21puy ap soa.isanu so) uy
 
-‘oansanw
-‘9p oda A sensonus
-2P_O.0WNU ‘UoIStAIp
+'0ansamu
+p oda A sensanu
+ap_ozwnu _UgN
 
-uoysiuadng.
-onsiday
+ugispuados
+onsñay
 
-sosmuadns
+aospuzdas
 
-onsitou
+onsiñay
 
-upponfa
+vopmafa
 
-ajaesuodsoy
+ajgesuodsay
 
-epuanaig
+epuamay
 
-Pepanoy
+pePInnOY
 
-| St 9p euiteg Tuossen,
+f srap z euea TU9SIZA
 
-£202 oun ap Lo sey
-1000-£0-6P-TT :08P99
+ECoz oynfap ¿O :expos
+T000-E0-160-TT POO
 
-‘e40218y ose2014 peple> ap uoNsa5 ap owaweyedag
+lay osabos pepieo apugnsas ap oviauwenedag
 
-zaunpeui op a21puy ap osaroud [ap YAH
-OLN3IWIGaI0Nd
+zaunpeu ap anipuy ap osazoud ¡ap VAHd
+OLNSINIOIIONd
 
-oxp3i0 30 39901 sopeNAE YS EUW HUES NHL MERAY SHENOY ‘oe
+*d 30 soo1 Spacy *y eu en eampu ey ed 0r a
 
-ToRa
-epes ap % ua eaip
-Jenjena esopes
--sovep
-sosao0id 9p soansonu saquamniis so] uo> evan
-w ode ap se se z
-m Jopeuips00y " penned ap soswuadns saad edew epes ‘sopepuasajas
-a8 awuowepiqep _sedew
-$0) se8ue3s9p esaqap dpw ppd
-2p ewoqwensy | ap epnhe|
-Uuoo_ugad 0 sopenjend 43
-“sopesanjon oj
-2p oun epes e sease) seudise
-sosavaid ap soansonu xed seppaigeisa sesuarya
-vw sopeupiooy | °MEP9PSEICT | ar rosmadng| UEKI se] e apuanse uopnqinsip
-kun seioualguaqap
-| soansonus ap soswvadns 13
-‘9509 ap js0Ua8
-aouejeq. lap s0Hars0d
-A yemse euewas e| ua
-| ‘opiuaquos aise aye |
-‘uprsmuedns upponoels
-sospuodns sygesuodsoy | _epuanoais Pepin van
-onsiioy onsoy ‘
-sosazosd so] ap e01893e1959 UOIeDIUELY
-"1000 €0-r6r-FE:081P09 OLN3IWIGII0Nd
+E
+epeo ap oy uD eay
+aenjena e Jopos —
+“somp
+sosmand p soansanu sauams soj uc euaro
+ví de p saj ee p
+xz Jopeupuoo9 “ » — ap.osuadns ad edew epeo “sopepuasajas
+0a8 anauwepiqop — sedew
+s| emuensap g.agap dpu ¡pd
+p enapueniy el ap eprñe |y
+uo> _ upad_o_sopenjena _y
+“sopesanjonuy sol
+ap oun epes e seauey ueuise
+sosmasdap soansanu eued seppojgensa sepuanya
+N aopeupioos | — Ae sEO | n oguadns| - *EO sej e apiame ugpngnsIp
+eun — uemuad — pagap
+| soansanur ap_ospuados 3
+“pasos ap jesuad
+anuejeg”1ap — oliansod
+A jemoe eueuwos ey a
+| opuawo> aa m e —|
+ugIsmuadns uppmafa
+cospuedos aygesuodsay | epuamasy perNDY vN
+ny onsiy "
+sosa01d soj ap eo1991e.5a uopesyuejd
+1000 £0 671 280 OLNaINIOIDOUd
 
-“sxpnia 550701 sopenosay “ys euy ees ENP ROAIY AMEND zoe @
+“O s £pol Spa “ eu ejes en eV ed zaz
 
-se12}09 4
-ugpoadsu da
+serajog a
+ugpadsu dl
 
-sosaveud ap
+sosaod ap
 
-odtue> ap sera
-sopep1009 » FEMI
+oeo p sevap
+a0peupp0o) p
 
-epuosiuadns | UO
+apsosimadas | -- *E
 
-+0)
+so)
 
-a
-245
+el
+2q
 
-Jeawiaq esopezan
-50} 9p sorsas
+eaq e sopeain
+soj ap sorsaz
 
-ap UOPIpAU!e} U3 ueWDarap
+1ap uonipau el uz eparap
 
-uepand as anb soyep.
+uepand as — onb - soyep
 
-sod So} ap pe
-eun saua,
+jasod soj p PE
+eun au
 
-e| 9p sonaw
-p eed sopersoo
+el ap sonaw
+p eued sopersoo
 
-50] ap soouns 50} ap soy so}
-4anow e apasoid ag esisanw
-2] 9p onuap sipaw e saio1se)
+ol ap sonuns sol ap sojjea oj
+19n0u e apao1d as ensanus
+el 3p onuap uipau e saropey
 
-| seWUaUINDOP A seyNda[a
+y aeuanImop A ueymala
 
-Jod ensonur ns ap epezay)
+20d ensanu ns ap epeñaj)
 
-© opusosas j se2sew
-j2P_woad_o sopenjend 13
+e opuosas ¡ Jenew
+1ap_ugad o 1openjena ¡y
 
-enjense ary «|
-eouy ap aiquiou «
-‘oansanu ap owund
+aempenoeanoj » —|
+esuyaparquiou »
+oansanus ap oxund
 
-pe ap uopesynuap! «
+epeo ap uopenynuap; _»
 
-ojsmodns
-onsioy
+uoinadns
+onsiñay
 
-uppmata
+ugpmafa
 
-sosmodns
-onsidou
+sospundas
+onsoa
 
-aigesuodsoy | epuanoars
+algesuodsay | - epuamasy
 
-Pepianay
+PePIARIY
 
-vAHa
+vAna
 
-{ stp 6 euiieg uots0n,
+_ s G ea TuO
+
+_
+
+ezozopmfap 0 :eypas
+T000-€0-V60-TT 1090O
+
+fouudy osano1d pepye ap ugnsao ap oyuaweniedaa
+
+sosa01d soj ap exjapensa
+
+20anpew ap aoipuy ap osa>o1d [9p VAHA opD
+
+OLNSINIGI2ONd
+
+eoyuejd
+
+0121 0 soolsopenesy “y uy ees eal 2y edc 20
+
+ady —| sosmodap
+
+"ospuedos d
+
+soansanuw
+p osmados
+
+¡evewas
+
+seminy sepnpap
+ugpnosas esed uoneuwnoju,
+el ap 095 oyaNeua>euje
+p sejadues .
+95 A euapio as opo; “odueo
+ap senojog sej ap sonsidas
+soj_epien9 _ zopenjeno —y
+
+ugneIo A »
+“ojans
+ua pepauny ap % »
+uq sopeií
+empar—ap — ewo) »
+soyep ap oauoo
+sojeyap ugnoajas
+ugpejgod apozquo) »
+¡pmiBuojap uopIpa »
+quogtu
+09 sexuew) ensanur
+p uopesynuapr
+
+be enl Jospuadns 19
+s sa
+
+epuamary
+
+pepInoy
+
+ANE
+
+staporeuea TU9SIDA
+
+ezozomfap 0 :ewpas
+T000-£0-060-TT PGO
+
+eoj osanosd pepyeo apupasas ap oyuauezuedag
+sosa>0.d soj ap eo1Sa1ensa u9 peyjuejd
+zaunpew ap ao1puy ap osadoud [ap VAHd oPID
+OLNSINIOI90Nd
+
+spalag 0 spo1sopenray “y eu enes lampul ey vunduo> zaz y
+
+Seña e
+eye>
+el ap osapepannajuz »
+
+SODZVTIVH
+
+" sosao.dop sonnsan " UoPerES »
+v sorep p se ee as
+aopeupioos PPO| Pprosuads " SINOLI 2N DD
+“odweo ua soansanu soj
+uejrsafo s anb ej o peple>
+r ap ugpeuoju
+onnalgo o uD> 0ysa
+espuew ap asopugán
+odue> — ap — jeuos
+I2p ugrnaafa ap sauopoadsuy
+uezeas as - odue> - ua
+- |
+upipuadas ugomala
+aospusdns aygesvodiay | - epuemarg pepmDY vana
+onstoy onsñoy _
+_ sT p rr eufñed TugIsIDA eloaLidy osanoud pepye> ap ugusas ap ouawenedag
+sosa20d soj ap exifmensa uopeoyyuejd
+
+Ezoz oynfap ¿0 :euas
+TO00-E0-60-TT 1POO
+
+23ampetu p aoypuy ap osas0ud [ap YAHA opt?
+OLNAINIO3IOMd
+
+uai o sopolsopennty “y euy ee eanpu sDy ed zOz
+
+sepuanya »
+DN p opeynsay »
+" souep ap sopegnsay »
+vN POO | gorpapase U | e
+opeupioo, MPAPOSEG | opuoswados | — *O sopezyeos
+soansanu soj ua sopyaigo
+de
+u> ensidas as onb ejmjog
+a sosmondap | p as soansonu auejg —| SNe 0 m eroqono
+aopeupioo) PP| apjospuadas 9 feed euwass ye openua
+ey as omb ugpeuoju
+el epor Jepen gragap as
+ugsnadns ugpmafa
+cosprados aygesuodsay | - epuamosy pepo vN
+en| onsay
+ruosan ooy osabo1d peplieo ap uonsoo ap onauwenedag
+sosano1d sor ap esjfa1enso ugneayIuejd
+
+Ezoz oyfap 20 :eupos
+T000-E0-160-1T 0BPO
+
+20Inpeu p aoypuy ap 0sa>0.d [ap YAHd opro
+OLNSINIIIONd
+
+sa s spolsopesay “y euy ee euasmpuy e mueduo>“z0r
+
+soansanu
+pepneo sosioad ap soj ua epruaIgo v9pewnojur
+vN vN aopeupioos | - ASUAW | e| epoy ezeue sosaoid
+ap sopeupuoo> o soansonu
+2P epesodura el epezyeur
+N SENIESDOaU 2SUORSe eu
+sosmnosd ap Jopeupao0> 1
+sosmosdop soansanu rodue ap sodejey ap
+n Ce
+” 20peujp0o9 YN p Jospuadns o owO sauoradsuj ap oyuey
+soñzejeyso) ap avoda:
+un ejezuo aqap osaoid
+19 esapyonb evosiad el
+ugInod pl
+” " sosadns onmaB lgesuodsay | - epuamay PPy
+anstoy onsau
+p en eu rugsian eNcy osaoa e ms29 ap oxuawenedag
+_ rD En ea sosa20.d soj ap exiSajensa ugpeoyluejd
+ezoz oynfap 0 :00P4 zaunpews ap aoipuj ap osavo.d |3p YAHd oPID
+T000E0 sE ET 102070 OLNAINIC3)ONd
+
+_ stapor euñes TUBSIDA
+
+*0upaso o sopos sopenmay “y my ee eapa s epeduo 0z a
+
+opepen
+A sop p uopegeo
+
+p
+
+oduues o p
+P UODEPIER A sauonadsu
+
+[
+
+rnsona e edy ensanu
+| "90 sonw 7 0) aeO
+
+139 sopes ap uppuaigo
+4 306 2p PE
+
+ugppnd oo penanbo
+I M9Op SNP p ugPUaIgo
+
+u —
+
+AN uBy
+aP soepas sO e oey
+uD Jnjena e solunó Jujao
+
+eposo>3p auappued ee
+2P uopradesd e oeq ue
+“enjeno e aj o Dojgrsa
+
+m 30 vINWIDVIA
 
 |
 
-£202 o1nfp 40. seyp04
-000°€0-¥64-T1 :1P90
+Ezoz oyfap ¿0 epa
+T000-E0-060-TE OPOD
 
-‘ejay 0520014 pepyie9 2p uoRsa5 ap owowseuedog
+ejoauy osaD01d pepyes ap uprisao ap owauewuedaq
 
-‘sosaaoid so] ap e2/893e.389
+sosa0.1d so| ap esfayensa ugr
 
-zoinpew ap 221puy 3p os92014 jap WAH OID
+23.mpeus ap aolpuj ap osa2oud jap VAHA op?1)
 
-OLNAIINIGaIONd
+OLNSINIOIJONd
 
-DED'IUEI
+peoyivejd
 
-“sxoain soo sopenasay "y's eu 1S HSMP MOH/2Y Ede E208
+ANRO
 
-way | S008 p
+supana o sopos spenmey s my mues
 
-nospusne Wr uopeandy
+Aey on
+osoxaNv
 
-soansonw
-‘ep sosintadns
+eopde oN
 
-evewas
+SVIDNZONILNOS
 
-‘eanny Sepp ap
-uponjosai e1ed uppewioyu
-2] ap 02154 owwowevarewye
-2p seiadieo 21
-25 A euapio as opor ‘odes
-ap seyajoq se] ap somsiBas
-S0}_epiend sopenjens 13
+epde oN
+NVIG ZV
 
-upmres0y% «
-“ojans
+_ T apsr eue TuosIA
 
-ua pepawny op % ©
-“xuq sopess
+|
 
-eimpa] ap wor «
-soyep ap 021u09
+ezozopfap 0 ea
+T000-E0-060-TT BPOO
 
-oye ap uosaayas
+ecy osanou pepye a ugnsao ap onuaueuedag
+sosan01d saj ap eafiarensa ugeoyjuejd
+z9.npeu ap a21puj ap osano1d ¡ap VAHd opD
+OLNIINIAIOUd
 
-ugpeiqod ap o21u0) +
+"
 
-‘PMBuo} ap UODIPIW
-{uonu
-uo> seosew) ensanut
-
-2p uopeaynuap +
-
-es tosmuadns: voor
-onsiaou onsiou
-
-epuanoaiy
-
-pepianoy
-
-vale
-
-Stop or euitea Tupisi9n
-
-£202 oun p 40 sey>o4
-1000-£0-¥68-TT 081909
-
-"ja,i8y osap0%4 pepieg ap upisag ap owuawrewedag
-sosanaud so] ap eo/S9ye.3S9 Ug|DeOyIUEId
-zainpew! ap 2o1puj ap osaa0ud jap VAHd O19
-OLNAIINIGII0Nd
-
-xpi 3013904 SOpERSDY YS EUW UES LSP OY MURAOD R02 @
-
-seiea*
-eye
-e| ap sapepowiajua «
-
-soozvnivi
-
-r sorenoid 9p soonsonus =P uppenIeeS +
-vn sonep op ose eve sys)
-s0peup1009 nepep 2s | sp voxodns "a ‘saNODOadSNI To
-“odweo ua soannsanu so}
-Leyoafa as anb e uo pepe
-2] 9p uppewoyu
-onrotgo [2 uo> ovsa
-esouew ap asopuphni
-edues ap euos
-[ep up.anoefa ap sauojonadsiy
-uezyeas as odwes uy
-- i"
-upismuodns vppmota
-sosyuodns aygesuodsoy | epuanoais pepmney vane
-ens ensfou :
-| step rr euiteg Tuoisi99 ej00)/8y 022014 pepieD ap uoHsa9 9p owaweredag
-sosa20ud so] ap eotsigye.59 upppeoy}ue|g
-
-£202 Onn ap 10 :ey>05
-1000-£0-60-TT :081p99
-
-zaanpew ap 221puy ap osa204d jap YAH 01919
-OLNSIWIG320ud
-
--sxpaieg 0 soo sopenaey Y's oy URS ENP HeHRY MELO 208
-
-sepuarya +
-TDW ep opeynsoy «
-‘ souep op sopeynsay «
-wn 053003028 | sop ap ase soansannt | eu
-sopeups9ey vepepee8 | spsoswvadns | SHC sopeztess
-soansonu 50} u@ sopiueiqo
-‘odes
-2 ensifas as anb e1a}0q
-~ 50520010 99 | en gs oy soonsonus eueig | S228 $0) amb _sesogosso>
-sopeups009 rep ap se9 | ap osiniadns 0 Jered eworsis je opemua
-ey 25 anb uopeurou
-1 epor Jepiien graqap 95
-ysis upponoeta
-sospuadns aygesuodsoy | epuonooug pepmny vans
-onsou | onsttou
-upsi9n ‘0248 osa2014 pepteD ap uonse9 ap owawenedag
-sosa20ud so} ap e2/891e2359 uo!DeDYIUEId
-
-£202 oun ap £0 :ey>04
-T000-£0-76¥-1T 9899
-
-‘eAnpew ap 22}pu) ap osar0ud jap YAH 1919
-OLN3IWIG390ud
-
-soypain spo] sopenay “Ys Boy RUE PU NOY MUREOD ete
-
-soansanus
-epiie> sosmoand ap 50] ua epluaygo ugiewojuy
-vn vin sopeurpiooy | SW |e) eno ezyeue  sosanoid
-ap Jopeuipioe> je soansonu
-8p epesoduiaa e epezyeu,
-F ‘SeuesaDaU TaUORe SUT
-sosa2014 9p sopeuipioa> ja
-sosaooid ap soansents ‘odes ap so8zeyey ap
-N eve
-wn sopeulpsoo3 wn 9p sosjuadns veto 0WOd sauoissadsuy ap oyue
-‘soBzeyey so) ap ayoda:
-tun eveiaua agap osaveid
-JP erepy and evosiad ey
-ors poo
-” = uosmuadns vepmets aiqesuodsay | epuansary PepIARIY
-onsitoy onstou
-sp eveut upision eqony oFa004 1599 ap owowevedog
-| stop ev cues sosanoud so| ap ea1Saqe.359 Ug!De>y4IUeIg
-£202 ounf ap £0 :ey>a4 zainpew ap a21puj ap osasoud jap WAHd OPI.
-FOOD EO SEY TT 19770 OLN3IWIG3I0Nd
-
-{ Stop vr euiieg Tupisien
-
-"exp910q 0 sop sopenBan "y's uy wes ENP BELAY EBD ‘E08 @
-
-‘upeepnen
-A sovep 9p uppeaesp
-
-_iuementaiemen,
-
-‘dues uo soxep
-2p uppepyen & ssuopds
-
-{
-
-enone edu ‘ensam
-| 1 9p souow z 50] seyuOq
-
-9 sopei 2p uppuaigo
-A soy “9p uppeayseD
-
-uppupnd ‘e429 ‘pepanbo
-1 g0p soup 9p uppuango
-
-— _
-
-aN veto
-‘2p souopas top ofeq
-> zejen> sowund sag
-
-expos00 ap aoppued eyes
-2p vopoatoud € 9Fe@ UD
-Fagen © 91} fo sp0.e053
-
-orm 3a vwuovia
-
-£202 Onn! 9p £0 ea
-000-£0-r6¥-Tr 81999
-
-joau8y os3p014 pepe ap upns95 ap owauieuedsg
-
-Sosanoid so] ap e2139}e1S9 up)
-
-eunpew 2p 291puy ap osa204d jap VAHd OPI
-
-OLN3IWIG390Nd
-
-PDeOYIUEI
-
-ANAS
-
-‘4921295050901 penne 5 iy HS
-
-“hey ON
-‘9S0x3NV
-
-ede on
-
-SVIONJONUNOD
-
-eoyide on
-Nya zr
-
-{ Stop st euieg T9198
-
-202 Nf 9p £0 :ey>24
-1000-£0-¥6¥-TT 08199
-
-‘yey osanoug pepe 2p upnseo ap owowe edad
-sosapoud soj ap e2i8iaie1359 uo}re2ylUelg
-ze1npew ap 221pu) ap osa20ud jap YAH OP ID
-OLNAINIGIDOUd
-
-6
-
-oa
+ya
 

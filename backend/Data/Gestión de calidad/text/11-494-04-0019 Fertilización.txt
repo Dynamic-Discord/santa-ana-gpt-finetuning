@@ -1,240 +1,245 @@
-INSTRUCTIVO Codigo: 11-494-04-0019
-Fertilizacién Fecha: 31 de octubre 2023
-Departamento de Gestisn de Calidad Proceso Agricola
+INSTRUCTIVO Código: 11-494-04-0019
+Fertilización Fecha: 31 de octubre 2023
+Departamento de Gestión de Caldad Proceso Aqrícola
 
 CONTENIDO
-4 OBJETIVO Y ALCANCE.
+1. OBJETIVO Y ALCANCE,
 
-2. DOCUMENTOS ¥ REGISTROS QUE APLICAN.
-3. DEFINICIONEES..
-2.1 Profundimetro:
+2 DOCUMENTOS Y REGISTROS QUE APLICAN.
+3, DEFINICIONES...
+2 Profundimetro:.
 
-4.NORMAS,. .
-5. DESCRIPCION DE PROCESO.
-6. DIAGRAMA DE FLUO.
+4.NORMAS. .
+5. DESCRIPCIÓN DE PROCESO.
+6. DIAGRAMA DE FLUJO
 7.MATRIZ PLAN,
 
-8. CONTINGENCIS.
-9. ANEXOS.
+8. CONTINGENCIAS.
+9.ANEJOS.
 
-ABO
+[
 
-oer catch aca
-Deparaments de Gestin dea Cala
-Proc horas
+oo ancl ncl
+Deprtamento de Getn 0ea Cd
+Precmes rc
 
-‘romos tae ce et ce
-Fecra: 13/12/2023
-(723 Conse Aco ma Sars An S.A Ei eons neal sr main tease.
+Poscos An G re o de
+Fd _ 13//2/2023
+¿2023 Compña A d Sr A En dumnto nn rr n
 
 INSTRUCTIVO
-Fertilizacién Fecha: 31 de octubre 2023
+Fertilización Fecha:31 de octubre 2023
 
-Departamento de Gestion de Calidad Proceso Agricola
+Departamento de Gestión de Caidad Proceso Agrícola
 
-Cédigo: 11-494-04-0019 |
+Código: 11-494-04-0019 |
 
 1. OBJETIVO Y ALCANCE.
-Determinar la calidad de operacién en ta labor de fertiizacién con el fin de establecer los controles
-‘necesarios para el cumplimiento de buenas précticas agricolas y para el cumplimiento con los indicadores
-variables establecidos. As mismo la mejora alos procesos para el manejo integral del cultivo de cafa de
+Determinar la calidad de operación en la labor de fentlizción con el in de establecer los controles
+necesarios para el cumplimiento de buenas prácticas agrícolas y para el cumplimiento conlos indicadores
+Y variables establecios. Asímismo la mejora a los procesos para el manejointegral del cultvo de caña de
 
 2. DOCUMENTOS Y REGISTROS QUE APLICAN.
-Especficacién 03-965-05-0012 Pardmetro Fertlizacién VO3
+Especifcación 03.965-05-0012 Parámetro Frtilzacón VO3
 
 3. DEFINICIONES.
 2.1 Profundimetro:
-Herramienta de medicion de cuerpo metalic en forma de T con medidas expresadas en centimetros
+Herramienta de mesición de cuerpo metélico en forma de T con mesidas expresadas en centímetros
 para mediciones de profundidad en el suelo.
 23 Labor:
-Conjunto de actividades, procesos trabajos de précticas agrcolasejecutadas en el campo.
-2.3 helicoidales:
-Es una forma tridimensional que tiene la apariencia de une hélice o tornilo. Esta estructura se
-‘aracteriza por su forma en espira, similar ala rosca de un torilo ala hélice de un avin,
+Conjunto de actiidades, procesos y trbajos de prácticas agrícolasejecutadas en el compo,
+21 holicoidales:
+Es una forma tridmensional que tine la aparienia de una hélce o tomill. Esta estructura se
+caracterizapor su forma en esplral,similar al rosca de un tornill 0la hélice de un avión.
 
-4. NORMAS.
-Fl jefe del departamento de gestion de la calidad procesos agrcolas, analista de procesos de
-uditorias, coordinador de procesos y el auditor de calidad agricola son los responsables del
-Ccumplimiento de este instructivo,
+4.NORMAS.
+El jefe del departamento de gestión de la calidad procesos agriolas, analita de procesos de
+auditoría, coordinador de procesos y el auditor de calidad agrícola son los responsables del
+cumplimiento de este nstruciv,
 
-(©2023 Comcala Ancol Instat Sata Ana. S.A Ese documento no aude recov ara,
+2023 oo Anricn nnl Saa An .A Estedoumeno n cuede sa mordudo aeao
 
-Departamento de Gestiin de Calidad Proceso Agricola
+Departamento de Gestón de Calidad Proceso Agrcola
 
-INSTRUCTIVO Cédigo: 11-498-04.0019
+INSTRUCTIVO Código: 11-494-04-0019
 
-Fertilizacién Fecha: 31 de octubre 2023
+Fertización Fecha: 31 de octubre 2023
 
-5. DESCRIPCION DE PROCESO.
+5. DESCRIPCIÓN DE PROCESO.
 
-Programacion de labores.
+Programación de labores.
 
-formar en los Grupos de Gestion
-de calidad de cada regin el programa de trabajo a seguir com las labores
-1 ejecutar el dia siguiente, a ms tardar alas 29:00 hrs del aie anterior.
+formar en los Grupos de Gestión
+de calidad de cada región el programa de trabajo a seguir con las labores
+2 ejecutar el dí siguiente, a más tardar a la 19:00 hr del dí anterior.
 
-de la labor.
+de l labor,
 
-TdentficaciGn de ubicacibn | El auditor de calidad agricola deberdidentificar por finca, Ite y disin
+dentificación de ubicación | El auditor de calida agrícola deberá identlicar porfinca, lote y diisón
 
-con la ayuda de la aplicacién mOvil Avenza maps, en la cual se estard
-lejecutando la labor de surqueo yfertilzacin,.
+con la ayuda de la aplicación móvil Avenza maps, en la cuel se estará
+ejecutando la labor de surqueo y feriizacin.
 
-‘Comunieacién con Finca. | El auditor de calidad agricola deberé comunicar al grupo de Gestion de
+Comunicación con Finca. —£l auditor de calidad agrícola deberá comunicar al rupo de Gestón de
 
-Calidad antes de comenzar a realizar la auditoria con el fin de que los
-distintos encargados den acompafiamiento Previo, Durante y Post
-‘audtoria. Posterior ala notificaién los responsables de la ejecucién de
-a labor no se hacen presente, el auditor deberé proceder con la
-auditora
+Calidad antes de comenzar a realizar la auditria con el in de que los
+distintos encargados den acompañamiento Previo, Durante y Post
+auditoria.Posterior a la notificación os responsables de la ejecución de
+la labor no se hacen presente, el auditor deberá proceder con la
+auditoria.
 
-Variables
+Varables
 
-laborande.
+Taborando.
 
-‘evaluadas | Se Identfca la ubieaciGn de Ta maquinaria con el fin de medir las
+evaluadas | Se Identfica la ubicación de la maquinaria con el fin de medir las
 
-atribuibles a a maquinaria | siguientes variable
+atrbulbles a la maquinaría | iguientesvariable
 
-* Velocidad
-Rpm
-‘© Potencia del tractor
-‘Sistema de laboreo (trabajo en melgas)
+* - Velocidad
+=Rpm
+
++ Potencia del tractor
+
+* __Sistema de laboreo (trabajo en melgas)
 
 Velocidad
 
-ET auditor deberd pararse a una distancia de 501m de la orila del ote
-hacia adentro, luego deberé medic 50 m con ayuda dela cinta métrica.
-Dentro de la medicién deberé calculare! tiempo en ta cual el tractor
-recorre la distancia establecida, Esto deberdrepetire 3 veces,
+El audñor deberá pararse a una distancia de 5O m de a orilla del ote
+hacía adentro, luego deberá medir 50 m con ayuda de la cinta mévica.
+Dentro de la medición debers calcular el tiempo en la cual el tractor
+recorre la dstanciaestablecida. Esto deberá repetire 3 veces.
 FORMULA:
 
 Velocidad
 
-resect) po recor
+Cr« Aearcomidriemporecomio
 
-Variables
+Varibles
 
-‘evaluadas | ET auditor deberd abocarse con el encargado de la labor u operador para
+evaluadas | El auditor deberá abocarse con el encargado de la labor u operador para
 
-atrbuibles a la maquinaria | recabar ia informacion pertinente yvalidacién de variables a evaluar:
-‘eimplemento estacionado. |» Presenta orden de trabajo.
+atribubles a la maquinara | recabar la información pertnente yvalidación de varables a evaluar:
+eimplemento estacionado. | » - Presenta orden de trabajo.
 
-% coefciente de varacion
-6 variacin entre caidas,
-Mantenimiento de equipo.
-Estado del implemento,
+% coefciene de varación:
+96 variación entre caídas,
+Mantenimiento el equipo.
+Estado del implemento
 
-+ Calidad del fertitzant.
++ _Calidad del fertilzant.
 
-3a
+si
 
-Presenta orden de trabajo. | Elauditor deberd solicitar con los dstintos encargados el documento, Ta
+Presenta orden de trabajo. | El audtor deberá soicitar conlos distintos encargados el documento, la
 
-informacién de dosis, formula a utilzar y otros datos pertinentes para la
-auditora
+información de dosis,formula a utiizr y otros datos pertinentes para la
+auditora.
 
-52
+5Z
 
-‘Coeficiente de varicién | £1 auditor deberd pesar ycolocar os recpientes en cada Salida
+3 Coeficinte de varación | €l auditor deberá pesar y colocarlos recpientes en cada saida.
 
-Con el tiempo en a cual la maquinaria demoro en recorrer los 50 metros
-deberé realizar la descarga. EI auditor deberd tomar en cuenta lo
+Con eltlempo enacual la maquinaria demoro en recorrerlos 50 metros
+deberá realzar la descarga. El auditor deberá tomar en cuenta lo
 | siguiente:
 
-(©2022 Comoatia Aneta ntl Sata Ana. SA Ese documerto no aude er ror ater.
+O 2022 Compia Accc nl Saa Ana. .A Es documero nocede ua reorducio n aeado
 
 INSTRUCTIVO
-Fertilizacion
-Departamento de Gestion de Calidad Proceso Agricola
+Fertilización
+Departamento de Gestión de Calidad Proceso Agricola
 
-Cédigo: 11-494-04.0019
-Fecha 31 de octubre 2023,
+Código: 11-494-04-0019
+Fecha: 31 de octubre 2023
 
-‘Silas descargas 1 2 son homogéneas, deberd omiirla descarga
-3.
-Silas descargas 1 y2 son heterogéneas, deberd relizar la descarga 3.
+= — Silas descargas 1y 2 son homogéneas, deberá omitir la descanga
+E
+las descargas 1 y2 son heterogóneas, deberá rslizar la descarga 3.
 
-‘53 | %VariaciGn entre caidas.
+53 | % Variación entre caídas.
 
-Pera calcular Ia siguiente variable el auditor deberd utilizar la formula
-cexpresada en la figura S(ver anexos)
+Pera calcular la siguiente varable el audtor deberá uUlizar l formula
+expresada en a igura Síver anenos)
 
-54] Mantenimiento del equipo
+54 | Mantenimiento del equipo
 
-auditor deberd evaluar de forma visual los siguentes aspects
-‘© Fugas en el acoplerépido
-+ Fugas en el sistema hidréuleo.
-‘+ Brazos hidrbuicos.
-1+ _Fecha de tltimo servicio,
+El auditor deberá evaluar de forma visuallossiguentes aspectos
+= - Fugas en elacoplerápido
+* - Fugasen el sisema hidráulco.
++ Brazos hidráulicos.
++ _Fecha de útimo servicio.
 
-33__| Estado del implementa
+557 | Estado del implemento
 
-El auiltor deberd evaluar de forma visual el correcto estado del
+El auditor deberd evaluar de forma visual el correcto estado del
 
-implemento utlizado en la labor con los siguientes aspectos a evaluar:
-+ Estado de rejas.
-Estado de Tohvas.
+implemento utilizado en a labor con los sigulentes aspectos a evaluar:
+* - Estado derrejas
+Estado de Tolvas
 
-Fugas en sistema hidréuico
+Fugas en sistema hidráulico
 
-helicoidales
+helcoidales
 
-Chass
+chasis.
 
 Enganches.
 
-Calibracién del implement.
+Calibración del implemento.
 
-Callracion de cultivadora,
+Callbración de cultvadora.
 
-+ Estado de mangueras.
++ _ Estado de mangueras.
 
-56 Calidad de ferilzante
+56| Calidad de ferilizante
 
-ETauditor verificars que el fertlzante contenga lo Siguiente
-‘+ Objetos Ajenos (metales, madera, pésticos u otros).
-© Humedad.
-1+ _Homogeneidad de granulometria,
+El auditr veriicrá que el fertilizante contenga lo siguiente:
++ - Objetos Ajenos (metales, madera, plástcos u otros).
++ - Humedad.
++ _ Homogeneidad de granulometra
 
-© | Distibucign de muestras
+6—| Distribución de muestras
 
-ET auditor debers ubicarse al final del rea Taborada © Iniia ton a
-Aistribucién de 6 puntos al azar sin ingresar al lote con el fin de
-determinar el rea muestral dela audtora, 3 de las muestras previo al
-aso de la maquinara y 3 muestras en drea laborada
+El auditor deberá ubicarse al final del área Taborada e Inila con la
+disribución de 6 puntos al azar sin ingresar al lote con el fin de
+determinar el área muestal d la audioria. 3 de las muestras previo al
+paso de la maquinara y3 muestras en área laborada
 
-7 | Ejecucibn de las muestas,
+7| Ejecución de las muestras.
 
-1 auditor buscar el punto geo referenciado en la aplcacion y medi lag
-siguientes variables:
-© Cafladafada,
-*ncorporacién de fertlizante al surco.
-Distancia de fertiizante al sureo
+€l auditor buscar el punto geo referenciado en la aplicación y medir las
+siguientes varables:
 
-7a Cafe dafada
++ caña dañada
 
-ET auditor con Ta ayuda de cinta réivca la distancia de 2 metros y
-uantifcar tallos totales ytallos arrancados.
+* - Incorporación de fertilizante al surco.
 
-63_| Cama de germinadion
+* - Distancia de ferilizante al surco
 
-lausltor posterior la medicin de profundidad deberdejercer una lave
-| fuerza hacia abajo para dentificar qué érealaborada no fue surqueada.
+71| Cañadañada
 
-6. DIAGRAMA DE FLUJO.
+El auditor con la ayuda de cinta mélrica la dstancia de 2 metros y
+cuantificartallostotaes y talls arrancados.
+
+63| Cama de germinación
+
+Elaudito posteiora la medición de profundidad deberá ejerceruna leve
+| fuerza hacia abajo paraidentlicr qué árealaborada no fue surgueada.
+
+6. DIAGRAMA DE FLUJO
 No hay.
 
-(© 202, Comoatia Arc Inuta Sata Ana. S.A. Ete documento no ound ser orc trad
+( 202,Comosla Acl Iul Sarta Ane. .E acumento o puede r reroducióo i tado
 
-INSTRUCTIVO Codigo: 13-494-04-0018
-Fertilizacién Fecha: 31 de octubre 2023
+INSTRUCTIVO Código: 11-494-04-0019
+Fertilización Fecha: 31 de octubre 2023
 
-Departamento de Gestién de Calidad Proceso Agricola
+Departamento de Gestión de Calidad Proceso Agrcola
 
 7. MATRIZ PLAN
 
-No aplica
+No aplica.
 
 8. CONTINGENCIAS
 
@@ -242,35 +247,35 @@ No hay.
 
 9. ANEXOS
 
-1OTA:
+IOTA:
 
 Formulas (Figura 1)
 
-Calibrar dosis. Proceder a realizar 3 descargas y cacularpromedio entre ella.
-Tara = Peso de Recipiente + caidas
-1m? Evaluados = Ancho de Surco » No, Tolva+ distancia recorrida
+Calibrar dosis: Procedera realzar 3 descargas y calcular promedio entre ella.
+Tara = Peso de Recipiente + caídas
+m* Evaluados = Ancho de Surco « No. Tolva » distanciarecorrida
 
-‘m2 Evaluados « dosis por Hectaria (gq)
+m2 Evaluados + dosis por Hectaria (q9)
 
-Libras esperadas = Ta Gopoe Ry
+Libras esperadas = Ta DDO m
 
-Ubrasbentas =. Descrgas Tera
+ra Obendos = Y Descargas Taa
 
-Libras obtenidas ~ Libras Esperadas
-~ Libras Esperadas
-> Cafda~ <Caida
-—Staldas
-Libras obtenidas «Ha (10000m?)
+Libras obtenidas — Libras Esperadas
+— Libras Esperadas —
+> Cafda — < Calda
+— E caldas
+Libras obtenidas + Ha (10000m*)
 
-ev = 100
+%»ev = 100
 
-% Entre Caida +100
+% Entre Caida + 100
 
 aa/Ha=
 
-10 cambia en estructura y redaccién
+lo cambia en estructura y redacción.
 
-versién
+versión
 
-(©2023, Cameatia Aaland! Sata Aa. S.A Exte documenta no ade sr reeds nated
+6 202. Campafa Acl ndusil Sarta AaE documeno n uedoverreceucióo r anraco.
 

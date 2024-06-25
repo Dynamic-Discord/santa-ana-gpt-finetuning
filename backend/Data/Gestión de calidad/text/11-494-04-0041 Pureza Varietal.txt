@@ -1,284 +1,284 @@
-INSTRUCTIVOS Codigo: 11-494-08-0081
+INSTRUCTIVOS Código: 11-494-04-0041
 Pureza Varietal Fecha: 07 de julio 2023
-Departamento de Gestin de Calidad Procesos Agricolas,
+Departamento de Gestión de Calidad Procesos Agrícolas
 
-SANTAANA Versin:1 | Pagina .de7 |
+SANTAANA Versón:1- | Página1 de7|
 
 CONTENIDO
-1. Objetivoyaleance.
+1. Objetio yalcance
 
-2. Documentos referenciales yreistros que aplican..
-3. definciones.
+2 Documentos eferenciales y reistros que aplcan.
+3 definiciones.
 
-3.1 Purera Varietal
+31 Pureza Varital...
 
-‘Ausencia de mezcla con otras variedades, tallos de una sola variedad...
-3.2 Tall fuera de muestra (TF)
-3.3 Semilleros
-3.4 Semilleo bisico..
+Ausencia de mezcia con otras variedades, tallos de unasolavariedad...
+3.2 Talls fuera de muestra (TFM)
+33 semillros
+3.4 semillro básico....
 
-3.5 Semiller certificado...
+35 semillero cetificado...
 
-36 Semillero comercial.
-3.7 Plantia comercial
-3.8 Boleta de campo...
+36 Semillro comercial.
+37 Plantía comercial
+35 Boleta de campo..
 
 Herramientas e insumos...
 
-Descripcién del proceso.
+Descripción del proceso.
 
 4
-5.
+5,
 
-6. Formulas utlizadas en el proceso de pureza varietal
-7. Diagrama de flujo
-8. Matriz plan
+6. - Fórmulas utilizadas en el proceso de pureza varital
+7. - Diagrama de lujo
+8. Matrizpian,
 9.
 
 10.
 
-Contingencas.
+Comingencias.
 
 Anexos
 
-\
+N
 
-| orcla
-‘estén ela Calad Jefe Departamento de Gestén de a
-ad Proceos Aco [FR 19/22/2025
+agrcoa
+Gestón de la Caldad Jefe Departamento de Gesón de a
+lad ProcuosAgicol — [N /9/22/1073
 
-"© 2i2, Carpaia Arc inauial Sava fa, SA, Reeavadon ec a Goon
+“ 202 Compra Acl Insurvial an Ana, 5 Resenvdos asl ra
 
-Garente rea Gestiin det Caldas
+Gererteórez Gestó del Calidad
 
-INSTRUCTIVOS Codigo: 11-494-04-0082
-Pureza Varietal Fecha: 07 de julio 2023,
+INSTRUCTIVOS Código: 11-494-04-0041
+Pureza Varietal Fecha: 07 de julio 2023
 
-Departamento de Gestin de Calidad Procesos Agricolas
+Departamento de Gestión de Calidad Procesos Agrícoas
 
-SANTANA Versiém:i | Paina 2de7
+SANTÍAM Versión:1 | Página 2 de 7
 
 1. OBJETIVO Y ALCANCE
 
 GENERAL
 
-= Determinar el porcentaje de pureza varietal a través del reconocimiento de las variedades
-presentes en los lotes semilleros o plantias comerciales.
+- - Determinar el porcentaje de pureza varietal a través del reconocimiento de las variedades
+presentes en los lotes semillros o plantías comerciales.
 
 ESPECIFICOS
-~ Generar alertas sobre lotes por debajo del % de pureza establecido y asi generar acciones para
-evitar maduraciones no uniformes que difculten los procesos en fébrica,
+- - Generar alertas sobre lotes por debajo del % de pureza establecido y así generar acciones para
+evitar maduraciones no uniformes que difculten los procesos en fábrica,
 
-= Determinar la presencia de plagas a través de la medicién de dafo: % barrenador,  ronrén, %
+- - Determinar la presencia de plagas a través de la medición de daño: % barrenador, % ronrón, %
 roedor.
 
-= Determinar el % de tallos fuera de muestra (TFM)
+- - Determinar el % de tallos fuera de muestra (TFM)
 
-~ _Indicar los % de cada variedad mezcla presentes en los lotes semilleros  plantias comerciales.
+- - Indicarlos % de cada variedad mezcla presentes en los lotes semillros o plantías comerciales.
 
 2. DOCUMENTOS REFERENCIALES Y REGISTROS QUE APLICAN
-2.1 Procedimiento Administracién de documentos y registros, digo: 11-893-03-0001
-2.2 Pardmetros Pureza Varietal, cddigo: 03-319-05-0001
+21 Procedimiento Administración de documentos y registros, código: 11-493-03-0001
+2.2 Parámetros PurezaVarietal código: 03-319-05-0001
 
 3. DEFINICIONES
 3.1 Pureza Varietal
-Ausencia de mezcla con otras variedades, tals de una sola variedad,
+Ausencia de mezcla con otras variedades, tallos de una sola variedad.
 
-3.2 Tallos fuera de muestra (TFM)
-Tallos presentes en la unidad de muestreo a una distancia mayor a 30 centimetros de la
-linea de plantas del surco muestreado,
+3.2 Tallos fuera de muestra (TF)
+Tallos presentes en la unidad de muestreo a una distancia mayor a 30 centímetros de la
+línea de plantas del surco muestreado,
 
-3.3 Semilleros
+33 semilleros
 
-Lugar donde se siembran las semillas de las plantas para, una vee nacidas, trasplantarlas a
-un criadero u otro sitio.
+Lugar donde se siembran las semilts de las plantas para, una vez nacidas, trasplantarlas a
+un crladero u otro siio.
 
-3.4Semillero basico
+3.4 Semillero básico
 
-Es un semilleo establecido por pléntulas de la estacién experimental
+Es un semillero establecido por plántulas de la estación experimental
 
-3.5 Semillero certficado
+3.5 Semillero certificado
 
-Es un semillero establecido por material proveniente del semillero bésico
+Es un semillero establecido por material proveniente del semillero básico
 
-(©2022, Comptia Agel Indust Santa Ana, SA, Rasevadon ad le drechot
-| INSTRUCTIVOS | codigo: 23-494-04.0081
-Pureza Varietal | Fecha: 07 de juio 2023
+O 202 Campañío Agcl Indusal Snt Ana, 5, Resnvados tods ls dnuhos
+| INSTRUCTIVOS | coago: 1-496 040041
+Pureza Varietal | Fecha:07 de Jl 2023
 
-Departamento de Gestin de Calidad Procesos Agricolas
+Departamento de Gestión d Calidad Procesos Agricolas
 
-SANTANA | [veces
+SINTÍAM 1 [n
 
-Pégina 3467
+Página 3 de 7
 
-it
+L
 
 3.6 Semillero comercial
-Es un semillero establecido por material proveniente del semillerocertificado
-3.7 Plantia comercial
-Es una plantacién nueva establecida por material proveniente de un semillero
-‘comercial
+Es un semillro establecido por material proveniente del semillro certificado
+3.7 Plantía comercial
+Es una plantación nueva establecida por material proveniente de un semillero
+comercial
 3.8 Boleta de campo
 
 Es un formato para anotar los resultados obtenidos de los muestreos realizados y
-utilizado para validar la informacién grabada en sistema.
+utiizado para validar a información grabada en sistema,
 
-4, HERRAMIENTAS E INSUMOS
-Para la realizacién de las muestras se utlizarén los siguientes materiales: Cinta métrica
-30m, machete, guantes de proteccién anticorte, lentes de mesh, boleta de campo, tabla,
-lapicero, mapas georreferenciados, marcadores, nylon blanco, dispositive mévil,
+4. HERRAMIENTAS E INSUMOS
+Para la realización de las muestras se utiizarán los siguientes materiales: Cinta métrica
+30m, machete, guantes de protección anticorte, lentes de mesh, boleta de campo, tabila,
+lapicero, mapas georreferenciados, marcadores, nylon blanco, dispositivo móvi
 
-5. DESCRIPCION DEL PROCESO
+5. DESCRIPCIÓN DEL PROCESO
 
-‘Cada Regisn cuenta con un Listado Basico. (De este se extrae el istado de los lotes que
-fueron renovados, y se casifican segin su destino, ya sean semilleros o plantillas)
+Cada Región cuenta con un Listado Básico. (De este se extrae el listado de los lotes que
+fueron renovados, y seclasifican según su destino, ya sean semilleros o plantilías)
 
-2 | Una vez definido las fechas, fincas y lotes se procede a hacer una programacin para él
-personal operativo. -
+2— |Una vez definido las fechas, icas y lotes se procede a hacer una programación para el
+personal operativo. _
 
-‘3. | Estando en finca se descarga e instala el mapa dela finca en la App Mévil (PDF Maps).
+3 — | Estando en finca se descarga e intala el mapa de la fnca en la App Móvil (PDF Maps]
 
-‘5 | Los mapas tienen el listado de lotes y area de cada lote. Se realizarn 1 muestra por
-hectérea, se mide una longitud de 10 metros lineales cuando son pantes comerciales, en
+5 |Los mapas tienen el lstado de Iotes y área de cada lote. se realizarán 1 muestra por
+hectárea, se mide una longitud de 10 metros lineales cuando son pantes comerciales, en
 
-el caso de semilleros se realizarén 2 muestras por hectérea midiendo una longitud de 5
+el caso de semilleros se realizarán 2 muestras por hectárea midiendo una longítud de 5
 
 metros lineales.
 
-6 _| Se distribuyen las muestran, se marca la coordenada con una figura tipo alfiler que posee
+6— | Se distribuyen las muestran, se marca la coordenada con una figura tipo aliler que posee
 
 la App en el mapa de forma al azar, buscando que la cantidad de muestras queden bien
 
-distribuidas y obtener mayor representatividad del ote,
+distribuidas y obtener mayor representatividad del ote.
 
-7 |'Se procede a grabar trayectoria hasta llegar (minimo 40 m) a la coordenada Seleccionada
+7 | Seprocede a grabar rayectoria hasta llegar (mínimo 40 m) a la coordenada seleccionada
 anteriormente. _
 
-‘8 | Alllegar al punto de muestreo se delimita los § 0 10 m de la muestra de pureza varietal y
+8 [Alllegaral punto de muestreo se delimita los 5 0 10 m de la muestra de pureza varietal y
 
-se procede a deshojar todos los tallos que se encuentran dentro del area de la muestra.
+se procede a deshojar todos los tallos que <e encuentran dentro del rea de la muestra.
 
-‘9 | Se contabiliza el total de tallos que hay dentro de la muestra, se revisan cuidadosamente
+9 | Se contabiliza el total de tallos que hay dentro de la muestra, se revisan cuidadosamente
 
-identificando la presencia de otra variedad. Simulténeamente se contabiliza la presenci
+identificando la presencia de otra variedad. Simultáneamente se contabilza la presenc
 
-de algin tipo de datio provocado por Gusano barrenador, Roeder, Termita, Ronrén y
+de algún tipo de daño provocado por Gusano barrenador, Roedor, Termita, Ronrón y
 
-también cafia podrida.
+también caña podrida.
 
-10 | Se contabilza la presencia de Tallos fuera de muestra (Tallos con distancia mayor @ 0.30
-1m del surco asi y se registra la variedad presentada en los tallos fuera de muestra. También
+10 | Se contabiliza la presencia de Tallos fuera de muestra (Tallos con distancia mayor a 0.30
+m del surco así y se registra la variedad presentada en lo talls fuera de muestra. También
 
-© 2023, Compania Apis ns Saree, A, Rasen os os eects
-INSTRUCTIVOS Codigo: 11-494-04-0041
-Pureza Varietal Fecha: 07 de julio 2023
+€ 2023,Compañi Aoal etial Sars An SA Rsenrdo Lodos lo derchos
+INSTRUCTIVOS Código: 11-494-04-0041
+Pureza Varietal Fecha: 07 de ulio 2023
 
-Departamento de Gstn de Cand Process Als
+Depanmento de Gn de Caad Process Al
 
-Vensinss | Ploraaca7
+Vec| ooo7
 
-se contabilza los TFM de tallos mezcla en el surco anterior y siguiente al de la muestra,
-‘tomando en cuenta la misma distancia de la longitud de la muestra ejecutada.
+se contabilza los TFM de tallos mezcla en el surco anterior y siguiente al de la muestra.
+tomando en cuenta la misma distancia de la longitud de la muestra ejecutada.
 
-11. [Se revisan si hay dreas sin presencia de tallos en el surco de cada costado de donde se
-realiz6 la muestra que cuenten con longitud > a 100 cm y de haber mas de 1 tramo con
+11 [Se revisan sí hay áreas sin presencia de tallos en el surco de cada costado de donde se
+realizó la muestra que cuenten con longitud > a 100 em y de haber más de 1 tramo con
 
 este detalle se anota la sumatoria de la longitud despoblada en la boleta de campo.
 
-12.__| Se apuntan los datos extraidos del punto de muestreo en una boleta de campo.
+12| Se apuntan los datos extraídos del punto de muestreo en una boleta de campo.
 
-13 | Terminados estos pasos en la muestra se procede a revisar los tallos de los dos surcos
+13 — | Terminados estos pasos en la muestra se procede a revisar os tallos de los dos surcos
 
-que estén lado y lado del punto de muestreo verificando que sean de la variedad
+que están lado y lado del punto de muestreo verificando que sean de la variedad
 
 registrada en el lote siempre tomado en cuenta los mismos 10 metros muestreados, si se
 
-‘encuentran tallos de mezcla se ancta la cantidad de tallos de cada variedad que haya.
+encuentran allos de mezcla se anota la cantidad de tallos de cada variedad que haya —|
 
 identificado, para poder sacar un porcentaje de tallos fuera de la muestra,
 
-6. FORMULAS UTILIZADAS EN EL PROCESO DE PUREZA VARIETAL
+6. FÓRMULAS UTILIZADAS EN EL PROCESO DE PUREZA VARIETAL
 
-= PUREZA
+- PUREZA
 
-eallos mezcl
-= Imezcun
+callos mezcl
+- MEZCIA
 
-tallos mezcla,
-%Mezcla = (Sallos torales) * 1°
+vallos mezcla,
+I mezcia = Srallos orales * 10
 
-~ %MEZCLA VARIEDAD 1
+- 6 MEZCLA VARIEDAD 1
 
 Etallos mezcla variedad 1
 
-Se MesclaVariedad 3 = Ce tat 00
-- «1
-corr = RTAllos fuera muestra, 49
+% MezclaVariedad = CEOO PE dad 09
+- T
+oee - ETallos fueramuestra _.q
 
-eallostotales
+Eeallostotales —
 
-= % CARA PODRIDA
+- CAÑA PODRIDA
 
-‘% CANA PODRIDA =
+% CAÑA PODRIDA =
 
-(©2023, Comptia Acta sus! Sart Ana, SA Reservas do ke derechos
+( 2023 Compañia Agcl sil Sr e, SA, Resnvacos tods ls drhos
 INSTRUCTIVOS
 Pureza Varietal
-Departamento de Gestin de Calidad Procesos Agrcolas
+Departamento de Gestión de Calidad Procesos Agricolas
 
-codigo: 11-494-04-0082,
-Fecha: 07 de julio 2023
+Código: 11-494-04.0041
+Fecha:07 de Julo 2023
 
-SANTANA Versi: | Pagina Sde7
-= % DANO ROEDOR
-= % DARIO BARRENADOR
-bao bareadr = Pies daadorpr errs,
-= % DANO RONRON
-~ % ESPACIO VACIO
-SBspacio vaciom Ror aRras ye RD = 100
+SANTA AÑA Versión:1 -| Páginas de 7
+- 6 DAÑO ROEDOR
+- % DAÑO BARRENADOR
+1a barenador - Cs ad porbrrnsdon, 0
+- % DAÑO RONRON
+- s ESPACIO VACIO:
+$6 Empacio vocio = *Wn…uff.+3…………> 100
 7. DIAGRAMA DE FLUJO
 No hay.
-‘8. MATRIZ PLAN
-No aplica
+8. MATRIZ PLAN
+No aplca
 9. CONTINGENCIAS
 No hay.
-10,ANEXOS
-10.1 Pardmetros permitidos
-Parimetro permitdo emergencia Pars a
-[LVatables —[ Parimetros [licen et a
-ft 25% (iia ooo ae
+10.ANEXOS
+104 - Parámetros permitidos
+Parámetro permitido emergencia. paráme a
+[ varables — [ parámeros [clasicacón — — m
+|xmwm 1 E Crtia 2;-_'£ lE
 
-(©2023, compatia Ago nut Santa Aa, GA, Reservation ads ot derechos
-INSTRUCTIVOS Codigo: 11-494-04-0041,
-Pureza Varietal Fecha: 07 de julio 2023
-| Departamento de Gestiin de Calidad Procesos Agricolas. | ———
+92023 Compeñia Agcl ual Santa An 5, Resrvdosods ls dnhos
+INSTRUCTIVOS Código: 11-494-04-0041
+Pureza Varietal Fecha: 07 de Julio 2023
+W Departamento de Gestión de Calidad Procesos Agrícolas — | —
 
-Versin:i | Pégina 6 de7
+versón:1 —| Página 6 de7
 
 102 Herramientas
 
-Machete Cinta métrica 30m Guantes showa 300
+Machete Cinta métrica 30 m Guantes showa 300
 
-103 Ejecucién
+103 Ejecución
 
-‘Muestra realizada Insecto ronrén Dafio de ronrén en tallo
+Muestra realizada Insecto ronrón Daño de ronrón en tallo
 
-©2023, Compania Agia ndutal Santa Ana, SA, Revered toa derechos
-Pureza Varietal | Fecha: 07 de julo 2023
+€ 2023,Compañia Agrot url Saa An SA ResenvdosLdos o drecios
+Pureza Varietal | Fecha:07 de Julio 2023
 
-Departamento de Gestin de Calidad Procesos Agricalas
-[vena [laa
-i
+Departamento de Gestión de Calidad Procesos Agrícolas - —| —
+|_venióna | ss7c
+|
 
-INSTRUCTIVOS Codigo: 11-494-04-0041 |
+INSTRUCTIVOS Código: 11-494-04.0041 <¿
 7
 
-10.4Tabulacién de informacion
+10 ATabulación de información
 
-Boleta de camp Validacién de informacién
-= < -
+Boleta de camp Validación de información
+Es = -
 
-INFORME PUREZA "coos
+INFORME PUREZA "=.
 VARIETAL
 
-(©2023, compara Apis nda Sars Ara, SA, Resende oso derchee
+( 2023,Compañía Agcl Iul as An SA Resanrdo tocos lo drctos

@@ -1,159 +1,161 @@
-instRucTIvo Chiesa
+INSTRUCTIVO hi 1 aToNOS
 
-SANTAANA | Departamento de Gestion de Calidad Proceso Agricola | yoragng
+|
+
+SANTAANA | - oepartamento de Gestón de Caiad Proceso Aríola — [ varmon, 7
 
 CONTENIDO
-1. OBJETIVO Y ALCANCE,
+1. OBIETIVO Y ALCANCE.
 
-2. DOCUMENTOS  REGISTROS QUE APLICAN,
-3. DEFINICIONES..
-2.1 Penetrémetro:..
+2. DOCUMENTOS Y REGISTROS QUE APLICAN.
+3. DEFINICIONES...
+2.1 Penetrómetro:..
 
-22Mesa:..
-4, NORMAS.
+22 Mesa:...
+4.NORMAS.
 
-'5. DESCRIPCION DE PROCESO...
+5. DESCRIPCIÓN DE PROCESO..
 6. DIAGRAMA DE FLUJO
 
-7. MATRIZ PLAN.
+7. MATRIZPLAN.
 
 8. CONTINGENCIAS..
 9. ANEXOS.
 
-BOR Rens ROS
+EoRÓ [ =
 
-oerdrador de Calind Aorta | ef Departmen dea Calas
-Process Aran ‘Gree rea Gsn dea calded
-Departamento de Genin de Cad
+Cooorador de Calad ag —| ee DepartamenoGatn de laCl
+Proceso Ac Gerent ra en de a Calaó
+Deparament de Gestó el Caidad
 
-Process Avs Feo: j3/ie/2023
+Procuos Ac Fn 13/12/2023
 
-(©2023, Comatia Aci iui arta Ana, SA. Ete cierto no pute er worduce Watered
+( 202,Campsfa Ancl IndueílSant Ana,5A.Estedcument o puede r eproducio n ad
 
-INSTRUCTIVO (Codigo: 11-494-04-0005
-CCompactacién de suelos Fecha: 31 de octubre 2023
-Departamento de Gestién de Calidad Proceso Agricola
+INSTRUCTIVO Código: 11-494-04-0005
+Compactación de suelos Fecha: 31 de octubre 2023
+Departamento de Gestión de Calidad Proceso Agrícola
 
-version:2 | pégina:2aea
+Versión:2 | Página:2 de a
 
-1. OBJETIVO Y ALCANCE.
-Determinar la compactacién que posee el érea productva para orientar ala toma de decisiones en
-fincas con mayor presencia de maquinaria agricola. Este documento aplica para las evaluaciones de
-‘Compactacién de suelos en fincas bajo adminstracgn de Ingenio Santa An
+1. OBJETIVO Y ALCANCE.,
+Determinar la compactación que posee el área productlva para orientar a la toma de decisones en
+fincas con mayor presencia de maquinaria agrcol. Este documento aplica par las evaluaciones de
+Compactación de suelos en fincas bajo administración de Ingenio Santa Ana
 
-2, DOCUMENTOS Y REGISTROS QUE APLICAN.
-specficacién 03-965-05.0005 Parametro Compactacién VO2
+2. DOCUMENTOS Y REGISTROS QUE APLICAN.
+Especificación 03-965-05-0005 Parámetro Compactación VO2
 
 3. DEFINICIONES.
-2.4 Penetrémetro:
-Instrumento utilized en diversos campos, como la agrcultua, la geologiay la ingenieri, para medir
-la resistencia ala penetracién o compresién de un material o suelo,
-2.2 Mosa del cultivo:
-Espacio pasilo que separa las hileras de cutis en un campo o érea decultivo. Estos espaciossuelen
-ser pasilos estrechos que permiten el acceso de maquinaria agricola, agricultores y otros equipos al
-rea de cultivo sin daar o compactar el suelo donde crecen las plantas. (ver figura 3)
+21 Penetrómetro:
+Instrumento utiizado en diersos campos, como la agricultra, la geología y la ingeniería, para medir
+la resitencia a la penetración o compresión de un material o suelo
+22 Mesa del cultvo:
+Espacio o pasilo que separa as hileras de cultvos en un campo 0 área d cultvo Esos espacios suelen
+ser pasilos estrechos que permiten el acceso de maquinaria agrícola, agriultores y otros equipos al
+área de cultvo sin dañar o compactar el suelo donde crecen las plntas.[ver figura 3)
 
 4. NORMAS.
-jefe del departamento de gestién dea calidad procesos agricalas, anaista de procesos de auditors,
-Dordinador de procesos vel auditor de calidad agricola somos responsable del cumplimiento de ests
-instructive.
+El ee del departamento de gestión de la calidad procesos agrícoas, anaista de procesos de audtoría,
+coordinador de procesos y el aditor de calidad agricola son ls responsables del cumplimiento de este
+instructivo,
 
-(©2023, comeatia Ancol indus Santa Ana, SA. Ete Gciernt no oust sr ero teat
+62023 Cameafa Ancl Iul Snt a.5 Estecumento n ouede sr rrducio n anado
 
-Compactacién de suelos Fecha: 31 de octubre 2023
+Compactación de suelos Fecha: 31 de octubre 2023
 
-INsTRUCTIVO Cédigo: 11-494-04.0005,
+INSTRUCTIVO Código: 11-494-04-0005 W
 
-Departamento de Gestdn de Calidad Proceso Agricola
+Departamento de Gestión de Calidad Proceso Agricola
 
-5. DESCRIPCION DE PROCESO.
+5. DESCRIPCIÓN DE PROCESO.
 
-1 | Programacion de ltes,
+21 | Programación d lotes.
 
-El auditor deberd considera los crteros siguientes:
-‘+ Lotes con sues arcilosos
+El auditor deberá considerrloscrteiossiguientes:
+* - Lotes con sueos rcllosos.
 
-Solicitud de evaluacién de otes.
+Solicitud de evaluación de lotes.
 
-Lotes cuya fecha sea de 1 10 das después de cosecha
+Lotes cuya fecha sea de 1a 10 días después de cosecha
 
-Lotes sin rego.
+Lotes si rego.
 
-Lotes Sin ninguna labor previemente ejecutada.
+LotesSin ninguna lbor previamente ejecutada.
 
-‘+_Lotes de Tipo soca. _|
+* _ Lotes de Tipo soca. -
 
-de la labor
+de la labor,
 
-| Wentificacion de ubicacién
+2— identificación de ubicación
 
-Tour de aad grils der enter por Ws, oe yO |
-| con a ayuda de a aplicacién mévil Avenza maps.
+lur d add urc deberSentfar rhc oey dvin |
+| conla ayuda de a aplicación móvil Avenza maps.
 
-‘4 | Distribuetén de musstras,
+4 Distribución de muestras
 
-‘Clasficacion ymedicion de vaca
-5 | Elecucién de las muestras
+Clasficación'y medición de vaña
+5| Elecución de las muestras
 
-TEI auditor deberé ubicarse a un costado del late © iniar con To
-listribucién de 5 puntos siellote es menor a 8 hectéreas, sel lote es
-mayor a 8 hectéreas deberé realizar 6 muestras al azar sin Ingresar al
-ote
+| El auditor deberá ubicarse a un costado del Tote e Iniiar con la
+distribución de 5 puntos si el lte es menor a 8 hectáreas, si el lote es
+mayor a 8 hectáreas deberó realzar 6 muestras al azarsin ngresar al
+lote
 
-laudtor buscar el punto geo referenciado enlaaplicacion.alidentificar
-el punto deberé realizar 3 lecturas introduciendo de forma vertical el
-instrumento de medicion a los ladosizqulerda y derecha y en el centro
-«de la mesa para tomar los datos corespondientes
+Elauditor buscar el punto geo referenciado en l aplicación. Al entificar
+el punto deberá realizar 3 lecturas Introduciendo de forma vertcal el
+instrumento de medición a ls lados izquierda y derecha y en el centro
+de la mesa para tomar los datos orrespondientes:
 
-‘+ Ubras por pulgada cuadrads (si
++ Libras por pulgada cuadrada (PSI
 
-+ Profundidad,
++ Profuncidad
 
-3a | Orientacidn dela muestra,
+517| Orientación de la muestra
 
-ar poder identifica os lados de la mesa el auditor deberd considerarlo
-Siguiente:
-Sila direccién del surco es de Norte a Sur el auditor debers
-posicionarse en direccin al Norte
-‘+ Sila direccién del surco es de Este a Oste deberd posicionarse en
-direccin al Este
+"Par noder identficalos lados de la mesa el auditor deberá considerarlo
+siguiente:
+* - Sila dirección del surco es de Norte a Sur el auditor deberó
+posicionarse en dirección al Norte.
++ - Sila dirección del surco s de Este a Oste deberá posicionarse en
+dirección al Este
 
-© | Toma de datos.
+6— | Toma de datos.
 
-Para la toma precisa de los datos el auditor deberd considerar To
-Siguiente:
-*Colocarla plancha metilica en et suelo nivelada,
-* Introducir el penetrémetro en el suelo a un Angulo de 90°.
-+ Mantener el cuerpo de forma recta y utilizar la fuerza de los
-brazos. (Ver figura 2}
-‘+ Mantener une fuerza de empuje hacia abajo constante,
+Para la toma precisa de Tos datos el auditor deberá considerar lo
+siguiente:
+* - Colocarla plancha metálica en el suelo nivelada.
+* - Inroducirel penetrómetro en el suelo a un Angulo de 90
+* - Mantener el cuerpo de forma recta y utizr la fuerza de los
+brazos.(Ver figura 1)
++ - Manteneruna fuerza de empuje hacia abajo constante.
 
-Finalizando los muestreos correspondientes el auditor deberéextraeros
-datos del instrumento de medicién con una USB y posteriormente
-{rasladarlos para su andlisis.
+Finalizando los muestreos correspondientes el auditor deberá extraeros
+datos del insumento de medición con una USB y posteriormente
+trasladarlos para su análiis.
 
-(©2029 Comoaia Aneta Init Sata An. S.A. Ese documae no ode ar roo atra.
-~
+O 2023 Comptia Ancl nl Sota An.5A.Esedecumero nocede sa ordueio n atrao
+—
 
-INSTRUCTIVO Cédigo: 11-494-04.0005
-Compactacién de suelos
+INSTRUCTIVO Código: 11-494-04-0005
+Compactación de suelos
 
-6. DIAGRAMA DE FLUJO.
+6. DIAGRAMA DE FLUJO
 No hay.
 
 7. MATRIZ PLAN
-No aplica
+No aplica.
 
 8. CONTINGENCIAS
 No hay.
 
-9. ANEXOS:
-Fgura Figura
+9. ANEXOS
+Figura 1 Figura 2
 
 Figura 3
 
-Mesa o calle del cutive
+Mesa o calle del cultvo
 
-Este documento cambia en estructura y redaccién en comparacién a su versi6n anterior
+: Este documento cambia en estructura y redacción en comparación a su versión anterior.
 
-(©2028, ComeaiaAacla Inui! Sta An. S.A Este dace no odes roo
+(O 2023 Compañia Ancl IndusiSat An .A Ese documeo n cuedever ord

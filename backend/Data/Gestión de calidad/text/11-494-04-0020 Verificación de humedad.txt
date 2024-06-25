@@ -1,182 +1,176 @@
-INSTRUCTIVO.
-\Verificacién de Humedad
+INSTRUCTIVO
+Verificación de Humedad
 
-SANTAANA | Devaramento de Gestion de Calidad Proceso Agricola
+SANTAAMA | - Departamento d Gestón de Caldad Proceso Agrícola
 
-CCédigo: 11-494-04-0020
+Código: 11-494-04-0020
 Fecha: 31 de octubre 2023
 
-Vversion:2 | Pagina: a)
+Versión:2 | página:1 …J
 
 CONTENIDO
-4 OBJETIVO Y ALCANCE. —
-2. DOCUMENTOS ¥ REGISTROS QUE APLICAN,
-3. DEFINICIONES..
-2.1 TOR-350: “
-2.2 Monitoreo de humedad
+1. OBIETIVO Y ALCANCE, —
+2. DOCUMENTOS Y REGISTROS QUE APLICAN.
+. DEFINICIONES..
+21 70R:350: -
+2.2 Monitoreo de humedad:
 
-2.3 Mapa NDWE:
-2.4 CENGICANA:..
+23 Mapa NDWI:
+24 CENGICAÑA..
+4.NORMIAS.
+5 DESCRIPCIÓN DE PROCESO...
+6. DIAGRAMA DE FLUJO
+7. MATRIZPLAN.
+. CONTINGENCIAS..
+9.ANEJOS.
 
-4, NORMAS.
+r [
 
-5. DESCRIPCION DE PROCESO...
+a
 
-6. DIAGRAMA DE FLUIO
+Coodnado e Cacas nrtela —| e DesartamenoGestón del Cl
+oeo Ayc
+Desartameno de cesón el C
+roceos Ms
 
-7. MATRIZ PLAN.
+Za
+re 13/2/20:3
 
-8. CONTINGENCIAS.
+(5 202, Comeñía Acl Iul Sr Ana, 5. Est aocumento o puede r reroducio i lad
+INSTRUCTIVO Código: 11-494-04.0020
 
-9, ANEXOS.
+Veriicación de humedad Fecha: 31 de octubre 2023
 
-TABOR Res
-
-Cia
-
-coordinate Ge Cac rls |e Depatanets Gestén dela Calin
-Promos Aros
-Departamento de cet ea Cao
-roca Ae
-
-avi,
-reve 13/2/2023
-
-(©2025, Comets Arc naueil Sara Ana, SA Ete doziment no pune servo Watered
-INSTRUCTIVO Codigo: 11-494-04-0020
-
-Verificacién de humedad Fecha: 31 de octubre 2023
-
-Departamento de Gestion de Calidad Proceso Agricola
+Departamento de Gestión de Calidad Proceso Agricola
 
 1. OBJETIVO Y ALCANCE.
-Determinar el nive! de humedad que posee el suelo para mejorar la toma de decisiones respecto ala
-ejecucién de la labor de rego. As{ mismo la mejora en e! manejo integral del cultivo de cafa de azar.
-Esta evaluacin serd apicabe a todas las fincas bajo adminstracign de Ingenio Santa Ana
+Determinar el nivel de humedad que posee el suelo para mejorar la toma de decisones respecto a la.
+ejecución de la labor de rego, Asímismo la mejora en el manejo integra del culvo de caña de azúcar.
+Esta evaluación será aplicable a todas las fincas bajo administración de Ingenio Santa Ana
 
 2. DOCUMENTOS Y REGISTROS QUE APLICAN.
 
 3. DEFINICIONES.
-24 TOR-360:
-‘Time Domain Reflectometry” (TOR), es un sensor digital y port para la medicin de humedad en
-el suelo en % de humedad volumétrica. Ademés dela humedad provee datos:
+21 TOR50:
+Time Domain Reflectometry” (TDR), s un sensordigtal y portátil paa la medición de humedad en
+el suelo en % de humedad volumétria. Además de la humedad provee datos:
 
-~Conductvidad eléetrica
-~ Temperatura superficial del suelo
+—Conductividad eléctrica,
+— Temperatura superficial del suelo
 
-~Coordenadas y hora del punt.
+— Coordenadas y hora del punto.
 
 2.2 Monitoreo de humedad:
 
-Proceso de medic y controlar los niveles de humedad en un entorno o sustancia particular.
+Proceso de medir y controlar lo niveles de humedad en un entorno o sustancia partculr.
 
-2.3 Mapa NDWI:
-‘Acrénimo que se refiere al "Normalized Difference Water Index" en inglés, lo que se traduce a!
-espafiol como "Indice de Diferencia Normalizada de Agua". El NDWI es un indice utiizado en
-‘teledeteccién y andliss de imagenes sateltaes para detectary cuantifcar a presencia de agua en
-luna determinada rea geogrdfca
+23 Mapa NDWI:
+Acrónimo que se refiere al "Normalzed Difference Water Indes” en inglés, lo que se traduce sl
+español como “Índice de Diferencia Normalizada de Agua”. El NDWI es un índice utiizado en
+teledetección y análisis de imágenes saeltales para detecta y cuantficar la presencia de agus en
+una determinada área geográfca.
 
-2A CENGICARA:
+24 CENGICAÑA:
 
-Centro de investigacin Guatemalteco dela cafa de azicar,
+Centro de Ivestigación Guatemalteco de lacaña de azúcar,
 
-4, NORMAS.
-£1 jefe del departamento de gestion de la calidad procesos agricolas, analista de procesos de
-‘auditorias, coordinador de procesos y el auditor de calidad agricola son los responsables del
-‘cumplimiento de este instructivo.
+4. NORMAS.
+El jefe del departamento de gestión de la calidad procesos agrícolas, anaista de procesos de
+auditorías, coordinador de procesos y el auditor de calidad agrícoa son los responsables del
+cumplimiento de este instrutiv.
 
-(9 202, Comaatia Arlt arta Ana. S.A. Ete document no ound ser ered trad.
+( 202,Comesfia Acl Iul Senta Ana_ 5.. Et cumento o cuede r reroduci l auri.
 
-Verifieacién de humedad Fecha: 31.de octubre 2023
-Departamento de Gestion de Calidad Proceso Agricola
+Verificación de humedad Fecha: 31 de octubre 2023
+Departamento de Gestión de Caidad Proceso Agricola
 
-istavcrivo =m
+INSTRUCTIVO )
 
-5. DESCRIPCION DE PROCESO.
+5. DESCRIPCIÓN DE PROCESO.
 
-4 | Programacisn de labores. | Se deberd solictar la programacién de lotes a evalvar por parte del
-‘epartamento de Ingenieria agricola, solicitudes de finca o lotes que
-- Dresemten condiciones de estrés Mirco,
-2 | identiicacién de ubicacién | 1 auditor de calidad agricola deberd identifica por Finca, le y Gision
-de la labor. ‘on la ayuda de la aplicacién mévil Avenza maps. Adicional debers
-visualizar el mapa de NOW en a aplicacin de CENGICANA o prorzar fa
-aplicacion de Ingenieria Agricola
-3”) Distribucién de muestra. | El auditor deberd distribu una muestra por cada 2 hectareas. Siellote
-| 4 evaluar es menor a 8 hectéreas se deberé realizar Gricamente 4
-muestras. Las muestras deberdn ejecutarse 2 30 metros hacia adentro
-Gel perimetro del ote
+1 | Programación de labores. -| Se deberá solictar la programación de lotes a evalvar por parte del
+departamento de Igeniería agrcol, solicitudes de fnca o lotes que
+_ presenten condiciones de estrés Hírico.
+2— | identificacón de ubicación |£l audior de clidad agricola deberá identificar por fnca,lte y dvisión
+de la labor, con la ayuda de la aplicación móvil Avenza maps. Adicional deberá
+visualizar el mapa de NDWI en a apicación de CENGICAÑA o priorzar la
+aplicación de Igeniería Agrícola.
+37| Distribución de muestras. — El auditor deberá distriblr una muestra por cada 2 hectáreas. 51l loie
+| a evaluar es menor a 8 hectáreas se deberá realzar únicamente 4
+muestras Las muestras deberán ejecutarse a 30 metros hacia adentro
+del prímetro del ote
 
-Identfica el sector indicado para el monitoreo en el mapa NOW!
-= —— Ta lecturs en el — visval del punto:
+Identficar el sectorindicado para el monitoreo en l mapa NOWI
+-. r….-aº la lectura en el Iv.elúuuºn visual del punto:
 
-rea + Sin betas de arena «Sin eas con piedras
-+ Sin rea humedad + Efectuarlectura en el surco y no en a calle,
+drea + SI betas de arena _* Sináreas con pledras
+* Sináres humedad » Efectuarlectura en el surco y no en a calle.
 
-+ Insertar verticalmente las vallas de! TOR en el suelo y proceder @
+— Insertar verticalmente las varilas del TDR en el suelo y proceder a
 
-tomar el dato con el botén “READ”.
+tomar el dato con el botán “READ”,
 
-+ Anotar datos de referencia,
+— Anotar datos de referencia.
 
-5 [Tipo de monitoreo de | Eiaveitor deberd de identiiar el po de monitoreo a ejecutar mediante
+5 |mpo de monitoreo de -El audior deberá de identiiarelipo de monitreo a ejecutar mediante
 
-shumedad, los siguientes eritrios de evaluaci:
+humedad. Tos siguientes criterios de evaluación:
 
-‘+ Defrecuencia: Muestreos realizados para la toma de decisién de
-jecutar un préximo evento de riego posterior al primer rego
+* - Defrecuencia: Muestreos ralizados paa a toma de decisión de
+ejecutar un próximo evento de riego posteror al primer riego
 post corte/cosecha
 
-‘+ Previo ala cosecha:
++ Previoaala cosecha:
 
-Consist en realizar Monitoreos durante los muestreos de Pre-
-‘madurante  pre-Cosecha del proceso de Indice de madurer.
+Consiste en reaizar Monitoreos durante los muestreos de Pre-
+madurante y pre-Cosecha del proceso de Índice de madurez.
 
-+ Calidad de rego:
-
-Muestreos de humedad realzados posterior a un evento de
-Fiego para vaidarel porcentaje de humedad.en el suelo producto
-della labor de riego.
-
-+ Semilleros:
+* - Calidad de riego:
 
 Muestreos de humedad realizados posterior a un evento de
-rego para valdar el porcentaje de humedad en el suelo producto
-de a labor de rego.
+riego paravalidar el porcentaje de humedad en el sueloproducto
+della labor de riego.
 
-+ Labores Agricolas:Consiste ena verifiare nivel de humedad en
-las labores de Siembras, Resiembras, Riegos, lotes con problema
-de estrés Hdrico u otras labores,
++ - semillros:
 
-© | Entrega de repore Er aualtor deberé descargar el informe en Ta aplicacién de Ingenieria
+Muestreos de humedad reaizados posterior a un evento de
+riego paravalidar el porcentaje de humedad en el suelo producto
+de la labor de rigo.
 
-agricola y trasiadario alas partes interesadas pertnentes.
+* - Labores Agricolas:Consiste en a verlicar el nivel de humedad en
+laslabores de Siembras, Resiembras,Rlegos, lotescon problema
+de estrésHídrio u otraslabores,
 
-(©2022, Comte Aol Inui Sart Ana. SA Ente doaumart no ober redo ade
-INSTRUCTIVO.
-Verificaci6n de humedad
+6— | Entrega de reporte El auditor deberá descargar el informe en la aplicaión de Ingenieria
 
-SANTAANA | Departamento de Gestin de Calidad Proceso Agricola
+agrícola y wasladario a las partesineresadas pertinentes.
 
-Codigo: 11-494-04-0020
+6202 Comeata Acl Indusil Srta Aa. a. Ete cuento n uedesrrrodcio e lre
+INSTRUCTIVO
+Verificación de humedad
+
+SANTAANA | - Departamento e Gestión d Calidad Proceso Ayrcola
+
+Código: 11-494-04-0020
 
 Fecha: 31 de octubre 2023
 
-Versién:2 | Pagina: 4dea
+Versión:2 | - Página:4 de a
 
 6. DIAGRAMA DE FLUJO
 No hay.
 
 7. MATRIZ PLAN
-‘No aplica
+No aplica
 
 8. CONTINGENCIAS
 No hay.
 
-‘9, ANEXOS
+9. ANEXOS
 No hay.
 
-ste documents ‘on estructura y redaccién en
+ste documente en estructura y redacción en-
 
-su ver terior
+su ver sterio
 
-(©2022, Comoaia Aaland Santa Ana. SA Ete docart no unde sr erate aera
+O 202 Compufia Ancl Iul Sta Aa.5.Estedcurento n ouedesrrrcucio n aerdo

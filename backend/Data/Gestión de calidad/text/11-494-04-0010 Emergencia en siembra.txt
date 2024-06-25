@@ -1,125 +1,125 @@
-INSTRUCTIVO (Codigo: 11-494-04-0010
-Emergencia en siembra Fecha: 31 de octubre 2023
+INSTRUCTIVO Código: 11-494-04-0010
+Emergencia en siembra Fecha: 31 de octubre 2073
 
-Departamento de Gestion de Calidad Proceso Agricolas
+Departamento de Gestión de Calidad Proceso Agricolas
 
-vern:2 | Pagina 1 |
+verión:2 | página …aJ
 
 CONTENIDO
-1 OBJETIVO ¥ ALCANCE.
+1. OBJETIVO Y ALCANCE.
 
-2. DOCUMENTOS ¥ REGISTROS QUE APLICAN...
-3. DEFINICIONES..
+2. DOCUMENTOS Y REGISTROS QUE APLICAN.....
+. DEFINICIONES..
 
-3.1 Siembra
+3 Siembra:
 
-3.2 Emergencia:
-4, NORMAS..
+32 Emergencia
+4.NORMAS.
 
-S. DESCRIPCION DE PROCESO,
+. DESCRIPCIÓN DE PROCESO.
 6. DIAGRAMA DE FLUJO
-7.MATRIZ PLAN.
+7 MATRIZPLAN.
 
-8, CONTINGENCIS.
+. CONTINGENCIAS.
 
-9. ANEXOS. - -
+9.ANEJOS. - -
 
-TESS ror)
+RE aPROBÓ
 
-Cup
+uul
 
-coerdr de Ca sete extn de Cas
-ces tae ocsce Aan rea Ges ds Calt
-Departamento de Gastin cea Calis
+omdraor de C E en el uc
+e d Proceos Ac ra Gestón de lal
+Oeprtamento de Gestón de laCl
 
-Tcsetoe ecu 19/2/2002
+a d re 1Y/2/2007
 
-1 2023, Comeatla Arlanda Sava Ana A. Este documento no puede er rcrducd stra,
-INSTRUCTIVO Cedign: 11-494-04-0030
-Departamento de Gestién de Calidad Proceso Agricola
+( 2023,Compañla Acl irutial Sana Ana 5. Est dcument o puee e renrduc l trado.
+INSTRUCTIVO ooo 11486040030
+Departamento de Gestión de Calida Proceso Arícola
 
-4, OBJETIVO Y ALCANCE.
-Determinar la efectvidad de a labor de siembra de semila evaluando el porcentaje de tallos emergidos
-com el finde establecer los controles necesaris para el cumplimiento de buenas précticas agricola y con
-los indicadores y variables establecidos. As! mismo la mejoraa los procesos de manejo integral del cultwo
-de cafia de azdcar. Este documento aplica para todas las auditoras de Emergencia en siembra en fincas
-bao administracén de Ingenio Santa Ana
+1. OBJETIVO Y ALCANCE.
+Determinarla efectividad de a labor de siembra de semila evaluando el porcentaje de talls emergidos
+con el fin de establecer lo controles necesarios parael cumplimiento de buenas prácticas arícolas y con
+Tos indicadores y variables establecidos. Asímismo la mejora a los procesos de manejo inegral del cultvo
+de caña de azúcar. Este documento aplica para todas ls audltoras de Emergencia en siembra en fincas
+bajo administraión de Ingenio Santa Ana.
 
 2. DOCUMENTOS Y REGISTROS QUE APLICAN.
-Especificacion de 03-965-05-0008 Pardmetro Emergencias en Siembra VO3
+Especifcación de 03-965-05-0008 Parámetro Emergencia en Siembra VO3
 
 3. DEFINICIONES.
-3.4 Siembra:
-La siembra.e el acto de plantar semillaso plantulas en el suelo con el propésito de inkiarel crecimiento
-de una planta, cultivo © cutive de forma controlada
-3.2 Emorgencia:
-Proceso en el cual una plintulao brote comienza a sabresalir de la superficie del suelo se convierte
-fen una planta que crece por encima de later.
+34 Siembra:
+La siembra es el acto d plantarsemills o plántulas en el uelo conelpropósito de inicir el crecimiento
+de unaplanta, cultvo o cultvo de forma controlada.
+3.2 Emergencia:
+Proceso en el cual na plántula o brote comienza a sabresalr de l superfcie del suelo y se convierte
+n una planta que crece por encima de la terra,
 
-4, NORMAS.
-El jefe del departamento de gestién de Ia calidad procesos agricolas, analista de procesos de
-auditorias, coordinador de procesos y el auditor de calidad agricola son los responsables del
-‘cumplimiento de este instructvo.
+4. NORMAS.
+El jefe del departamento de gestión de la calidad procesos agrícolas, analista de procesos de
+auditorías, coordinador de procesos y el auditor de calidad agrícola son los responsables del
+cumplimiento de este insructivo.
 
-(©2023, cores Ano ndutial ara Ana, SA. Ele docu no ude sr eradicated
-Cédigo:11-498-08-0010
-INSTRUCTIVO ie
+( 202,Comentla Acl Inueval Sr Ana.SA. E dcumento n uede srerodcido i aterado
+código:11-45408-0010
+INSTRUCTIVO "
 
 Emergencia en siembra Fecha: 31 de octubre 2023
-Departamento de Gestiin de Calidad Proceso Agricola
+Departamento de Gestin d CalidadProceso Agrcola
 
-5. DESCRIPCION DE PROCESO.
+5. DESCRIPCIÓN DE PROCESO.
 
-| Programacién de labore.
+1. | Programación de labores.
 
-El analsta de procesos de auditorias deberd realizar un programa sobre
-los lotes sembrados para verificar que cumplen con el rango de dias
-‘establecidos para realizar evaluaciones de emergencia en siembra, este
-deberd enviato al auditor de calidad agricola,
+El nalista de procesos de auditorías deberá realizar un programa sobre
+los lotes sembrados para verlficar que cumplen con el rango de días
+establecidos para realizar evaluaciones de emergencia en siembra, este
+deberá enviaro al auditor de calidad agrícol.
 
-de a labor.
+de la labor.
 
-2 | Wentificacign-de ubicacibn | El auditor de calidad agricola deberd identificar por fina, late y dlision
+2— | identiicación de ubicación | El audior de calidad agrícola deberá identificar por inca, loe y dvisión
 
-con a ayuda de fa apicacién mévilAvenza maps.
+con la ayuda de la alicación móvilAvenza maps.
 
-3__| Comunicacign con Finca,
+3 | Comunicación con Finca.
 
-El auditor de calidad agricola deberd comunicar al grupo de Gestion de
-Calidad antes de comenzar a realizar la auditoria con el finde que los
-distintos encargados den acompafiamiento Previo, Durante y Post
-aucitoria. Posterior ala notificacién los responsables de la ejecuciin de
-la labor no se hacen presente, el auditor deberé proceder con la
-auaitora,
+El auditor d calidad agicola deberá comunicar al grupo de Gestión de
+Calidad antes de comenzar a realizar la auditoria con el n de que los
+disuntos encargados den acompañamiento Prevo, Durante y Post
+auditoria. Posterio a la notiicación os responsables de la ejecución de
+la labor no se hacen presente, el auditor deberá proceder con la
+auéitoria
 
-@ | Distibveign de muestras
+4 | Disribución de muestras
 
-Fjecucion de las muestra.
+Ejecución d las muestras,
 
-El auditor deberd ubicarse al ial del area Taborada © inida con Ta
-istrbuci6n de 5 puntos al azar sin ingresar al lote con el fin de
-tdeterminar el rea muestral de la auditoria,
+El auditor deberó ubicarse al final del área laborada e Iniia con la
+disribución de 5 puntos al azar sin Ingresar al lote con el fin de
+determinar eldrea muestrl de la auditoia.
 
-El auditor buscar el punto geo referenciado en la aplcacin y delimitar
-tuna muestra de 2 metros lineales y cuantficar el nimero de tallos
-lemergidos por cada muestra.
-Posteriormente el auditor deberd sumar la cantidad de tallos emergidos
-‘y por cada muestra y realizar el promedio entre ellos.
+El audtor buscar el punto geo referenciado en la aplcación y delimitar
+una muestra de 2 metros lneales y cuantficar el número de tallos
+emergidos por cada muestra.
+Posteriormente el auditor deberá sumar la cantidad de talls emergidos
+y por cada muestra y realizar el promedio entre ellos.
 Para determinar las yemas programadas se deberé solctar al
-‘mayordomo de siembras la cantidad de yemas sembradas por metro
-lineal. Para determina el % de emergencia utilizar fa siguiente formula:
+mayordomo de siembras la cantidad de yemas sembradas por metro
+Tinal. Para determinar l% de emergencia utiizara la siguiente formula:
 Tallos ML
 +100
 
 Yemas programadas
 
-9% Emergenci
+% Emergenci
 
-6. DIAGRAMA DE FLUJO.
-No hy.
+6. DIAGRANA DE FLUJO
+No hay
 
-7.MATRIZ PLAN
-No aplica
+7. MATRIZ PLAN
+No aplica.
 
 8. CONTINGENCIAS
 No hay.
@@ -127,6 +127,6 @@ No hay.
 9. ANEXOS
 No hay.
 
-estructura y redacclén
+estructura y redacción.
 
-(©2023, comeataAacls inuil arta Aa. $A Ene docureta no ade terre nat.
+( 2023 Caosfa Ancl Inusl Sarta Aa. .A Es docureto n uedovr rec arado.

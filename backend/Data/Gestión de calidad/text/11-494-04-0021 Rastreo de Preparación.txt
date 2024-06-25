@@ -1,280 +1,280 @@
-Cécigo:11496-08
+códio: 149504
 
-INSTRUCTIVO algo: 49404-0021
-Rastreo de Preparacién Fecha: 31 de octubre 2023
+INSTRUCTIVO psiso: 11404040021
+Rastreo de Preparación Fecha:31 de octubre 2023
 
-Departamento de Gestin de Calidad Proceso Agricola
+Departamento e Gestón de Calidad Proceso grcola
 
 CONTENIDO
-4. OBJETIVO Y ALCANCE,
+1. OBJETIVO Y ALCANCE:
 
-2. DOCUMENTOS ¥ REGISTROS QUE APLICAN....
-3. DEFINICIONES,
-2.1 Profundimetro:
+2. DOCUMENTOS Y REGISTROS QUE APLICAN. ..
+3. DEFINICIONES.
+241 Profundimetro:
 
-5. DESCRIPCION DE PROCESO.
-6. DIAGRAMA DE FLUIO.
-7-MATRIZ PLAN,
-8. CONTINGENCIS.
-9. ANEXOS
+5. DESCRIPCIÓN DE PROCESO.
+6. DIAGRAMA DE FLUJO.
+7.MATRZ PLAN.
+8. CONTINGENCIAS.
+9.ANEJOS .
 
-BORD provers
+eeó —
 
-CAPS (ph Cz PP
+E Ó¿%< .”? ?
 
-erence Claas Arita we oon
+Caodrddor de Cn Ayc muu……….uu
 
-Departments de Gen ea Cad
-Proce orcas
+Desortamento de Getón de aCl
+Procmes Ac
 
-"Grr rea Gest cane
-feta: 13/12/2023
-(©2023 Cmte Aacl inutil Sara Ana, SA. Ete document no ound er ora nated,
+Se ra Gemtn d l as
+Fn /9/72/0:3
+6 202 Campaña Ancl IndueíalSart Ana, . Este dcument o suede er renrdució l r,
 
-INSTRUCTIVO Codigo: 11-494-04.0021
-Rastreo de Preparacién Fecha: 31 de octubre 2023
+INSTRUCTIVO Código: 11-494-04-0021
+Rastreo de Preparación Fecha: 31 de octubre 2023
 
-SANTAAM | Devaramento de Gestin ce Calidad Proceso Aeresta [Vo ssn2 | paguarages
+SANTAAMA | - Desartamento de Gestón de Caidad ProcesoAgraa - yra Tp dey
 
-1. OBJETIVO Y ALCANCE.
-Determinar la calidad de operacién en la labor de rastreo de preparacin con el fin de establecer los
-controles necesarios para el cumplimiento de buenas précticas agrcolasy para el cumplimiento con los
-indicadores y variables establecidos. As! mismo la mejor alos pracesos de preparacién de suelos para el
-‘manejo integral del cultvo de cafia de azicar. Esta auditora serd apiceble a todas ls abores de rastreo
-‘de preparacién realizadas en fincas bajo adminstracién de Ingenio Santa Ana
+1. OBJETIVO Y ALCANCE,
+Determinar la calidad de operación en la labor de rastreo de preparación con el fin de establecer los
+controles necesarios para el cumplimiento de buenas práctics agríolas y para el cumplimiento con los
+indicadores yvarables establecidos. Así mismo la mejora a ls procesos de preparación de suelos ara el
+manejo integral del cultivo de caña de azúcar.Estaauditoría seré aplicable a todas ls labores de rastreo
+de preparación ralizadas en fncas bajo administración de Igenio Santa Ana.
 
-2, DOCUMENTOS Y REGISTROS QUE APLICAN.
-Especificacion de rastreo de preparacién Cod. 03-965-05-0016
+2. DOCUMENTOS Y REGISTROS QUE APLICAN.
+Especifcación de rastro de preparación Cod. 03-065-05-0016
 
 3. DEFINICIONES.
-2.4 Profundimetro:
-Herramienta de medicién de cuerpo metilico en forma de T con medidas expresadasen centimetros
-para mediciones de profundidad en el suelo.
-2.2 Direccién de laboreo:
-Direccin favorable para une buena ejecucin de la labor yculdado dela maquinara e implemento.
-23 Labor
-Conjunto de actividades, procesosy trabajos de prcticasagrcolas ejecutadas en el campo.
+21 Profundimetr:
+Herramienta de medición de cuerpo metálico en forma de T con medidas expresadas en centimetros
+para mediciones de profundidad en el suelo
+2.2 Dirección de laboreo:
+Dirección favorable para uns buena ejecución de la labor y cuidado de la maquinaría e implemento.
+23 Labor:
+Cenjunto de actvidades, procesos  trabajos de prácticas agricols ejecutadas en el campo,
 24 Cabecereo:
-sel érealaborada cuyo ancho es equivalent al incl de canta peso del tractor hacta la finalzaciin
-{el implemento mas el 50% de la longitud adquirda, Utlzada para que el tractor e implemento no
-saga als calles yrondas.
+Eselára laborada cuyo ancho es equivalente al ico del ontra peso del tractr hacía l finalzación
+del implemento más el S0% de la longitud adquirida, Utlizada para que el tractor e implemento no
+salga a ls calls y rondas.
 
-4, NORMAS.
-El jefe del departamento de gestion de la calidad procesos agricola, analista de procesos de
-auitorias, coordinador de procesos y el auditor de calidad agricola son los responsables del
-Ccumplimiento de este instructive,
+4.NORMAS.
+El jfe del departamento de gestión de la calidad procesos agrícolas, analista de procesos de
+auditorías, coordinador de procesos y el auditor de calidad agríola son los responsables del
+cumplimiento de este instructivo.
 
-(© 2028, Comeatia Ancona arta Ara Est doce no ouede er ord ara
-WY
-saat
+( 2022.Comeañia Acl rrl SartaAna A Est dcument o cude e rcrdució n aterado,
+w
+sN
 
 INSTRUCTIVO
-Rastreo de Preparation Fecha: 31 de octubre 2023
-Departamento de Gestién de Calidad Proceso Agricola
+Rastreo de Preparación Fecha: 31 de octubre 2023
+Departamento de Gestión de Calidad Proceso Agrícla
 
-Codigo: 11-498-04-0021
+Cóigo: 11-494-04-0021
 
-5. DESCRIPCION DE PROCESO.
+5. DESCRIPCIÓN DE PROCESO.
 
 1
 
-Programacién de labores.
+Programación de labores.
 
-‘Cada mayordomo y/o caporal debe informar en los Grupos de Gestign
-e calidad de cada regién el programa de trabajo a seguir con las labores
-a ejecutar el dia siguiente, ads tardar ala 19:00 hrs del dia anterior.
+Cada mayordomo y/o caporal debe informar en los Grupos de Gestión
+de caidad de cadaregión el programa de trabajo a seguir con las labores
+2 ejecutar el dí siguiente, a más tadar a ls 19:00 hr del día anteror.
 
-Tdenticacion de wbicaclon
+Identficación de ubicación
 
-de la labor.
+de l labor,
 
-Elauditor de calidad agricola deberd identificar por fina, lotey division
-‘on la ayuda de ta apicacién movil Avenza maps, en la cual se estard
-{’jecutando a labor de arado de cinceles.
+El auditr de clidad agrcola deberá ¡dentificarporfica,lote y ivsión
+con la ayuda de la aplcación móvil Avenza maps, en la cual se estará
+ejecutando a labor de arado de cinceles.
 
-‘Comunleadion con Finca,
+Comunicación con Finca.
 
-El auditor de calidad agricola deberd comunicar al grupo de Gestion de
-Calidad antes de comenzar a realizar la auditoria con el fin de que los
-Aistintos encargados den acompafiamiento Previo, Durante y Post
-auditoria, Posterior a la notificacion los responsables de la ejecucion de
-la labor no se hacen presente, el auditor debers proceder con la
-auditor
+El audtor de calidad agricola deberá comunicar al grupo de Gestión de
+Calidad antes de comenzar a realizar la auditoria con el n de que los
+distintos encargados den acompañamiento Previo, Durante y Post
+auditora.Posterir la notifiación los responsables de la ejecución de
+la labor no se hacen presente, el aucitor deberá proceder con la
+auditoia.
 
-Distribucon de muestras
+Distribución de muestras.
 
-El auditor deberd ubicarse al final del area laborada e inicla con Ta
-lstribucién de 10 puntos al azar sin ingresar al lote con el fin de
-eterminar el rea muestral de fa auditoria,
+El auditor deberá ubicarse al final del área laborada € Iicia con la
+distribución de 10 puntos al azar sin ingresar al lote con el fin de
+determinar el área muestrl de la auditoria
 
-Delimitacion de calles y
+Delimitación de calles y
 
-rondas
+rondas,
 
-ssicacion vinediion de variabl
+asficación y medición de varzbl
 
 Variables
 
-‘evaluadas
+evaluadas
 
-atribuibles a la maquinaria
+atribulbles a la maquinaria
 
-laborando,
+laborando.
 
-[El auditor debers realizar una inspection al contomo de Tote. #1
-implemento pasara el disco con el Angulo hacia adentro a 45* una sola
-pasada en todo perimetro.
+|El auditor deberá reaizar una inspección al contorno de Tote_ El
+implemento pasara el dico con el Angulo hacia adentro a 45* una sola.
+pasada en todo perímetro,
 
-‘Se Identifies la ublcacién de la maquinaria con el fin de medir las
+Se Identífca la ubicación de la maquinaria con el fin de medir las
 siguientes variables:
 
-Sistema de Trabajo.
+* - sistema de Trabajo.
 
-+ RealizaCabecereo,
+* - Realiza Cabecereo,
 
-+ Traslape,
++ _ Trasape,
 
-‘Sa | Sistema de trabajo,
+51 |sistema de tabajo.
 
-Determinar sila Tabor esta siendo ejecutada en melgas 0 en pasadas
-continuas
-‘+ En melgas: El tractor deberd dejar un espacio sin laborar de 4
-_pasadas iguales al ancho del implemento eingresar ala quinta
-asada en forma de elnse
+Determinarsí la Tabor está siendo ejecutada en melgos 0 en pasadas
+continuas.
++ - En melgas: El tractor deberá dejar un espacio sn laborar de 4
+pasadas iguales al ancho del implemento e inresar a la quinta
+pasada en forma de elpse
 
-32 | Cabeceres.
+52| cabecereo.
 
-EV auditor deberd medir la distancia que Ray entre el nico del lote a Ta
-finalzacién del érea laborada, esta distancia debe estar en dos extremos
-del lote perpendiculares ala ejecucién de la labor.
+El auditor deberá medir la distancia que hay entre l inicio del loe 2 la
+ inalzación del árealaborada, esta distancia debe star en dos extremos
+del lte perpendiculares al ejecución de la labor.
 
-33
+53
 
-Traslape.
+Trasipe:
 
-| Erauaitor deberd realizar una sefalzacin en el primer paso del paar
-Aliscoy al retornar detectar el paso siguiente y siempre detectando |
+| El auditor deberá realizar una sehalzación en el pimer paso del pimer
+dsco y al retornar detectar el paso siguiente y siempre detectando el
 
-primer disco y verifiar el trasiape que hay entre una pasada y otra. Esto
+primer disco y eriicar el rasiape que hay entre una pasada y otra. Esto
 
-<debers repetrse 10 veces en los puntos previamenteestablecidos.
+deberá repetirse 10 veces en los puntos previamente establecidos,
 
 FORMULA:
-Zeraslape
+Etraslape
 
-Traslepe = = eseras realizadas
+Traslane = eseras realizadas
 
-(© 202. Comestia Aras ndsta Sara Ana SA. canto ne ove error atra.
+( 202.Comeañia Aecl Il en Ana 5. Est dcument o mueo e rorducó l atrio.
 
 INSTRUCTIVO
-Rastreo de Preparacién Fecha: 31 de octubre 2023
+Rastreo de Preparación Fecha: 31 de octubre 2023
 
-SANTA.ANA | Departamento de Gestin de Colidad Proceso Agricola
+SANTAANA | - Departamento de Gestón de Celidad Proceso Ayrícola
 
-(Codigo: 11-494-04-0022
+Código: 11-494-04.0021
 
-Versién:2 | pagina ¢de 5 J
+Versión:2 | página:ade s J
 
-© | Sjecucién de las muestas,
+6— [ jecución de las muestras.
 
-auditor buscar el punto geo referenciado en la aplcacin y medi Tos
+El aucitr buscar el punto geo referenciado en la aplicación y medir las
 siguientes variables:
 
-+ Profundidad.
+* - Profundida,
 
-+ Direccin de laboreo.
+e - Dirección de laboreo,
 
-+ Velocidad.
++ _Velocidad.
 
-6a | Medicién de profundia,
+61 | Medición de profundidad.
 
-ETauditor debers introduce la herramienta[Profundimetro) de manera
-Vertical en el punto ya realizado por larastra con el fin de verfcar a qué
-‘medida de profundidad en metros se encuentra,
+El auditor deberá invoducr la herramienta [Profundimetro) de manera
+vertcalen el punto ya realizado por l rstra con el fin de verifcar a qué
+medida de profundidad en metros seencuentra.
 
 FORMULA:
-Eprofundidades mts
-Profundidad smuestras realizadas
+Eprofundidadesmes
+Profundidad muestras realizados
 
-©2_| Direccin de laboreo. | auditor deberévualzar osiguente para determina a confoonided
+62| Direccón de Lboreo. —| Elauditor deberó vualar lo sgulent paradeterminr la conformdad
 
-de esta variable:
-‘+ Sila dieccién de laboreo es a 90° © perpendicular al surco
-anteriormente deberé haberse realizado la labor de rastra super
-‘esada 0 tener un aporque no mayor a 10cm,
-+ ‘Sila direccin de laboreo es paralela al surco el lote no deberd
-tener ninguna labor realizada con anteriridad
+de esta variabl:
++ Si la dirección de laboreo es a 90" o perpendicular al surco
+anteriormente deberá haberserealizado la labor de rastra super
+pesada o tener un aporque no mayor a 10cm.
+* - Sila dirección de laboreo es paralel al surco el lote no deberá
+vener ninguna laborrealzada con anteriridad,
 
-63 _| Velocidad
+63| Velocidad
 
-EV auditor deberd ubicarse a una distancia de SO m de la ola del ote
-‘hacia adentro, luego deberd medic 50 m con ayuda de la cinta meética.
-Dentro de ia medicién deberd calcular ef tiempo en la cual el tractor
-ocoree la distancia establecida. Esto deberdrepetirse 3 veces
+El auditor deberá ublcarse a una distancia de 50 m de a orilla del lote
+hacía adentro, luego deberá medir 50 m con ayuda de lacinta métrica.
+Dentro de la medición deberá calcular el tiempo en la cual el tractor
+recorre la dstanciaestablecida.Esto deberá repetirse 3 veces.
 
-7 [Variables evaluadias
-atribuibles a la maquinaria,
-€e implemento estacionado.
+7 |Variables — evaluadas
+atribubles a la maquinara
+eimplemento estacionado.
 
-El auditor deberd abocarse con el encargado dela labor uoperador para
-recabar la informacion pertinent y validacién de variables a evalua:
+El auditor deberá abocarse con el encargado de la labor  operador para
+recabar la información pertinente y validaión de varíables a evaluar
 
-* Didmetro de discos.
+* - Diámetro de discos,
 
-‘+ Numero de cuerpos.
+* - Numero de cuerpos.
 
-‘+ Estado del implemento.
++ - Estado del implemento.
 
-+ _Mantenimiento del equipo
++ _ Mantenimiento del equipo
 
-7a | Didmetro de discos,
+71 | Diámetro de discos.
 
-El auditor Gebers medir el diémetro del lado frontal de cada disco del
-Implemento, se deberé calcular el promedio de didmetro entre el
-émero de discos.
+El audtor deberá medir el diámetro del lado frontal de cada disco del
+implemento, se deberá calcular el promedio de diámetro entre el
+número de discos.
 
-(©2029 Coma Aacla Inui Sart Ana. SA. Ete doen no outs sr woreda ato
+O 2023 Camesta Acl Iul Sata Ae Estecumento n uede sroroducio i aerado
 
-Departamento de Gestion de Calidad Proceso Agricola
+Departamento de Gestión de Calidad Proceso Agricola
 
-INSTRUCTIVO Cédigo:11-494-08-0021
-Rastreo de Preparacién Fecha: 31 de octubre 2023
+INSTRUCTIVO Código: 11-494-04-0021
+Rastreo de Preparación Fecha: 31 de octubre 2023
 
-[7.2 Estado delimplemento
+[72- [ Estado del mplemento
 
-El auditor deberé evaluar de forma visual el correct estado del
-immplemento utiizado en a labor con los siguientes aspectos a evaluar:
-‘+ Estado de discos
-‘Sistema Hidréulico,
-+ Gilindeos de levante,
-+ chasis.
-‘+ Enganches. |
-‘+ _Calbracisn del implemento.
+El auditor deberá evaluar de forma visual el correcto estado del
+implemento utlzado en a labor conlos siguientes aspectos a evaluar:
+* - Estado de discos.
++ - Sistema Hidráurio.
++ - Cilndros de levante,
+* Chasis,
++ Enganches |
++ _ Calibración del mplemento.
 
-73 _| Mantenimiento del equipo
+73 | Mantenimiento del equipo
 
 |
 
-‘auditor deberdevaluar deforma val os sigulentes aspect
-‘+ Fugasen el cope pido.
-4 Fagasenelsstema hdr, |
-4 Estado dela bara de tro,
-+ Brazos istics.
-+ Fecha de ima servicio.
+E audtordeberáevaluar de forma visalos sgulentesaspects
++ - Fugasenelacopl rápio,
++ - Fugasen el stema idráulco, |
++ - Estdo de a barra de tro,
++ - Braos hisráulcos.
++ —Fecha de últmo senvio.
 
-6. DIAGRAMA DE FLUJO.
-No hay,
+6. DIAGRAMA DE FLUJO
+No hay.
 
 7. MATRIZ PLAN
-No aplica
+No aplica.
 
 8. CONTINGENCIAS
 No hay.
 
-9. ANEXOS,
-No hay.
+9. ANEXOS
+No hay
 
-Jocumento cambia en estructura y redaccién acién a su versién anterior
+documento cambia en estructura y redacción ración a su versión anterior
 
-(92023 Comsat Arcola Inui arta Ana. S.A Ete documento no utd sr ered arade
+( 202.Campañi Aecl Iul Sarta Ae A Estedocumento n uedo srreroci r amada
 

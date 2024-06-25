@@ -22,7 +22,7 @@ def extract_text_from_pdf(pdf_path):
         img = Image.open(io.BytesIO(pix.tobytes()))
         
         # Extraer texto de la imagen
-        text += pytesseract.image_to_string(img, lang='eng')  # Cambia 'eng' a 'spa' para español
+        text += pytesseract.image_to_string(img, lang='spa')  # Cambia 'eng' a 'spa' para español
 
     return text
 

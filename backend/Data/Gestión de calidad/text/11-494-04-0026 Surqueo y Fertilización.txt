@@ -1,223 +1,222 @@
-INSTRUCTIVO Cédigo: 11-498-04-0026
-Surqueo y Fertilizacién Fecha: 31 de octubre 2023
+INSTRUCTIVO Código: 11-194-04-0026
+Surqueo y Fertilización Fecha: 31 de octubre 2023
 
-Departamento de Gestion de Calidad Proceso Agricola
+Departamento de Gestión de Calidad Proceso Agricola
 
 CONTENIDO
-1 OBJETIVO Y ALCANCE.
+1. OBIETIVO Y ALCANCE.
 
-2. DOCUMENTOS ¥ REGISTROS QUE APLICAN..
+2. DOCUMENTOS Y REGISTROS QUE APLICAN..
 3. DEFINICIONES...
 
-2.1 Profundimetro
-23 Labor.
+21 Profundímetro:
+23 Labor
 
-2.3 helicoidates:
-4, NORMAS.. .
+23 helicoidales
+4.NORMAS. .
 
-5. DESCRIPCION DE PROCESO,
-6. DIAGRAMA DE FLUJO
-77. MATRIZ PLAN,
+5. DESCRIPCIÓN DE PROCESO,
+6. DIAGRAMA DE FLUJO.
+7. MATRIZ PLAN,
 
-8. CONTINGENCIS...
+. CONTINGENCIAS...
+9.ANEJOS.
 
-9. ANEXOS.
+E
 
-BaBORS,
+FW PROBÓ
 
-Ane “aPR086
+rocmos hr Gn dG e lCd
+Deparamento de asón de lad
+p f 13/2/0023
 
-trons cous eset Cd
-Dapranets de an ea cand
-ce art feom 13/i2/2023
-
-(©2023, Comesta Avil Indust Sara Ana. S.A. Ete cuanto no pune er oro ater,
+( 202,Comosfa Acl Induvíal an Ana. 5. Est cumanto o sund errenrduci l ur
 
 |
-INSTRUCTIVO Codigo: 11-494-04.0026
+INSTRUCTIVO Código: 11-494-04-0026
 
-Surqueo y fertlzacién Fecha: 31 de octubre 2023
+Surqueo y fertiización Fecha: 31 de octubre 2023
 
 1. OBJETIVO Y ALCANCE.
-Determinar la calidad de operacién en la labor de surqueo y ferlzacién con el fin de establecer los
-Controles necesarios para el cumplimiento de buenas pricticasagricolas y para el cumplimiento con los
-Indicadores y variables establecidos. As mismo la mejora los procesos para el manejo integral del cultvo
-de cafa de azicar,
+Determinar la calidad de operación en la labor de surqueo y fertlización con el in de establecer los
+controles necesaris para el cumplimiento de buenas práctcas agrícolas y para el cumplimiento con los
+Indicadores y varablesestablecidos.Así mismo la mejor a los procesos para el manejointegral del culivo
+de caña de azúcar.
 
 2. DOCUMENTOS Y REGISTROS QUE APLICAN.
-Especificacién Cod. 3-965-05-0022 Parémetra Surqueo y Fertlizacién VO3
+Especifcación Cod. 3-965-05-0022 Parámetro Surqueo y Fertiización VO3
 
-3, DEFINICIONES.
-2.1 Profundimetro
-Herramienta de mediciin de cuerpo metilico en forma de T con medidas expresadasen centimetros
-pare mediciones de profundidad en el suelo.
+3. DEFINICIONES.
+21 Profundimetro:
+Herramienta de mesición de cuerpo metálico en forma de T con medidas expresadas en centimetros
+para mediciones de profundidad en el suelo.
 23 Labor:
-Conjunto de actividades, procesos y trabajos de pracicas agrcolasejecutadas en el campo.
-2.3 holicoidates:
-Es una forma tridimensional que tiene la apariencia de una hélice o tornillo. Esta estructura se
-‘aracteriza por su forma en espira, similar ala osca de un torillo ola hélce de un avién
+Conjunto de actvidades, procesos y trabajos de practica agrcolasejecutadas en el campo.
+23 holioidales:
+Es una forma trdimensional que tene la apariencia de una hélice o tomillo. Esta estructura se
+caracteriza por u forma en espiral,similar a rosca de un tomilo 0 la hélice de un vión.
 
-4, NORMAS.
-El jefe del departamento de gestion de la calidad procesos agrcolas, analista de procesos de
-‘usitorias, coordinador de procesos y el auditor de calidad agricola son los responsables del
-‘cumplimiento de este instructiv.
+4.NORMAS.
+El jefe del departamento de gestión de la calidad procesos agricolas, analita de procesos de
+auditorías, coordinador de procesos y el auditor de calidad agrícola son los responsables del
+cumplimiento de este nstructivo.
 
-(©2023 Comest Aro Indust Sara Ana. A Este documento no outde ser eric meade
+( 202.Comosfía Acl Indueli Sarta Ana. . Estedcumento o puede r reroducio e aado
 
-Depaamen de Geindeatedrom sect Tvenina | naga ece |
-InstRUCTIVO lag isso
+Oeprameno e cnóne alc i[a | pigaszoeo |
+INSTRUCTIVO c ii
 
-SANTANA | Departamento de Gestin de Calidad Proceso Agricola
+SANTAANA | - Departamento e Gestón d Calida Proceso Agrícola
 
-5. DESCRIPCION DE PROCESO.
+5. DESCRIPCIÓN DE PROCESO.
 
-3 | Progremacién de labores. | Cada mayordomo y/o capora debe informar en los Grupos de Gestcn
-calidad de cad region el programa de trabao a seguir con las labores
-| a ejecutar el dia siguiente, emis tadar alas 19:00 hrs del dia anterior.
+2 | Programación e lbores. —| Cada mayordomo y/o caporal debe nformar en los Grupos de Gestón
+decalidad de c rgión el prgrama de trabao  seguir con la labores
+! 2 ejecutar el dí siguente, a más tardar a las 19:00hrs del día anterior.
 
-2 | Wdentifiacion de ubicacion cola deberd identifica por inca, lot y division
+2— identificación de ubicación cola deberá ¡dentificar por finca,lote y dviión
 
-della labor. on la ayuda de ta apicacién mévil Avenza maps, en la cual Se estard
-ejecutando la labor de surqueo yfertilzacin,
+delalabor. -con la ayuda de la aplcación móvil Avenza maps, en la cual se estará
+ejecutando la labor de surqueo y fertilizacin.
 
-3° | Comunicacién con Finca. El auditor de calidad agricola deberd comunicar al grupo de Gestion Je
+3 | Comunicación con Finca. — €l auditor de calidad agrícoia deberá comunicar al grupo de Gestón de
 
-Calidad antes de comencara realizar la auitria con el finde que los
+Calidadantes de comenzar a realzar la audtriacon el fn de que los
 
-Aistintos encargados den acompafiamiento Previ, Durante y Post
+distintos encargados den acompañamiento Prevo, Durante y Post
 
-‘uditoria. Posterior ala notficacién los responsables de a elecucén de
+auditoria.Postrior a la notficación ls responsables de la ejecucón de
 
-Ja labor no se hacen presente, el auditor deberé proceder con lo
+1a labor no se hacen presente, el auditor deberá. proceder con la
 
-auditor
+auditoria.
 
-4 Distbucin de muestras. £1 auditor deberd ubicarze al final del Sea loborads € Tne con Te
-| eistibucién de 10 puntos al azar sin ingresar a! lot con el fin de
+4 —| istribución de muestras. — €l auditor deberá ubicarse al fnal del reo Taborada e nica con la
+| astrbución de 10 puntos al azar sin ingresar al lote con el fin de
 
-[5 Verubles  evaundes Se enon re ee
+[5--* [Vales — ealuadas Se entifo a meon o TA T TT
 
-atrbuibles a la maguinaria | siguientes variables:
+atribubles a la maguinaria | sguientes variables:
 
-laborando. Velocidad
-+ Distancia entre pasadas.
-Sa_| Velocidad El auditor deberd pararse a una distancia de SO m de Ta orila del late
+laborando, + - Velocidad
++ _ Distanca entre pasadas.
+51| velocidas El auditor deberá pararse a una distancia de 50 m de la orila del ote
 
-hacia adentro, luego deberd medir 50 m con ayuda de la cinta métrica
-Dentro de fa medicién deberd calevar el tiempo en la cual el tractor
-recorte la distancia estableida, Esto deberérepetirse 3 veces,
-FORMULA
-
-5.2 | Distancia entre pasadas. | El auditor deberd realizar una seflalzacion en el Ukimo surco realized
-
-Por el surqueadoy al retornar detectar el primer surco, Entre ellas medit
-la distancia a la que se encuentran, esto deberd repetise 10 veces en
-distintas pasadas distribuido en el ote.
-
-FORMULA:
-Ximetros lineales
-rancia entre = Zeros lineales_
-Distancia entre pasadas = as realigadas
-6 | Elecucién de las muestras. | ET auditor buscar el punto geo referenciado en la apliadiGn y medi lay
-siguientes variables:
-‘+ Distanciamiento entre surco,
-|e rotunda
-
-(©7023, Coro Aaa Indl Sata Ana. S.A. Exe documento no suede se root atc.
-Surqueo y:
-Departamento de Gestién
-
-fertitzacién Fecha: 31 de octubre 2023
-de Calidad Proceso Agricola
-
-INSTRUCTIVO Codigo: 11-494-04-0026
-
-Verin:2 | pana: ages J
-
-61 _ | Distancia entre sure
-
-‘Elauditor deberd medir el ancho de surco en la misma ubicacion donde
-valizo la profundidad y cama de germinacién,
-
-62 _ | Medicion de profundided
-
-El auditor deberd introducir la herramienta(Profundimetro) de manera
-vertical en el surco sin ejercer presién hacia abajo, nivelar el suelo del
-surco antes de la medicin con el fin de verificar a que medida de
-profundidad en metros se encuentra realizada
-
+hacía adentro, luego deberá medir 50 m con ayuda de la cinta métrica.
+Dentro de la medición deberá calcular el tiempo en la cual el tractor
+recorre l dstanciaestablecida, Esto deberá repetirse 3 veces.
 FORMULA:
 
-Eprofundidades mes
-Profundidad  vrupstras realizadas
+527 | Distancia entre pasadas. —| El auditor deberá realzar una señalzación en el último surco realizado
 
-63) Cama de germinacion,
+porel surqueado y l retomar detecta el primer surco, Entreellas medir
+la distancia a la que se encuentran, esto deberá repetirse 10 veces en
+ditintas pasadas ditribuido en el ote.
 
-ETauditor posteriora la medicign de profundidad deberd ejercer una leve
-‘fuerza hacia abajo para identifcar que drea laborada no fue surqueada,
+FORMULA:
+Emetros líneales
+ancia entre = -Imerros lneales_
+Distancia entre pasadas = aa
+6—| Ejecución de las muestras. — El auditor buscar el punto geo referenciado en la aplieación y medir as
+siguientes variabls:
+* - Distanciamiento entre surco
+| — rofundida:
 
-7 | Variables evaluadas
-atrbuibles a fa maquina
-«e implemento estacionado.
+O 2022 Comosia Ancl ual Saa An. 5A Es decumero n cuedo sa rordució aa
+Surqueo y
+Departamento de Gestión
 
-El auditor deberd abocarse con elencargado dela labor u operador para
-recabar la informacion pertinent y validacin de variables a evaluat:
-* Presenta orden de trabajo.
-6 coefciente de variacin,
-% varlacion entre caidas.
+fertilización Fecha: 31 de octubre 2023
+de Calidad Proceso Agrícola
+
+INSTRUCTIVO Código: 11-192-04-0026 ,
+
+Verión:2 | páginsa de 6 J
+
+61 - [ Distanca entresurco
+
+“El auditor deberá medir el ancho de surco en e misma ubicación donde
+realizo la profundidad y cama de germinación.
+
+62| Medición de profundidad
+
+El auditor deberá inroducir la herramienta (Profundimetro) de maniera
+vertical en el surco sínejercer presión hacl abajo, nvelar el suelo del
+surco antes de la medición con el fin de veriicar a que medida de
+profundidad en metros se encuentra realizada,
+
+FORMULA:
+
+Eprofundidades mts
+Profundidad = muestras realizadas
+
+63| Camade germinación,
+
+Elauditor posteriora la medición de profundidad deberá ejecer unaleve
+fuerza hacia abajo para identifcar qé área lborada no fue surqueada,
+
+7 | Variables ———evaluados
+atribubles a la maquinara
+eimplemento estacionado,
+
+El auditr deberá abocarse con el encargado de la labor u operador para
+recabar la información pertinente y alidación de variables a evaluar
+« - Presenta orden de trabajo,
+% coeficente de vaiación,
+% varlacón entre aídas.
 Mantenimiento del equipo.
-Disefio agricola,
-+ _Dias después de cosecha.
+Diseño agrícola.
++ __Días después de cosecha.
 
-Ta_| Presenta orden de taba.
+71 | presenta orden de rabajo.
 
-Tauditor deberdsolictar con los ditntos encargados el documento,
-informacion de dosis, formula a utilizar y otras datos pertinentes para
-auditor "|
+Elauditor deberá solctarcon os distntos encargados el documento, la
+Información de dosi, formula a utilizar y otros datos pertinentes para
+auditoria, *|
 
-72_| % Coeficiente de variadn
+72 | Coeficiente de variación
 
-El auditor debra pesary colocar los recientes en cada sada,
-Con el tiempo en ia cual la maquinaria demoro en recorrer los 50 metros
-ebers realizar la descarga. EI auditor deberé tomar en cuenta lo
+El auditor debierá pesar y colocarlosrecipientes en cada salida.
+Con el tiempo en la cual l maquinara demoro en recorrerlos 50 metros
+deberó realzar la descarga. El auditor deberé tomar en cuenta lo
 siguiente:
-‘+ Silas descargas 1y2.son homogéneas, deberd omitrla descarga
-3.
-‘Silas descargas 1 y 2 son heterogéneas, deberd realizar la
++ - Silas descargas 1y 2 son homogéneas, deberá omitirla descarga
+E
+* Si las descargas 1 y 2 son heterogéneas, deberá realzar la
 descarga 3.
 
-73_| Fe variacibn entre caldas,
+73 | N Variación entre caidas.
 
-Para caleuiar le siguiente variable el auditor deberd utilizar la formula
-Lexpresada en a figura Slver anexos),
+Para calcular la sguiente variable el autor deberá utiizr la formula
+expresada en a figura S(ver anexos).
 
-7a_| Mantenimiento del equipo
+74 | Mantenimiento del equipo
 
-El auditor deberé evalua de forma visuallos siguientes aspectos
-‘+ Fugasen el acople répido,
-Fugas en el sistema hidrulico,
+El auditor deberá evaluar de forma visul s sigulentes aspectos:
++ - Fugasen elacople rápido.
+Fugas en el sistema hidráuico,
 
-Estado de helicoidales
+Estado de helloidales.
 
-Brazos hidréulicos.
+Brazos hidráulicos.
 
-Fecha de itimo servicio,
+Fecha de último servicio
 
-Calibracién de cultivadora
+Calibración de culivadora,
 
-Estado de las thas, |
+Estado de las tolvas, |
 
-(© 2023, Comest Arc Inui arta Ana. S.A Ete documento no utd sr erode taco
+( 202 Comesñía Acl IndueílSanta Ana. . Estecoumento n uede r eroducio n aado.
 
-INsTAUCTIVO Cag taboo
+INSTRUCTIVO ia pc
 
-SANTANA | Deveramento de Gestn de Catdad Proceso Aereala | Versin-2 | pagnar gee
+SANTA MA | - Depetamento de Gestón de Caida rocesoAgríao - [—yaragn z T agy de
 
 6. DIAGRAMA DE FLUJO
-No hay.
+No hay
 
 7. MATRIZ PLAN
-No aplica
+No aplica.
 
 8. CONTINGENCIAS
 No hay.
@@ -225,37 +224,37 @@ No hay.
 9. ANEXOS
 Formulas (Figura 1)
 
-falibrar dosis: Proceder a realizar 3 descargas ycalcular promedi entre ell.
-Tara = Peso de Recipiente » cafdas
+jalibrar dosis: Proceder a realizar 3 dscargas ycalculr promedio entre ella.
+Tara = Peso de Recipiente + caídas
 
-‘m? Evaluados = Ancho de Surco * No. Tolva + distancia recorrida
+m Evaluados = Ancho de Surco » No. Tolv + distancia recorrida
 
-‘m2 Evaluados + dosis por Hectaria (gq)
+m2 Evaluados « dosis por Hectaria (9a)
 
-Libras esperadas Ha (100007)
+Libras esperadas Tía 10000 mE)
 
-tras Obtenidas = Descargas Tara
+vras obendas = Y Descargas re
 
-bras obtenidas ~ Libras Esperadas |
+Labras obtenidas — Libras Esperadas
 
-weev Uibras Esperadas 100
-alda
-96 Entre Caldas => Saida—<Calda | 9
+e Libras Esperadas 100
+aída
+% Entre Caídas = Eelda —<Calda, .qq
 
-¥ Caldas
+ECaldas
 
-Libras obtenidas » Ha (10000m?)
+Libras obtenidas + Ha (10000m?)
 
-aa/te a
+a0/1 E
 
-1 2029, Comes Avot nut arta Ana. A. Ete cumin unde er eroducto Watered,
+( 202.Comeañia Acl Induetíal Santa Ana . Est dcument o ur er recrducóo n ateado
 
-Departamento de Gestién de Calidad Proceso Agricola
+Departamento de Gestión de Calidad Proceso Agrícola
 
 Este documento ca
 
-n est
+n estr
 
-edaccién en comparacién a su versién anteri
+redacción en comparación a su versión anteric
 
-(© 202, Careta Arc industi arta Ana, SA. ele document o outer oro head
+9 202,Camosfía Acl IndusilSnta Ana. .A Este cocumento o uede r rc anado

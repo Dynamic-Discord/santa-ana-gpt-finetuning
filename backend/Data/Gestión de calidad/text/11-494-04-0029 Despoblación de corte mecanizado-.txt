@@ -1,300 +1,298 @@
-Devaraento de Gesin ecanePrencs eas | venga | pagnwiee |
+Oeprament de nn de a rocmos An | Vagnz | ramarao )
 
 CONTENIDO
-1. OBJETIVO V ALCANCE.... ———
-2. DOCUMENTOS REFERENCIALES Y REGISTROS QUE APLICAN.
-3. DEFINICIONES...,
-3.1. Porcentaje de poblacién,
-3.2. Porcentaje de despoblacién
-3.3. Nimero de grupos de cafia anclada...
+1. OBIETVO Y ALCANCE .. —
+2 DOCUMENTOS REFERENCIALES Y REGISTROS QUE APLICAN.
+3 DEFINICIONES....
+31 Porcentaje de población.
+3.2. Porcentaje de despoblación.
+3.3. Número de grupos de caña anclada....
 
-3.4, Nomero de grupos de cafa expuesta,
+3.4. Número de grupos de caña expuesta.
 35. NOV.
-3.6, Avenza Maps
-4. NORMAS. .
-5. MATERIALES Y EQUIPO.
-6. _DESCRIPCION DEL PROCESO.
-7. ANEXOS.
+36. Avenza Maps
+4. NORMAS. -
+5. MATERIALES Y EQUIPO..
+6. . DESCRIPCIÓN DEL PROCESO,
+7 ANEJOS.
 
-bbb bRREK RRR RR
+Ú bbRkhhkkhhkhhh
 
-"R086
+E
 
-a
+—
 
-Coorinadr de Cada de Corte ents Gaston Seb Col
-‘Sestin de a Cada Procesos Agrcolas | Jefe Departamento de Gestion dela me ales
-Gestién de la Calidad (Calidad Procesos Agrcolas fecre: 13/12/2022
+Coordinador de Caidad de Corte ente Cec e b Ca
+ Getón de a Calida Proesos Arícnas | Jefe Departámento de Gstón de la e laa
+Gestión de la Calidad Calidad Procesos Agríclas Fece: — 13//2/2023
 
-(©2029, Campata Aci india Santa a, SA Erie dimen ma pnd er epee rads
-Departamento de Gestn de Cad races Ags | verona] apamaace |
+( 202 Campañía Acl Iul Sant Ana, . Estedcumnto o unde r reprodució i aado.
+Deparamento de Gein d lad Process Agc yan y | ragaazes |
 
-SANTANA
+SANTAAMA
 
 1. OBJETIVO Y ALCANCE
-Evaluar la despoblacién presente en los campos de cafla de azicar antes y después del proceso de corte
-‘mecanizado, para determinar qué porcentaje de la despoblacién es atribulble directamente al proceso
-€ implementar acciones correctivas o de mejora continua en la operacién para reducir los costos
-asociados ala resiembra o renovacién de los campos.
+Evaluar la despoblación presente en los campos de caña de azúcar antes y después del proceso de corte
+mecanizado, para determinar qué porcentaje de la despoblación es atribuible directamente al proceso
+€ implementar acciones correctivas o de mejora continua en la operación para reducir los costos
+asociados a la resiembra o renovación de los campos.
 
-2. DOCUMENTOS REFERENCIALES Y REGISTROS QUE APLICAN.
-2.2. Administracin de Documentos y Registros, c6digo: 11-493-03-0001,
+2. DOCUMENTOS REFERENCIALES Y REGISTROS QUE APLICAN
+2.1. Administración de Documentos y Registros, código: 11-493-03-0001
 
 3. DEFINICIONES
-3.1. Porcentaje de poblacién
-Proporcién o niimero de plantas de cafia de azicar presentes en un érea especifica,
+31 Porcentaje de población
+Proporción o número de plantas de caña de azúcar presentes en un área específca.
 
-3.2. Porcentaje de despoblacién
-Proporcién o numero de plantas de cafia de azicar que no estén presentes o han desaparecido de un
-rea especifica por efecto de alguna labor agricola o cosecha,
+3.2. Porcentaje de despoblación
+Proporción o número de plantas de caña de azúcar que no están presentes o han desaparecido de un
+área específica por efecto de alguna labor agrícola o cosecha.
 
-3.3. Ndimero de grupos de cafa anclada
-Se refiere a la cantidad de macollas de cafa de azicar que estan enraizadas o ancladas al surco en un
-rea de cultivo especifica,
+33. Número de grupos de caña anclada
+Se refiere a l cantidad de macollas de caña de azúcar que están enraizadas o ancladas al surco en un
+área de cultivo específica,
 
-3.4, Niimero de grupos de cafia expuesta
-Se refiere a la cantidad de macollas de cafta de azdicar que no estén enraizadas o ancladas al surco en
-un drea de cultivo especifica,
+3.4. Número de grupos de caña expuesta
+Se refiere a la cantidad de macollas de caña de anúcar que no están enraizadas o ancladas al surco en
+n área de cultivo específica.
 
-3.5. NDVI
-Indice de vegetacién de diferencia normalizada. Utlzado para estimar la cantidad, calidad y desarrollo
-de la vegetacién.
+35. NDVI
+Índice de vegetación de diferencia normalizada. Utlizado para estimar la cantidad, calidad y desarrollo
+de la vegetación.
 
-3.6, Avenza Maps
-Aplicacién mévil para leer mapas geoespaciales en formato POF.
+3.6. Avenza Maps
+Aplicación móvi para leer mapas geoespaciales en formato PDF.
 
 4. NORMAS
-Eljefe del departamento de gestién de la calidad procesos agricolas, coordinador de calidad de corte y
-el evaluador de calidad agricola son los responsables del cumplimiento de este instructivo.
+El jefe del departamento de gestión de la calidad procesos agrícolas, coordinador de calidad de corte y
+el evaluador de calidad agrícola son los responsables del cumplimiento de este instructivo.
 
-El asistente administrativo es el responsable de generar los mapas NOVI del programa semanal de
-cosecha, los cuales deben estar geo-referenciados en formato POF. Este seré compartido a los
-evaluadores en el grupo de WhatsApp nombrado como: CALIDAD DE CORTE (periodo zafra).
+El asistente administrativo es el responsable de generar los mapas NDVI del programa semanal de
+cosecha, los cuales deben estar geo-referenciados en formato PDF. Este será compartido a los
+evaluadores en el grupo de WhotsApp nombrado como: CALIDAD DE CORTE (período zafro).
 
-(©2023, Conpata Agrcl nsutral Sata An, SA Exe documeto no pude erp are.
-Despoblacién de Corte Mecanizado
-SANTANA. | Dep2rtamento de Gestion de Calidad Procesos Agrcolas
+O 2023 CompdlaAgrena nusri Se An, 5A Es documeno ra pudeverrproduco n aedo
+Despoblación de Corte Mecanizado
+SANTA ANA —| Departamento de Gestión de Calidad Procesos Agrcolas
 
-baligo: 1-408.04-0009
+óaigo: 11498040029
 INSTRUCTIVOS Fecha: 31 de octubre 2023
 
-Versién:3 | Pagina: 3de8
+Versión:3 | Página:3 de s
 
-El coordinador deberé realizar la programacién del muestreo con un dia de anticipacién, seguin el
-avance de la cosecha. Este serd compartido a los evaluadores en el grupo de WhatsApp nombrado
-‘como: CALIDAD DE CORTE (periodo zofra)
+El coordinador deberá realizar la programación del muestreo con un día de anticipación, según el
+avance de la cosecha. Este será compartido a los evaluadores en el grupo de WhatsApp nombrado
+como: CALIDAD DE CORTE (perfado zafra).
 
 5. MATERIALES Y EQUIPO
 
-Para realizar el muestreo se utilizan los siguientes materiales: Cinta métrica, machete, trompos ©
-estacas, guantes, calculadora, boleta, tabilla,lapicero y dispositivo mévil,
+Para realizar el muestreo se utilizan los siguientes materíales: Cinta métrica, machete, trompos o
+estacas, guantes, calculadora, boleta, tablilla, lapicero y dispositivo móvil.
 
-{6._DESCRIPCION DEL PROCESO
+6. DESCRIPCIÓN DEL PROCESO
 
-NO. ‘ACTIVIDAD
+NO. ACTIVIDAD
 
-DESCRIPCION
+DESCRIPCIÓN
 
-1. | Medicién dela
-operacin de
+1-| Medición de la
+operación de
 cosechadoras.
 
-ET evaluador de calidad agricola deberd ubicar en campo Tas
+El evaluador de calidad agrícola deberá ubicar en campo las
+cosechadoras a evaluar y realzar las siguientes medicion
++ Velocidad de operación.
 
-ccosechadoras a evaluary realizar las siguientes medicion
+* — RPM del extractor primario.
 
-‘+ Velocidad de operacién.
+* - Realizar la evaluación del nivel de desgaste de las diez cuchillas
+del sistema de corte base, utilizando el medidor presente en la
+Figura 1. Dicha evaluación será clasificada en: nivel 0 (0 a 4 mm),
+nivel 1(5:a 9 mm), nivel 2 (10.a 14 mm) y nivel 3 (>= 15mrm).
 
-‘© RPM del extractor primario,
-
-© Realizar la evaluacién del nivel de desgaste de las diez cuchillas
-del sistema de corte base, utllizando el medidor presente en la
-Figura 1. Dicha evaluacién sers clasficada en: nivel 0 (0 a 4 mm),
-nivel 1 (5 a9 mm), nivel 2 (10 a 14 mm) y nivel 3 (> = 15mm),
-
-2_| Ubicacién de Tos
+2- | Ubicación de los
 puntos de muestreo.
 
-Elevaluador deberd ubicar los puntos de muestreo, considerando los
+El evaluador deberá ubicar los puntos de muestreo, considerando los
 
 siguientes pasos:
 
-‘© Abrir la aplicacién Avenza Maps Versién 5.1.1 y carga el mapa
-NDVI del ote.
+* - Abrir la aplicación Avenza Maps Versión 5.1.1 y cargar el mapa
+NDMI del ote.
 
-© Verificar el drea a cosechar e identificartaen el mapa (Figura 2).
+* - Verificar el área a cosechar e dentifiarla en el mapa (Figura 2).
 
-* Distribuir en el mapa dos muestras por cosechadora. La
-distribucién debe realizarse segin la variabilidad visual del NOVI,
-cconsiderando éreas de alta, media y baja produccién (Figura 2).
+* - Distribuir en el mapa dos muestras por cosechadora. La
+distribución debe realizarse según la variabilidad visual del NDVI;
+considerando áreas de alta, media y baja producción (Figura 2).
 
-‘+ _Proceder a ubicar las muestras en campo con Avenza Maps.
++ _Proceder a ubicar las muestras en campo con Avenza Maps.
 
 3. | Escogencia de los
 surcos a muestrear
 
-‘Al ubicar el punto de muestreo, el evaluador deberd de seleccionar
+Alubicar el punto de muestreo, el evaluador deberá de seleccionar
 dos surcos continuos a muestrear, con el objetivo de tener en la
 parcela de muestreo un surco de ida y un surco de regreso en la
-‘operacién de la cosechadora, como se ilustra en la Figura 3.
+operación de la cosechadora, como se ¡ustra en la Figura 3.
 
-4. | Tamafio dela
+4 [ Tamaño de la
 muestra
 
-Utilizando la cinta métrica, el evaluador deberé medir 500 cm de |
-largo de cada surco para realizar la medicién de la despoblacién,
-‘Como se muestra en la Figura 4,
+Utilizando la cinta métrica, el evaluador deberá medir 500 cm de |
+largo de cada surco para realizar la medición de la despoblación.
+Como se muestra en la Figura 4.
 
-(©2023, Conta Agcla sui! Sania As, S.A Ete decom no psd sree nated.
-Despoblacién de Corte Mecanizado
-Departamento de Gestén de Calidad Pracesos Agrcolas
+( 202, Compañía Agcl Iul Si Aa, 5A E dcurnto n pedeserrpreducio n aerdo.
+Despoblación de Corte Mecanizado
+Departamento de Gestión de Caliad Procesos Agrcolas
 
-Césig:11-494.04-0028
+Cósig: 1-494.04.0025
 INSTRUCTIVOS Fecha: 31 de octubre 2023
 
-Versién:3 | Pégina:4 de 8
+Versión:3 | Página:4 de s
 
-NO. | __ ACTIVIDAD DESCRIPCION
-5. | Delimitacidn dela | El evaluador deberd delimitar la muestra colocando trozos de cafia
-muestra tenterrados en los extremos y en la parte del medio de los surcos a |
+NO- ] ACTIVIDAD DESCRIPCIÓN
+5. | Delimitación de a —| El evaluador deberá delimitar la muestra colocando trozos de caña
+muestra enterrados en los extremos y en la parte del medio de los surcos a |
 
-‘muestrear, como se muestra en la Figura S,
+muestrear, como se muestra en la Figura 5,
 Se deben colocar cuatro trozos parados y dos trozos formando una
 cruz (Figura 6) para fijarlos de tal forma que posterior al paso de la
-cosechadora, se puedan encontrar los puntos y poder realizar la
-medici6n después de cosecha,
+cosechadora, se puedan encontrar los puntos y poder realizar la.
+medición después de cosecha.
 
-6. | Conteo de grupos de | Para realizar medicién antes del paso de la cosechadora, el evaluador
+6-| Conteo de grupos de —| Para realizar medición antes del paso de la cosechadora, el evaluador
 
-cata, medicién de
-lineas de surco
+caña, medición de
+líneas de surco
 pobladas y
 despobladas antes de
 la cosecha.
 
-deberd realizar los siguientes pasos:
+deberá realizarlos siguientes pasos:
 
-‘+ Contar el niimero de grupos de cafia presentes (anclados 0
-‘expuestos) antes de la cosecha por cada surco delimitado y se
-‘anotan en la boleta respectiva
+* Contar el número de grupos de caña presentes [anclados o
+expuestos) antes de la cosecha por cada surco delimitado y se
+anotan en la boleta respectiva.
 
-‘© Contabilzar 500 cm por cada linea de surco evaluads
+* - Contabilizar 500 cm por cada línea de surco evaluad:
 
-© Considerar un espacio vacio cuando sea mayor a 50 em,
+* - Considerar n espacio vacio cuando sea mayor a 50 cm,
 
-© En la boleta se anotan de forma alterna los espacios poblados y
-los espacios despoblados.
+* - En la boleta se anotan de forma altema los espacios poblados y
+los espacios despoblados,
 
 La forma de hacer las mediciones se presenta en la Figura 7.
 
 Conteo de grupos de
-caffa, medicién de
-lineas de surco
+caña, medición de
+líneas de surco
 pobladas y
 despobladas después
 de la cosecha.
 
-Para realizar la medicién después del paso de la cosechadora, el
+Para realizar la medición después del paso de la cosechadora, el
 
-evaluador deberd realizar los siguientes pasos:
+evaluador deberá realizar os siguientes pasos:
 
-+ Ubicar los puntos de muestreo con Avenza Maps.
+* - Ubicarlos puntos de muestreo con Avenza Maps.
 
-‘Buscar los trompos instalados en cada punto de muestreo.
+* - Buscar los trompos instalados en cada punto de muestreo.
 
-‘+ Limpiar el dea de cada punto de muestreo para que facilite la
-labor de conteo,
+* - Limpiar el área de cada punto de muestreo para que faciite la
+labor de conteo.
 
-‘+ Realizar conteo de grupos de cafiapresentes en la linea de surco
-yyla medicién de surco poblado y despoblado,
+* - Realizar conteo de grupos de caña presentes en la línea de surco
+v a medición de surco poblado y despoblado,
 
-La forma de hacer las mediciones se presenta en la Figura 8,
+La forma de hacer las mediciones se presenta en la Figura 8.
 
-Estimacion de la
-despoblacién.
+Estimación de la
+despoblación.
 
-Elevaluador deberd realizar los siguientes cdleulos
+El evaluador deberá realizar os siguientes cáleulos:
 
-+ Sumar el total de centimetros dela linea del surco poblados.
+* Sumareltotal de centímetros de la línea del surco poblados.
 
-© Sumar el total de centimetros dela linea del surco despoblados.
+* Sumar el total de centímetros de la línea del surco despoblados.
 
-‘+ Sumar los centimetros de la linea del surco poblada y la
-despoblada, para obtener un total de 500 em evaluados.
+* Sumar los centímetros de la línea del surco poblada y la
+despoblada, para obtener un total de 500 cm evaluados.
 
-(©2023, CompaiaApicl Inui! Sania A, S.A. Ele deci no poate
+( 202, Compañia Agcl Indutil Seta Aa.SA.Etedcurento n puede
 
-1 epacis n aterdo,
-4 Cédigo: 13-494.04-0029
+Y repadcio n atraso
+¿ Código: 11-494.01.0025
 INSTRUCTIVOS Fecha: 31 de octubre 2023
-Despoblacién de Corte Mecanizado
+Despoblación de Corte Mecanizado
 
-SANTAANA. | Departamento de Gestiin de Caiac Procesos Agricoas
+SANTA ANA | Depertamento de GestióndeCaidad Process Aprícolas
 
-versién:3 | Pagina: Sdee
+Versión:3 | Página:S de e
 
-ACTIVIDAD DESCRIPCION
-© Aplicar las siguientes formulas para obtener los respectivos
+ACTIVIDAD DESCRIPCIÓN
+* - Aplicar las siguientes fórmulas para obtener los respectivos
 porcentajes:
 
-‘Suma de centimetros poblados
+suma de centímetros poblados
 
-‘de poblactin 500 cm evaluados
-
-100
-
-ssuma de centimetros despoblados
-
-‘ede despoblactts 500 cm evaluados
+% de población 500 em evaluados
 
 100
 
-9. | Determinacién de | El evaluador deberd determinar con los pardmetros establecidos sil
-conformidad. resultado de la evaluacién es CONFORME o NO CONFORME.
+suma de centímetros despoblados
+
+% de despoblació 500 cm evaluados
+
+100
+
+9- | Determinación de —| El evaluador deberá determinar con los parámetros establecidos si el
+conformidad. resultado de la evaluación es CONFORME o NO CONFORME.
 7. ANEXOS
 
 Figura 1. Medidor del desgaste de las cuchilas del sistema de corte base.
 
-(©2023, Comptia Aalst! Sania An, S.A Eee acura ue
+19202 CompañaAptcl url Si An, SA E coumeno n ue
 
-Cédigo:11-494-08.009
+Código: 11494040029
 
 INSTRUCTIVOS Fecha: 31 de octubre 2023
-Despoblacién de Corte Mecanizado
-Departamento de Gestién de Calidad Procesos Agrcolas we
-!
+Despoblación de Corte Mecanizado
+Departamento de Gestón de Calidad rocesos grcoas "
+|
 
-Versién:3 | Pagina 6
+Verión:3 | Pági:6a
 
-LA AURORA
+LA AUÑORA
 
-Figura 2. Ubicacin de los puntos de muestreo.
+Figura 2. Ubicación de los puntos de muestreo.
 
-Figura 3. Escogencia de los surcos a muestrear
+Figura 3. Escogencia de los surcos a muestrear,
 
-(©2023, compte Apel util Sart As, A. Ete doco no nde er ereducio ni sera
-Fecha: 31 de octubre 2023
-Despoblacién de Corte Mecanizado
+( 202, Campañía Agcl Indusi Srta Aa, 5A Etedocuranto n ueda vrrepreucio n aterado
+Fecha: 1 de octubre 2023
+Despoblación de Corte Mecanizado
 
-Departamento de Gestén de Calidad Procesos Agcolas | Varsin3 | pagina: 7 a
-i
+Departamento de Gestón de Calidad Procezos Ayícolas | V.ruón:3 | pagina:7 d
+|
 
-INSTRUCTIVOS Codigo: 11-494-04-0029 |
+INSTRUCTIVOS Código: 11-494-04-0029 J
 
-> 250 centimetros <—
+> 250 centimetros €——
 
-300 centimetres
-Figura 5. Delimitacién de la muestra,
+00 cemtime tros
+Figura 5. Delimitación de la muestra.
 
-Figura 6. Trozos de cafia para delimitar la muestra,
+Figura 6. Trozos de caña para delimitar la muestra
 
-(©2003, Compatia Agel Inti! Srta Aa, S.A. Ene doco no pede ser repens.
+( 2023 Campañía Agcl Inusi! Sart Aa, 5A Es doumeo n pedeverrepeducio e ateraco.
 T
-INSTRUCTIVOS Cédligo:11-494-04-0029 |
+INSTRUCTIVOS Código: 11-494-04-0029 W
 
-it
+1
 
-i *)
+| )
 
-Figura 8. Muestreo de la linea del surco poblada y despoblada después del corte.
+Figura 8. Muestreo de la líea del surco poblada y despoblada después del corte.
 
