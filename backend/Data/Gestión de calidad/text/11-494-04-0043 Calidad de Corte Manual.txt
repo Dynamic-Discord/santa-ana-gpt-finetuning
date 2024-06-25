@@ -1,0 +1,289 @@
+Calidad de corte Manual
+GARY | Peers cnn cectnsrmcses rs sensei | nga aer ]
+
+cédgo:11-494-04.0083
+W INSTRUCTIVOS Fecha: 31 de octubre 2023
+
+CONTENIDO
+1. OBJETIVO ALCANCE...
+
+2. DOCUMENTOS REFERENCIALES Y REGISTROS QUE APLICAN ..
+3. _DEFINICIONES..
+
+3.4. Cafaentera..
+3.2. Catia quebrada
+3.3. Catia picad
+34, Tocén.
+
+35. Cafianocortada
+36. Cafa sin despunte...
+37. Maménmoledero
+38. Otros
+
+5. MATERIALES Y EQUIPO...
+6. DESCRIPCION DEL PROCESO.
+7. ANEXOS
+
+mane eas —)
+4 i}
+GA fo
+Coordinador de Calidad de Corte - Gerente Gestién de la Calidad
+Gestion de a Calidad Process Agricoles | Jefe Departamento de Gestion dela estén de
+Gestién de a Calidad Gales roeos norcnas [ret 13/ia 2023
+
+"©2023 Compa Apicla nil Sala Ara, SA Ente Socata no pute sr Cee Harada
+Chai: 1-494.04-0043
+INSTRUCTIVOS Fecha: 31 de octubre 2023
+Calidad de Corte Manual
+SANTANA. | Pevertamento de GestisndeCaléad Proceso Arclas
+
+version: | Pigia:2e7 |
+
+1. OBJETIVO Y ALCANCE
+Evaluar la calidad del corte manual eidentificar las principales pérdidas Visibles de cafia de azticar para
+asociarlas con una causa raiz derivada de la operacién del corte manual o condiciones de campo, en
+busea de disminuir dichas pérdidas y promover la mejora continua. Asi mismo, evaluar la eficiencia de
+los recolectores con lo recuperado en campo, determinado a través de los muestreos antes y después
+de los recolectores.
+
+2, DOCUMENTOS REFERENCIALES Y REGISTROS QUE APLICAN.
+2.1. Administracin de Documentos y Registros, cbdigo: 11-493-03-0001
+2.2. Parémetros Cosecha Manual, cédigo: 03-402-05-0001
+
+3. DEFINICIONES
+3. Cafia entera
+Fraccin de cafia con un tamafio igual o mayor a un metro, Esta cafia fue dejada por la alzadora,
+3.2. Cafia quebrada
+afta que fue dafiada por la maquinaria del alce. Esta maquinaria puede ser alzadora, tractor o jaula,
+3.3. Cafla picada
+Estoda cafa que tiene cortes en ambos lados causados por elcortador, y que tiene una longitud menor
+a.metro,
+3.4. Tocén
+Fraccién del tall de cafia no cortado, que se queda adjunto a las raices y que tiene una longitud entre
+5 centimetros a 30 centimetros de largo.
+3.5. Cafia no cortada
+Es toda cafia que se encuentre anclada a la cepa.
+3.6. Cafia sin despunte
+Fraccién de la cafia que se encuentra en la chorra de basura, ocasionada por un mal despunte de parte
+del cortador.
+3.7. Mamén moledero
+Se encuentra en la chorra de basura, tiene mayor a 1 metro, se considera tallo moledero.
+3.8. Otros
+Factores que por sus caracteristicas le dificultan a cosecha llevirselos, se consideran en otros: cafia
+ppodrida, catia con dafio de plagas (barrenador, roedor, ete.) y mamén no moledero.
+
+(©2023, compatiaAgclainsueil arta An, SA. Ete Sour no pute sr erect teed,
+Fecha: 34 de octubre 2023
+Calidad de Corte Manual
+SANTAANA. | Departamento de estén de cad ProcesosAgrcols | Verna | pagina ue?
+
+INSTRUCTIVOS (Codigo: 11-494-04-0083
+
+3.9. NDVI
+Indice de vegetacion de diferencia norm:
+dela vegetacién.
+
+izada. Es usado para estimar la cantidad, calidad y desarrollo,
+
+3.10. Avenza Maps
+Aplicacién mévil para leer mapas geoespaciales en formato POF.
+
+3.11. Chora
+Conjunto de cafa larga cortada y dejada de forma ordenada entre los surcos tres y cuatro. Esta es
+recogida por las alzadoras y depositada en vagones de transporte
+
+3.12. Chorra de basura
+‘Impurezas(cogolloy hojas) que se separan de la clay son dejadas de forma ordena entre el surco uno y sels
+4, NORMAS
+
+jefe del departamento de gestin de la calidad procesos agricolas, coordinador de calidad de corte y
+el evaluador de calidad agricola son los responsables del cumplimiento de este instructive.
+
+El asistente administrativo es el responsable de generar los mapas NDVI del programa semanal de
+cosecha, los cuales deben estar geo-referenciados en formato PDF. Este ser compartido a los,
+evaluadores en el grupo de WhatsApp nombrado como: CALIDAD DE CORTE (periodo zofra).
+
+£1 coordinador deberé realizar la programacién del muestreo con un dia de anticipacién, segun el
+avance de la cosecha. Este seré compartido a los evaluadores en el grupo de WhatsApp nombrado
+‘como: CALIDAD DE CORTE (periodo zafra)
+
+1 coordinador deberé calcular las pérdidas de forma porcentual. Estas se obtienen del TCH de pérdida
+‘al momento del muestreo; dividido entre la suma de la productividad del lote (TCH de béscula) més el
+TCH de pérdida obtenido al momento del muestreo,
+
+5. MATERIALES Y EQUIPO
+Para realizar ef muestreo se uilzan los siguientes materiales: cinta métrica, dispositivo mévil, guantes,
+machete, costal, balanza de precision (digital), boleta de campo, tabilla,lapicero y caleuladora.
+6._DESCRIPCION DEL PROCESO
+
+NO. ACTIVIDAD. DESCRIPCION
+
+| Ubicaci6n de los EI evaluador de calidad agricola deberé ubicar los puntos de
+puntos de muestreo. | muestreo, considerando los siguientes pasos:
+© Abrirla aplicacién Avenza Maps y cargar el mapa NDVI del lote.
+* _Verificar el paso del alce e identificar en el mapa (Figura 2).
+
+1© 2023, Compatia Apc nui Sara Ana A ate docueri no pune se produc trad.
+SANTA ANA
+
+Departamento de Gestisn de Calidad Procesos Agricolas
+
+édigo: 11-494.08-0083
+INSTRUCTIVOS Fecha: 31 de octubre 2023
+Calidad de Corte Manual
+
+Versién:1 | Pagina: 4 de 7
+
+No. ‘ACTIVIDAD DESCRIPCION
+‘© Distribuir tres muestras en el mapa. La distribucién debe
+realizarse segin la variailidad visual del NDVI; considerando
+‘reas de alta, media y baja produccién (Figura 1). |
++ _Proceder a ubicar las muestras en campo con Avenza Mops.
+
+2. | Delimitacién delas | Elevaluador deberd dejar dentro de la parcela el total de niimeros de
+‘muestras (antes de | surcos que contiene una chorra (6 surcos), por lo cual el ancho de la
+los recolectores) parcela seré variable segin el distanciamiento de siembra, lo que
+
+debe de ser fijo es el largo de la parcela, el cual serd de 5 metros.
+
+Al establecer las medidas de la muestra, el evaluador deberé
+proceder a delimitarla, colocando estacas de cafa en cada esquina.
+Las cafas utilizadas como estacas deben encontrarse fuera del rea a
+‘muestrear, para no interferir con los resultados.
+
+3. | Clasifcacién de las | En cada muestra, el evaluador deberd de separarla paja de cafia ylos
+variables de medicién | componentes de cafiadejada en campo (Figura 2) de acuerdo con las.
+(antes de los variables de medicién establecidas, las cuales son:
+recolectores), ‘+ Atribuibles al alee: caia entera y cafia quebrada,
+
+‘+ Atribuibles al corte: caiapicada, tocén, cafa no cortada, afia sin
+despunte ymamén moledero.
+
+Otros: no se consideran pérdidas, pero es importante
+‘uantificarlo para compartir el dato con campo. Se consideran en
+otros: cafla podrida, cafia con dafio de plagas (barrenador,
+roedor, etc.) y mamén no moledero.
+
+@. | Pesado de las Clasificadas las variables de medicién, el evaluador deberd proceder
+variables de medicién | a pesar cada componente utilzando una balanza digital para asegurar
+{antes de los la precision de los datos (Figura 3), asi mismo, deberé utilizar la
+recolectores). Lunidad de medida libras.
+
+5. | Estimacién de EI evaluador deberé estimar las pérdidas de forma absoluta
+ppérdidas (antes de los | expresada en TCH (toneladas cortas de cafta por hectérea). Para
+recolectores) realizar el céleulo debe de obtener el factor, el cual depende del
+
+‘numero de surcos de la chorra y el distanciamiento de los surcos, Se
+‘muestra un ejemplo del célculo realizado, para una chorra de 6 surcos
+‘yun distanclamiento de 1.5 m.
+
++6 surcos * 1.5 metros distanciamiento = 9 metros
+
+©2023, Compati Apical nda Santa Ana. A, Ete document no puede ser produce Watered
+Departamento de Gestién de Calidad Procesos Agrcolas
+
+Cigo:1-494.04-0013
+INSTRUCTIV Fecha: 31 de octubre 2023
+Calidad de Corte Manual
+
+Versiin: 1
+
+DESCRIPCION
+
+‘+ Smetros * 5 metros de largo de la parcela de muestreo= 45 m*
+
+(ae)» (iE) = ira
+
+Perdis (6/45 m2)
+
+Perddas (6/45 m8) _
+
+Perdidas (TCH) = sg
+
+actor deconvercién = = on
+
+EI dato obtenido en lbras en el pesaje de las pérdidas en una chorea
+de 6 surcos y 1.5 de distanciamiento entre surcos, se multiplica por
+0.1111 y se obtendrén las pérdidas en TCH.
+
+Para diferentes distanciamientos de surcos, se presentan los factores,
+‘de multiplicacin en el Cuadro 1.
+
+Cuadro 1. Factores para convertirlibras de pérdida en TCH.
+
+Wde | Distanciamiento de | Factor para convertir bras
+surcos siembra (m) de pérdida a TCH
+140 0.1190
+150 aati
+6 160 0.1082
+175 0.0952
+[ 180 0.0926
+
+Evaluacion despuds
+
+El evaluador deberd realizar la medicin de calidad de corte después
+
+{el paso de los recolectores, realizando lo siguiente:
+
+‘+ Distribuir tres muestras en el rea donde se realizé el muestreo
+antes de los recolectores, estas muestras no deben realizarse en
+la misma ubicacién.
+
+‘+ En Ia distribucién de las muestras se debe de considerar la
+variabilidad visual de NOV! presente en el lote. Esto con el
+objetivo que la evaluacién después del paso de los recolectores
+se realice bajo las mismas condiciones.
+
+Clasificacién y pesado
+de las variables de
+medicion (después de
+los recolectores),
+
+El evaluador deberd clasficar las variables de medicién después del
+paso de los recolectores. En cada muestra deberd separar Ia paja de |
+cafia y los componentes de cafia dejada en campo de acuerdo con las.
+variables de medicién establecidas, las cuales son:
+
+(©2023, Compata Act nat Santa A, S.A. Ete document no puede ser ero aterade
+| INSTRUCTIVOS | cécigo: 11-494-04.0043
+
+Fecha: 31 de octubre 2023
+Calidad de Corte Manual L
+
+Departamento de Gestiin de Calidad Procesos Aarcolas | vensna | paginaseae?
+
+"ACTIVIDAD DESCRIPCION
+
+J. Atribuibles al corte: cafia no cortada,
+
+| csicads as varibes de medi, el evaluator deberdproceder
+
+| a pesar cada componente utizando la unidad de medida librasy se
+
+multiplica por el factor de conversién que correspond segin el
+
+tamafo de ls muestra (Cuadro 3) para obtener la pérdida en
+toneladas de cafiaporhectres
+
+| recuperacién de la cafa de aztcar.
+
+T Tibulbles lle: cafe enter y caf qubrada |
+
+8. | Determinacién de El evaluador deberd determiner con los parametros establecidos siel
+conformidad. | resultado de la evaluacién es CONFORME o NO CONFORME.
+7. ANEXOS
+
+Figura 1. Distribucién de puntos de muestreo antes y después de los recolectores.
+
+(©2023, Compatia Aci infurti Sart Aa, SA. Es
+
+Codigo: 11-494-04-0043
+
+| INSTRUCTIVOS Fecha: 31 de octubre 2023
+Calidad de Corte Manual
+
+Departamento de Gestion de Calidad Procesos Agricola | Versi, 4 [ Pav 7ae7
+
+Figura 3. Pesado de las variables de medicién con balanza digital
+
+(©2022, Compatia Arcola nue! Sart As, SA Ete dierent no punde sr ered nerd

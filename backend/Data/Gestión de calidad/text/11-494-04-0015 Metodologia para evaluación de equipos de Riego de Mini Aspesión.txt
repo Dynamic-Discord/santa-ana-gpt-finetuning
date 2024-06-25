@@ -1,0 +1,427 @@
+Codigo: 11-494-04-0015
+
+SANTANA | Departamento de Gestion de calidad Proceso Arcola
+
+versén:2 | rina:2de10 |
+
+CONTENIDO
+1 OBJETIVO Y ALCANCE.
+
+2. DOCUMENTOS Y REGISTROS QUE APLICAN..
+3. DEFINICION.
+3.1. Aspersor Komet ti
+
+3.2. Terme anemémetro.
+
+7. MATRIZ PLAN.
+8. CONTINGENCIAS.
+10, ANEXOS.
+
+"98085
+\upfes ro
+{i
+
+ctor epaes eansy eats | ste ain da Cand 2 Lu
+
+Departamento de i Calidad Lamesane mene
+one rts reom: (3/2/2023
+
+(©2023, Canpeta Agata ndsti Sara Ara, A Est cocumero no puede reproduc aero,
+
+INSTRUCTIVO Codigo: 11-494-04-0015
+
+Metodologia de Riego Mini-Aspersin Fecha: 14 de noviembre de 2023,
+Departamento de Gestién de Calidad Proceso Agricola
+
+1. OBJETIVO Y ALCANCE
+Verifcar la calidad operacional de los equipos que realizan la aplicacién del riego,
+‘medir las variables y determinar el cumplimiento de cada uno de sus pardmetros.
+Determinar las oportunidades de mejora para que los equips evaluados operen de
+tuna manera eficiente. Este instructivo es aplicable para todas la labores de riego mini
+aspersién ejecutadas en las fincas bajo administracién del Ingenio Santa Ana.
+
+2, DOCUMENTOS ¥ REGISTROS QUE APLICAN.
+Especificacin 12-494-05-0006 Parémetros rego mink-aspersién VO3
+
+3. DEFINICION
+
+3.1. Aspersor Komet twin
+
+Proporciona alcancey uniformidad de riego gracias al rompe-chorro dindmico que facta
+lun rego delicado para los cultivos mis sensibles, daptandose a cualquier presin, Reduce
+los costos de operacin y ahorra energia
+
+3.2. Termo anemémetro
+‘Aparato utilizado para medica velocidad del ate y la temperatura del aire. Poseen un
+‘alambre de cobre oun elemento muy fino que se callenta por superando la temperatura det
+‘medio ambiente
+
+3.3 Caudalimetro
+Un instrumento de medicisn que permite determinarel caudal de un fluido, El caudal es la
+Cantidad de flujo por unidad de tiempo que crcula por una
+
+3.4 Tacémetro
+
+Es un dispositive que registra de forma continua datos del movimiento del motor de
+‘multtud. Etimol6gicamente, el término tacémetro proviene de las palabras griegastachos,
+que significa «rapidezs, y metrén,cuya significado es medida
+
+35 vacuémetro
+
+Es un instrumento de medicién que permite determinar la presin de un fuido cuando esta
+8 una presion menor que la atmosféica. Es decir, sve para mediepresiones muy bajas.
+
+4. NORMAS
+El jefe del departamento de Gestién de Calidad de Procesos Agrcolas, el jefe del
+departamento de Ingenieria Agricola, E! auditor especializado en Riegos, Gestor de
+riego Y Auditores de calidad son los responsables de velar por el cumplimento de
+este instructive,
+
+(©2023, Compan Agcl Inui arta Ana, SA. Ete document no pond sr repr tera,
+INSTRUCTIVO Cédigo: 11-494-04-0015
+
+Departamento de Gestiin de Calidad Proceso Agricola
+ia ne Version:2 | Pagina:3de9 |
+5. DESCRIPCION DE PROCESO.
+m /ALUACION D 0 DEMINL
+Notas introductorias
+Cada mayordome y/o caporal de rego debe informar en los Grupos de G \dad de cada
+
+seein el programa de trabajo a seguir con los equipos de rego el cia siguiente, ams tardar alas
+19:00 de cada dia
+
+Elauditor de calidad notificaré al mayordomo yal gstor de rego, en el Grupo de Gestién de calidad
+‘con regién, para establecer el punto de reunién del dia siguiente y a partir de ese punto defnirén la
+ruta y los equipos a evaluar. Se debe establecerel punto a mis tardar 21:00 de cada dia
+
+Antes delas 21:00 se defini si para vsta dard acompaftamiento el Gestor de Riego y Mayordomo
+‘© alguno de los dos. No se podréasignar para esta actividad caporaleso alguien de rango inferior.
+
+Si, después de 20 minutos de Ia hora acordada, nose presenta el responsable del acompatiamiento,
+lauditor de calidad procederd con a ejecucién dela auditoriaynotificaré en su report la ausencia
+del responsable. Si el auditor nose presenta, el responsable notificaré a su jefe inmediato para dat
+
+‘seguimiento, de igual forma en el Grupo de Gestién de Calidad de la resin,
+
+Posterior a la aucitoria en campo se debe realizar une reunién Post-aueltoria entre el auditor de
+calidad yel Gestor de riego para revisar la evaluaciny determinacién de causa raz, si alguna cousa
+Ralz no queda bien definida el gestor de riego podrd indagar sobre la causa ynotifiaral auditor de
+calidad a mas tardar a las 19:00 horas de ese mismo dia para su registro en el sistema,
+
+Si durante Ia aueitoria en campo no estuvo presente el gestor de tego, el auditor de calidad le
+trasladaré el reporte de auditoriay entre los dos deberén acordar hora y lugar para hacer lareunién
+Post-Auditoria, el mismo dia, amas tardar 17.00
+
+Sidurante el anslisis de Causa Ratz se determina utilizarla causa 34 OTROS, e gestor de rego deberd
+trasladar un detalle de a causa que considerd al gestor de calidad, quien lo describ como parte
+de las observaciones dela ausitoria
+
+(© 202, compstia Ago ndstri Sana Ana, SAEs orien no puede se posure
+SANTA ANA
+
+INSTRUCTIVO (Codigo: 11-494-04-0015
+
+Metodologia de Riego Mini-Aspersién
+Departamento de Gestion de Calidad Proceso Agricola
+
+Fecha: 14 de noviembre de 2023,
+
+versién:2 | Pagina: 4de9
+
+PRESIONES DE OPERACION Y RADIO DE MOJADO.
+
+aa
+
+Presién de operacién
+
+a Medicién de presi se realzard en el Uimo aspersor aspersor
+‘ds alejado). Para lo cual se garantizaré que el mandmetroutilizado
+lesté bien calbrado, o en su defecto realizar una repeticién con el
+‘manémetro del personal de campo.
+
+12
+
+Radio de mojado
+
+‘Meir e radio de majado en 4 ados del tito aspersor(tomando de
+referencia la direccién del viento), para después determinar el
+romedio de radio de mojado sobre el que se realizaré la evaluacién,
+Nota
+
+1. Indicar la velocidad de viento a la cual esté siendo medido el
+pardmetro de radio de mojado,
+
+2.Sipor ercos, canales, ros o cualquier otro obstéculo no se pueden.
+medi los 4 lados se descartard este parémetro de la evaluacié,
+ponderando el resultado final sobre los valores evaluados.
+
+=
+
+13
+
+caudal de aspersor
+
+Determinar el caudal del aspersor a través de la medicién de
+volumen en un determinado tiempo para lo cual se realizarén 3 |
+repeticiones, as cuales se promediarsn y sobre el resultado se
+realizaré la evaluacin del parémetro.
+
+4
+
+de reguladores
+
+Se resinad a elec de 1 Toteral de nage al wear y 3
+proceders a verfcar que todos los emisres cuenten con
+Feguadores de pestn
+
+is
+
+wT
+
+Homogeneidad de
+reguladores
+
+En conjunto con la verficacin de presencia de regulador en los
+‘emisores, se evaluard que todos los reguladores sean de la
+misma resistencia,
+
+PROFUNDIDAD DE MOJADO
+
+(© 2023, Compatia Apical Indust Sara Ara, SAEs document na puede er rprosuc Watered.
+&
+
+INSTRUCTIVO Codigo: 11-494-04-0015
+
+‘Metodologia de Riego Mini-Aspersién Fecha 14 de novlembee de 2023
+Departamento de Gestién de Calidad Proceso Agricola
+
+versién:2 | Pagina: Sde9
+
+Se realizan 5 muestreos con profundimetro, entre 12 y 24 horas despuds dal rego, 2 en la base de los
+aspersores, uno en el dea de traslape y dos en el rea de mojado, como se muestra enla figura, el resultado
+e los 5 muestreos se promedia y sobre ello se realizar la evaluacin del pardmetro, Sila profundidad excede.
+el limite superior del pardmetro se generara un hallazgo,no afectando la nota dela evaluacién.
+‘“Observacién*: Por cada punto muestreado que se detecte sin humedad se restardn 3 puntos 2 la nota del
+parémetro,Sise detectan mis de 3 puntos, el parémetro se ponderaré "0"
+
+‘res de Tralape
+
+Base de Aspersor
+
+‘ies de Mojado
+
+3 RM ew | "Wott Prev ls evalcin de os prkmetos de RPMy Preston de
+PRESIONES DE SALIDA EN salido, debe ressarse una valdecion dela correcta clracién del
+bomen eau. “|
+
+En el caso del tacémetro, debe de verificarse con tacometio
+31. | RPM en motor digital que este se encuentre proporcionando lecturas que
+correspondan. Si el tacémetro esta desclirado se apertura
+
+__| orden de trabajo atallr.
+‘4 | TUBERIA V ACCESORIOS 7
+41 Equipo en bloque asgnado [Se veriica que el equipo de rego ent en el logue de ego al gue
+
+esta asignado, esto se validaré segin el diseo de riego del equipo
+donde se describe a que bloque est asignado (este disefio lo puede
+validar el gestor de calidad a través de la aplicacién de Ingenierfa
+Agricola).
+
+(©2023, Compatia Apia nds Serta Ara, SA Este docuerto no puede et produc aera,
+Departamento de Gestién de Calidad Proceso Agricola
+
+INSTRUCTIVO Codigo: 11-494-04-0015
+‘Metodologia de Riago Mini-Aspersién Fecha: 14 de noviembre de 2023
+
+Versién:2 | Pagina: 6 de 9
+
+vseio ce eaupo oe meco )
+
+42
+
+Presencia de disefio de
+riego
+
+Se validaré que el disefio de riego que tenga el Operador 0
+ayudante coincida con el bloque de riego donde esta trabajando
+el equipo, no necesariamente sea el bloque donde esté
+asignado el equipo.
+
+Para el caso de SIEMBRAS y RESIEMBRAS se tomaré como
+CONFORME la presencia de equipos de riego sin disefio en el
+bloque, siempre que el equipo de riego asignado esté operando
+con el resto de equipos. _
+
+43
+
+Ejecucién del diseio
+
+Para evaluar este pardmetro se revisa que la operadion este de
+‘acuerdo a los pardmetros establecidas en el disefo, se revisan:
+
+“Marco de riego
+“Tiempo de riego
+“Modelo de aspersor
+
+44
+
+Fugas en tuberiay
+accesorios
+
+En Ta identificacin de fugas se considerarin con el eritero
+siguiente:
+
+Por cada fuga que se identifique se descontaré un punto a la
+nota total que corresponde a este pardmetro, hasta llegar a
+cero. Clasificar fuga por empaque, tubos rotos, debilitacién de
+soldadura,
+
+Exist una tabla de clasificacién visual de fugas (GC y 1A).
+
+4s
+
+Didmetro de tuberia lateral
+acorde =a caudal
+transportado
+
+Tomar en cuenta el numero de aspersores operando en la
+lateral para determinar si el didmetro utiizado es adecuado.
+
+46
+
+Tubo colero instalado al
+final de lateral
+
+Ientificar al final de cada lateral a existencia de un tubo colero,
+
+a7
+
+Posicién de aspersores |
+sobre ol cultivo
+
+0s aspersores se deben encontrar sobre la altura media del
+ultivo con un minimo de 0.2 m y maximo de 0.8 m.
+
+(©2023, Canalis Apcolindurtil Sart Ana, SA. Ete cunt no puede erro Watered
+
+INSTRUCTIVO Cédigo: 11-494-04-0015
+
+Metodologia de Riego Mini-Aspersién Fecha: 14 de noviembre de 2023
+Departamento de Gestién de Calidad Proceso Agricola
+
+Version:2 | Pégina:7de9
+
+Durante Ta auditor’a en campo, el auditor de calidad validara
+48° | Longitud de tuberia Visvalmente la longitu de ls tubos, al sospechar de una tuberia con
+longitud menor, verficaré con cinta métrica la longtud real de la
+‘uberia, Para tuberias de aluminio con longitud esténdar de 6.00
+metros estos deberin tener una longitud minima de § metros. Se
+registrard en el reporte el cbdigo de los tubos que no cumplen con la
+longitud minima y en la reunién postaditora se solcitar al Gestor
+de Riego marcar la tuberia (con spray) y solicar su traslado al casco
+para su posterior revsin en taller.
+Se consideraré como aprobado (con 100% de la nota) el parémetro si
+‘no se encuentra ninguna tuberia operando, y sise detecta una tuberia
+se ponderaré el pardmetra como cero
+Si Ia tuberfa de longitud inferior a 5.00 metros esté fuera de la
+‘operacién, se validard si est marcada para su taslado a casco, sies
+asi, el auditor de calidad registrard el cigo de activa en su report,
+Y formaré parte del seguimiento a dar los préximos dlas, pero no
+contard como parte de ia nota del pardmetro,
+Sien el seguimiento no se registra movimiento de latuberia a casco
+| se generars un hallaxgo. Sino esté marcada contaré como parte de la
+rota,
+
+5__| ADECUACION DE EQUIPO DE BOMBEO
+Profundidad del agua donde se realzard a extraccin, se mide
+5.1 | Profundidad de punto de desde el espejo de agua al inicio de la pichacha y del final de la
+bombeo pichacha hasta el fondo dea fuente debiendo contar con 25.cm |
+de diferencia entre cada punto.
+
+5.2 | Altura de succién Desde el centro de la abertura de entrada de agua a la bomba
+hasta el espejo de agua.
+
+Longitud de
+soos
+
+5.3 | Equipo de bombeo nivelado | Validar que el equipo de riego se encuentre nivelado respecto
+alsuelo
+
+Le - .
+
+(©2023, CompatiaAvcla aut! Santa Ana, SA. docinnt no pune se repr tra,
+INSTRUCTIVO Codigo: 11-494-04-0015
+
+Metodologia de Riego Mini-Aspersin Fecha: 14 de noviembre de 2023
+Departamento de Gestion de Calidad Proceso Agricola
+
+Versién:2 | Pagina: 8 de 9
+
+[54° 7 Uso de rejilla
+
+‘plicable a derivas de rios o narias con basura o vegetacidn, uso
+dde mallagallinera
+
+55 |Uso de flotador en
+‘manguera de succién
+
+identificar la presencia de un flotador que ayude a regular la |
+Profundidad a la que se encuentra la succién del equipo, es
+aplicable a motobombas méviles abasteciéndose de fuentes de
+‘agua como pocetas, derivas o rios. No aplica pozos, avances.
+Evaluar este pardmetro cuando la Profundidad de la fuente de |
+agua supere 2.00 metros.
+
+6 | LIMPIEZAY ORDEN
+
+6._| Ambiente limpio, desechos
+ordenados
+
+Todos los desechos inorganicos (Nylon, botellas, plasticos,
+aluminio) que se origen dentro del proceso de la operacién de
+riego serén ordenados y almacenados en recipientes (costales)
+para su traslado a fica.
+
+7 | CAPRCITACION
+
+7.4 _| Constancia de capacitacién
+
+El operador de la motobomba deberd presentar su constancia
+de capacitacion de rego, que consistiré en una tarjeta con el
+resumen de responsabiidades.
+
+6. DIAGRAMA DE FLUJO
+No hay.
+
+7. MATRIZ PLAN,
+No aplica
+
+8. CONTINGENCIAS
+No hay,
+
+(©2023, Copia Aglaia Sart Ana, SA Ele doctor eprodco  eade.
+INSTRUCTIVO | Cédigo: 11-494-04-0015
+
+Metodologia de Riego Mini-Aspersin Fecha 14 de noviembre de 2023
+Departamento de Gestion de Calidad Proceso Agric
+‘SANTA ANA ° Aerio Versin:2 | Pagina: 9de 9
+10, ANEXOS
+VACUOMETRO ‘CINTA METRICA (50 ma) ‘TACOMETRO DIGITAL
+
+@
+eo |
+
+TERMO ANEMOMETRO MANOMETRO
+
+‘CELULAR (SMARTPHONE) AVENZA MAPS (aplicacién)
+
+Avenza
+Maps
+
+‘CRONOMETRO
+
+©
+
+uw
+
+(©2023, compatia Agi infu Santa Ana, GA. Este cierto no pune et orc ara,

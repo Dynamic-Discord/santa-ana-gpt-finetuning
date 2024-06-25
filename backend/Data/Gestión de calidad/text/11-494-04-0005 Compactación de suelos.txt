@@ -1,0 +1,159 @@
+instRucTIvo Chiesa
+
+SANTAANA | Departamento de Gestion de Calidad Proceso Agricola | yoragng
+
+CONTENIDO
+1. OBJETIVO Y ALCANCE,
+
+2. DOCUMENTOS  REGISTROS QUE APLICAN,
+3. DEFINICIONES..
+2.1 Penetrémetro:..
+
+22Mesa:..
+4, NORMAS.
+
+'5. DESCRIPCION DE PROCESO...
+6. DIAGRAMA DE FLUJO
+
+7. MATRIZ PLAN.
+
+8. CONTINGENCIAS..
+9. ANEXOS.
+
+BOR Rens ROS
+
+oerdrador de Calind Aorta | ef Departmen dea Calas
+Process Aran ‘Gree rea Gsn dea calded
+Departamento de Genin de Cad
+
+Process Avs Feo: j3/ie/2023
+
+(©2023, Comatia Aci iui arta Ana, SA. Ete cierto no pute er worduce Watered
+
+INSTRUCTIVO (Codigo: 11-494-04-0005
+CCompactacién de suelos Fecha: 31 de octubre 2023
+Departamento de Gestién de Calidad Proceso Agricola
+
+version:2 | pégina:2aea
+
+1. OBJETIVO Y ALCANCE.
+Determinar la compactacién que posee el érea productva para orientar ala toma de decisiones en
+fincas con mayor presencia de maquinaria agricola. Este documento aplica para las evaluaciones de
+‘Compactacién de suelos en fincas bajo adminstracgn de Ingenio Santa An
+
+2, DOCUMENTOS Y REGISTROS QUE APLICAN.
+specficacién 03-965-05.0005 Parametro Compactacién VO2
+
+3. DEFINICIONES.
+2.4 Penetrémetro:
+Instrumento utilized en diversos campos, como la agrcultua, la geologiay la ingenieri, para medir
+la resistencia ala penetracién o compresién de un material o suelo,
+2.2 Mosa del cultivo:
+Espacio pasilo que separa las hileras de cutis en un campo o érea decultivo. Estos espaciossuelen
+ser pasilos estrechos que permiten el acceso de maquinaria agricola, agricultores y otros equipos al
+rea de cultivo sin daar o compactar el suelo donde crecen las plantas. (ver figura 3)
+
+4. NORMAS.
+jefe del departamento de gestién dea calidad procesos agricalas, anaista de procesos de auditors,
+Dordinador de procesos vel auditor de calidad agricola somos responsable del cumplimiento de ests
+instructive.
+
+(©2023, comeatia Ancol indus Santa Ana, SA. Ete Gciernt no oust sr ero teat
+
+Compactacién de suelos Fecha: 31 de octubre 2023
+
+INsTRUCTIVO Cédigo: 11-494-04.0005,
+
+Departamento de Gestdn de Calidad Proceso Agricola
+
+5. DESCRIPCION DE PROCESO.
+
+1 | Programacion de ltes,
+
+El auditor deberd considera los crteros siguientes:
+‘+ Lotes con sues arcilosos
+
+Solicitud de evaluacién de otes.
+
+Lotes cuya fecha sea de 1 10 das después de cosecha
+
+Lotes sin rego.
+
+Lotes Sin ninguna labor previemente ejecutada.
+
+‘+_Lotes de Tipo soca. _|
+
+de la labor
+
+| Wentificacion de ubicacién
+
+Tour de aad grils der enter por Ws, oe yO |
+| con a ayuda de a aplicacién mévil Avenza maps.
+
+‘4 | Distribuetén de musstras,
+
+‘Clasficacion ymedicion de vaca
+5 | Elecucién de las muestras
+
+TEI auditor deberé ubicarse a un costado del late © iniar con To
+listribucién de 5 puntos siellote es menor a 8 hectéreas, sel lote es
+mayor a 8 hectéreas deberé realizar 6 muestras al azar sin Ingresar al
+ote
+
+laudtor buscar el punto geo referenciado enlaaplicacion.alidentificar
+el punto deberé realizar 3 lecturas introduciendo de forma vertical el
+instrumento de medicion a los ladosizqulerda y derecha y en el centro
+«de la mesa para tomar los datos corespondientes
+
+‘+ Ubras por pulgada cuadrads (si
+
++ Profundidad,
+
+3a | Orientacidn dela muestra,
+
+ar poder identifica os lados de la mesa el auditor deberd considerarlo
+Siguiente:
+Sila direccién del surco es de Norte a Sur el auditor debers
+posicionarse en direccin al Norte
+‘+ Sila direccién del surco es de Este a Oste deberd posicionarse en
+direccin al Este
+
+© | Toma de datos.
+
+Para la toma precisa de los datos el auditor deberd considerar To
+Siguiente:
+*Colocarla plancha metilica en et suelo nivelada,
+* Introducir el penetrémetro en el suelo a un Angulo de 90°.
++ Mantener el cuerpo de forma recta y utilizar la fuerza de los
+brazos. (Ver figura 2}
+‘+ Mantener une fuerza de empuje hacia abajo constante,
+
+Finalizando los muestreos correspondientes el auditor deberéextraeros
+datos del instrumento de medicién con una USB y posteriormente
+{rasladarlos para su andlisis.
+
+(©2029 Comoaia Aneta Init Sata An. S.A. Ese documae no ode ar roo atra.
+~
+
+INSTRUCTIVO Cédigo: 11-494-04.0005
+Compactacién de suelos
+
+6. DIAGRAMA DE FLUJO.
+No hay.
+
+7. MATRIZ PLAN
+No aplica
+
+8. CONTINGENCIAS
+No hay.
+
+9. ANEXOS:
+Fgura Figura
+
+Figura 3
+
+Mesa o calle del cutive
+
+Este documento cambia en estructura y redaccién en comparacién a su versi6n anterior
+
+(©2028, ComeaiaAacla Inui! Sta An. S.A Este dace no odes roo

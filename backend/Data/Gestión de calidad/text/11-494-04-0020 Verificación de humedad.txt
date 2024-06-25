@@ -1,0 +1,182 @@
+INSTRUCTIVO.
+\Verificacién de Humedad
+
+SANTAANA | Devaramento de Gestion de Calidad Proceso Agricola
+
+CCédigo: 11-494-04-0020
+Fecha: 31 de octubre 2023
+
+Vversion:2 | Pagina: a)
+
+CONTENIDO
+4 OBJETIVO Y ALCANCE. —
+2. DOCUMENTOS ¥ REGISTROS QUE APLICAN,
+3. DEFINICIONES..
+2.1 TOR-350: “
+2.2 Monitoreo de humedad
+
+2.3 Mapa NDWE:
+2.4 CENGICANA:..
+
+4, NORMAS.
+
+5. DESCRIPCION DE PROCESO...
+
+6. DIAGRAMA DE FLUIO
+
+7. MATRIZ PLAN.
+
+8. CONTINGENCIAS.
+
+9, ANEXOS.
+
+TABOR Res
+
+Cia
+
+coordinate Ge Cac rls |e Depatanets Gestén dela Calin
+Promos Aros
+Departamento de cet ea Cao
+roca Ae
+
+avi,
+reve 13/2/2023
+
+(©2025, Comets Arc naueil Sara Ana, SA Ete doziment no pune servo Watered
+INSTRUCTIVO Codigo: 11-494-04-0020
+
+Verificacién de humedad Fecha: 31 de octubre 2023
+
+Departamento de Gestion de Calidad Proceso Agricola
+
+1. OBJETIVO Y ALCANCE.
+Determinar el nive! de humedad que posee el suelo para mejorar la toma de decisiones respecto ala
+ejecucién de la labor de rego. As{ mismo la mejora en e! manejo integral del cultivo de cafa de azar.
+Esta evaluacin serd apicabe a todas las fincas bajo adminstracign de Ingenio Santa Ana
+
+2. DOCUMENTOS Y REGISTROS QUE APLICAN.
+
+3. DEFINICIONES.
+24 TOR-360:
+‘Time Domain Reflectometry” (TOR), es un sensor digital y port para la medicin de humedad en
+el suelo en % de humedad volumétrica. Ademés dela humedad provee datos:
+
+~Conductvidad eléetrica
+~ Temperatura superficial del suelo
+
+~Coordenadas y hora del punt.
+
+2.2 Monitoreo de humedad:
+
+Proceso de medic y controlar los niveles de humedad en un entorno o sustancia particular.
+
+2.3 Mapa NDWI:
+‘Acrénimo que se refiere al "Normalized Difference Water Index" en inglés, lo que se traduce a!
+espafiol como "Indice de Diferencia Normalizada de Agua". El NDWI es un indice utiizado en
+‘teledeteccién y andliss de imagenes sateltaes para detectary cuantifcar a presencia de agua en
+luna determinada rea geogrdfca
+
+2A CENGICARA:
+
+Centro de investigacin Guatemalteco dela cafa de azicar,
+
+4, NORMAS.
+£1 jefe del departamento de gestion de la calidad procesos agricolas, analista de procesos de
+‘auditorias, coordinador de procesos y el auditor de calidad agricola son los responsables del
+‘cumplimiento de este instructivo.
+
+(9 202, Comaatia Arlt arta Ana. S.A. Ete document no ound ser ered trad.
+
+Verifieacién de humedad Fecha: 31.de octubre 2023
+Departamento de Gestion de Calidad Proceso Agricola
+
+istavcrivo =m
+
+5. DESCRIPCION DE PROCESO.
+
+4 | Programacisn de labores. | Se deberd solictar la programacién de lotes a evalvar por parte del
+‘epartamento de Ingenieria agricola, solicitudes de finca o lotes que
+- Dresemten condiciones de estrés Mirco,
+2 | identiicacién de ubicacién | 1 auditor de calidad agricola deberd identifica por Finca, le y Gision
+de la labor. ‘on la ayuda de la aplicacién mévil Avenza maps. Adicional debers
+visualizar el mapa de NOW en a aplicacin de CENGICANA o prorzar fa
+aplicacion de Ingenieria Agricola
+3”) Distribucién de muestra. | El auditor deberd distribu una muestra por cada 2 hectareas. Siellote
+| 4 evaluar es menor a 8 hectéreas se deberé realizar Gricamente 4
+muestras. Las muestras deberdn ejecutarse 2 30 metros hacia adentro
+Gel perimetro del ote
+
+Identfica el sector indicado para el monitoreo en el mapa NOW!
+= —— Ta lecturs en el — visval del punto:
+
+rea + Sin betas de arena «Sin eas con piedras
++ Sin rea humedad + Efectuarlectura en el surco y no en a calle,
+
++ Insertar verticalmente las vallas de! TOR en el suelo y proceder @
+
+tomar el dato con el botén “READ”.
+
++ Anotar datos de referencia,
+
+5 [Tipo de monitoreo de | Eiaveitor deberd de identiiar el po de monitoreo a ejecutar mediante
+
+shumedad, los siguientes eritrios de evaluaci:
+
+‘+ Defrecuencia: Muestreos realizados para la toma de decisién de
+jecutar un préximo evento de riego posterior al primer rego
+post corte/cosecha
+
+‘+ Previo ala cosecha:
+
+Consist en realizar Monitoreos durante los muestreos de Pre-
+‘madurante  pre-Cosecha del proceso de Indice de madurer.
+
++ Calidad de rego:
+
+Muestreos de humedad realzados posterior a un evento de
+Fiego para vaidarel porcentaje de humedad.en el suelo producto
+della labor de riego.
+
++ Semilleros:
+
+Muestreos de humedad realizados posterior a un evento de
+rego para valdar el porcentaje de humedad en el suelo producto
+de a labor de rego.
+
++ Labores Agricolas:Consiste ena verifiare nivel de humedad en
+las labores de Siembras, Resiembras, Riegos, lotes con problema
+de estrés Hdrico u otras labores,
+
+© | Entrega de repore Er aualtor deberé descargar el informe en Ta aplicacién de Ingenieria
+
+agricola y trasiadario alas partes interesadas pertnentes.
+
+(©2022, Comte Aol Inui Sart Ana. SA Ente doaumart no ober redo ade
+INSTRUCTIVO.
+Verificaci6n de humedad
+
+SANTAANA | Departamento de Gestin de Calidad Proceso Agricola
+
+Codigo: 11-494-04-0020
+
+Fecha: 31 de octubre 2023
+
+Versién:2 | Pagina: 4dea
+
+6. DIAGRAMA DE FLUJO
+No hay.
+
+7. MATRIZ PLAN
+‘No aplica
+
+8. CONTINGENCIAS
+No hay.
+
+‘9, ANEXOS
+No hay.
+
+ste documents ‘on estructura y redaccién en
+
+su ver terior
+
+(©2022, Comoaia Aaland Santa Ana. SA Ete docart no unde sr erate aera

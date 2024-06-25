@@ -1,0 +1,329 @@
+versinca |] pigin:aae8 |
+
+CONTENIDO
+1. OBJETIVO Y ALCANCE ..
+
+2, DOCUMENTOS REFERENCIALES V REGISTROS QUE APLICAN..
+3. _DEFINICIONES...
+3. Tolete.
+
+3.2. Rate o cepa.
+
+3.3 Punta y cogollo..
+3.4, Hojas.
+
+355. Terra pledra
+36. Impurezas.
+3,7. Tolete dafiado...
+
+LLL RRR RRR RAR
+
+5
+15. _DESCRIPCION DEL PROCESO..
+To ANEXOS ve :
+
+‘estin de a Clea Process Agrcols | ee Departamento de Gesin dela
+Gesin dela Cad GaidedProcsos Aarines [Ferm /3/re/o003
+
+(© 202, Compatia Ago nda arta a, SA Ete dcumanio  pundeererecducd l arae
+
+ror)
+Coorsinador Se Catided de Cote CaN |
+
+INSTRUCTIVOS Foch 3 oct 223
+Impurezas de Corte Mecanizado
+SANTAANA, | Severamento de Gesn de Calas roezos Arcot | venga
+
+Pigina:2de8 |
+
+1. OBJETIVO Y ALCANCE
+Determinar en el corte mecanizado el porcentaje de impurezas e identificar si son de origen vegetal 0
+‘mineral, para asociarlas con una causa ratz derivado de los sistemas de limpieza de la cosechadora,
+‘operacién cosecha 0 condiciones de campo, en busca de disminuir dichas impurezas en fabrica y
+
+contribuir en el aumento del rendimiento industrial
+
+2. DOCUMENTOS REFERENCIALES Y REGISTROS QUE APLICAN.
+2.2. Administracin de Documentos y Registros, digo: 11-493-03-0001
+
+3. DEFINICIONES,
+3. Tolete
+
+Es la cafia que pasé por el sistema de corte de la maquina. Los extremos pueden presentarse astillados
+
+© con un corte normal (corte suave en ambos extremos) o el corte de base (grueso cortado en un
+
+cextremo y plano en el otro)
+
+3.2. Ralzo cepa
+Parte subterrénea de la cafa de azticar que sirve como anclaje y a través de él, la planta absorbe los
+nutrientes y el agua del suelo.
+
+3.3. Punta ycogollo
+Fracci6n de la cafia por debajo del punto de quiebre natural junto con el cogollo. El cogollo de la catia
+de auticar es la parte central o el brote apical de la planta. Es una porcién joven, tierna y en crecimiento
+que se encuentra en el extremo superior del tallo.
+
+3.4, Hojas
+Estructura foliar de la planta de cafla de axticar, que se ubica alternativamente a lo largo del tallo, Esta
+hoja es larga y estrecha, con un borde afilado y puntiagudo; puede estar vigorosa o marchita.
+
+3.5. Tierra pledra
+Componente de origen mineral procedente de roca madre. Estos son levantados por el sistema del
+corte base della cosechadora.
+
+3.6. Impurezas
+Material no industralizable que acompafia a la cafia de azicar,representado principalmente por hojas
+(verdes y secas), cogollos, tallos inmaduros (mamones), tals secos, restos de cepas y tierra, que
+afectan la calidad de los jugos y el rendimiento fabri.
+
+3.7. Tolete dafiado
+Tolete sin corte fino y dafiado por los machetes laterales, cuchillas corte base, cuchillas trozadoras 0
+‘machucados por la banda de la cosechadora.
+
+(©2023, Cones Agonist Santa Ans, S.A. Ele document no pute ser roduc erate
+versinss [ ragiacaden J
+
+3.8, NDVI
+Indice de vegetacion de diferencia normalizada. Utiizado para estimar Ia cantidad, calidad y desarrollo
+de la vegetacién.
+
+3.9. Avenza Maps
+Aplicacién mévil para leer mapas geoespaciales en formato POF.
+
+4. NORMAS
+Eljefe del departamento de gestion de la calidad procesos agricolas, coordinador de calidad de corte y
+el evaluador de calidad agricola son los responsables del cumplimiento de este instructivo.
+
+El asistente administrativo es el responsable de generar los mapas NOVI del programa semanal de
+cosecha, los cuales deben estar geo-referenciados en formato PDF. Este seré compartido a los
+evaluadores en el grupo de WhatsApp nombrado como: CALIDAD DE CORTE (period zafra).
+
+El coordinador deberé realizar la programacién del muestreo con un dla de anticipacién, segin el
+vance de la cosecha, Este serd compartido a los evaluadores en el grupo de WhatsApp nombrado
+‘como: CALIDAD DE CORTE (periodo zafra)
+
+5. MATERIALES Y EQUIPO
+Para realizar el muestreo se utilzan los siguientes materiales: dispositive mévil, guantes, nailon de 3
+or 3 metros, costal, tamiz, balanza de precision (digital), balanza analitica, boleta de campo, tablila,
+lapicero y calculadora.
+
+6._DESCRIPCION DEL PROCESO
+
+‘ACTIVIDAD DESCRIPCION
+
+1. | Medicion dela EI evaluador de calidad agricola deberd ublear en campo las)
+operacién de cosechadoras que serén evaluadas y realizar las siguientes
+cosechadoras. ediciones:
+
+* Velocidad de operacién,
+
+‘+ RPM del extractor primario.
+
+‘+ Realizar la evaluaci6n del nivel de desgaste de las diez cuchillas,
+del sistema de corte base, utiizando el medidor presente en la
+Figura 1. Dicha evaluaciGn seré clasficada en: nivel 0 (0a 4 mm),
+nivel 1 (5 @ 9 mm), nivel 2 (20 a 14 mm) y nivel 3 (> = 15mm).
+
+2_| Ubicacién de los Er evaluador deberd ubicar los puntos de muestreo, considerando los
+
+puntos de muestreo. | siguientes pasos:
+
+(©2023 Compaia Apcla Insti Sata An, S.A. Ente documenta no pd Seo abr.
+Y
+
+Impurezas de Corte Mecanizado
+
+Codigo: 1-494-04-0084
+INSTRUCTIVOS Fecha: 31 de octubre 2023
+
+SANTANA | PePesmeto de cestin de cated Process eras [Verna | page: 4de
+
+NO.
+
+‘ACTIVIDAD
+
+DESCRIPCION
+
+© Abrir la aplicacién Avenza Maps Versin 5.1.1 y cargar el mapa
+NDVI del ote.
+
+© Verificar el érea a cosechar e identificarla en el mapa (Figura 2).
+
+‘+ Distribuir en el mapa tres muestras por cosechadora, La
+distribucién debe realizarse segin la vatiabilidad visual de! NDVI;
+‘considerando éreas de alta, media y baja produccién (Figura 2).
+
+‘+ Proceder a ubicar las muestras en campo con Avenza Maps.
+
+Recepcién dela
+muestra,
+
+ET evaluador deberd obtener la muestra directamente de la
+ccosechadora. El operador de la cosechadora se detiene y realiza una
+descarga de cafla con un peso aproximado de 25 a 100 libras, siendo
+‘ecibida por los evaluadores con un nailon de 3 por 3 metros, como
+se muestra en la Figura 3.
+
+Clasificacion de las
+variables de medicién.
+
+EI evaluador deberd clasificar las variables de medicign en tes,
+grupos: cafia, impurezas vegetales e impurezas minerales. Estos
+grupos se componen de las siguientes variables:
+
+© Cafa:toletes.
+‘+ Impurezas vegetales: hoja, punta y cogollo
+
+| Impurezas minerales: tierra, piedra, raz 0 cepa,
+
+El evaluador deberd retirar la tierra que esté atrapada entre la raiz 0
+cepa y con un tamiz separar los residuos vegetales (hojas) de las
+impurezas minerales (Figura ). Las variables clasficadas se presentan
+en la Figura 5,
+
+Pesado de las
+variables de medicion,
+
+lasificadas las variables, el evaluador debe proceder a pesar los
+‘componentes con la balanza digital. El material mineral debe ser
+pesado en la balanza analitica utilzando la unidad de medida gramos.
+Utilizar las balanzas mencionadas anteriormente para asegurar la
+precisién de los datos.
+
+Glasificacin y conteo
+del dafiofisico del
+tolete.
+
+El evaluador deberd clasificar los toletes obtenidos de la muestra de
+la siguiente manera: tolete dafiado y tolete sin dafio. Se muestra un
+‘ejemplo en la Figura 6. Clasificados los toletes, el evaluador debe
+proceder a contar los toletes dafiados y sin dati.
+
+Caleulo de las
+impurezas.
+
+El evaluador deberd calcular el porcentaje de impurezas vegetales y
+minerales presentes en la muestra, utilizando las siguientes formulas:
+
+(©2023, Compara Apel Indust! Santa Aa, S.A Ete docu no puede te eration aera
+
+SANTA ANA
+
+Departamento de Gestion de Calidad Procesos Agricolas
+
+0s Ciao: 1-494.08-0084
+INSTRUCTIV Fecha: 31 de octubre 2023
+Impurezas de Corte Mecanizado
+
+Versién:1 | Pégina: Sde 8
+
+[No.
+
+‘ACTIVIDAD
+
+I DESCRIPCION
+
+Suma impurezas vegetales (Ib)
+= hoja (18) + punta y cogoo (1b)
+
+Suma tmpurezas minerates (1b)
+= tlerra (Ib) + piedra (Ib) + rate o cepa
+
+Total tmpurezas (1b)
+‘suma impurezas vegetales(lb)
++ suma tmpurezas minerales({)
+
+Total muestra (1b) = suma cafia (lb) + total impurezas (Ib)
+
+ssuma impurezas vegetales (Ib)
+
+%tmpureza vegetal = en
+
++100
+
+sma impurezas minerales (8)
+total muestra)
+
+% tmpureza mineral 100
+
+total de impurezas
+= % impureza vegetal + % impureza mineral
+
+Caleulo de dato
+altolete
+
+El evaluador deberd calcular el porcentaje de dafo fisico al tolete,
+utlizando las siguientes formulas:
+
+fide lotes datados
+dao por cuchilla lateral
++ dao por cuchiliacorte base
++ datio por cuchillatorzadora + dao per banda
+
+# total de toletes de la muestra
+= total toletes dafados + total toletes sin dao
+
+total toletes daihados
+
+(98) toletes con dase fisteo = es ee
+
+x10
+
+total tolete sin dato
+
+(29) toletes stn dato fisico = IE SAS. 5 100
+
+Determinacion de
+conformidad,
+
+El evaluador deberd determinar con los pardmetros permitidos si el
+resultado de Ia evaluacién es CONFORME o NO CONFORME.
+
+(©2023, CompatiaAgicla infu Santa Ana, SA Ete cocueni n puede sr ero arate,
+
+Codigo: 11-494-04-0044
+Fecha: 31 de octubre 2023
+
+J
+INSTRUCTIVOS
+Impurezas de Corte Mecanizado
+
+SANTANA. | Departamento de Gestdn de Calidad Procesos Agrcolas
+
+versién:1 | Pagina: 6 dee
+
+[UBICACION DE PUNTOS DE MUESTREO|
+
+IMPUREZAS EN CORTE MECANIZADO |
+
+LAAURORA
+a
+
+menome
+
+Figura 2. Ubicacién de los puntos de muestreo.
+
+(©2023, compasia Agi inautil Santa Aa, S.A Ente dott ro pede sr repo
+
+] >)
+Cédigo:11-494-08-0084
+INSTRUCTIVOS Fecha: 31 de octubre 2023
+Impureras de Corte Mecanizado
+
+|
+
+-_,
+
+Figura 4. Separar los residuos vegetales (hojas) de las impurezas minerales,
+
+(©2023, compatia Ago nut Sara Ana, SA. Este dsient mo pander erode Wi terete
+INSTRUCTIVOS Codigo: 11-498-04-0044
+
+Fecha: 31 de octubre 2023
+Impurezas de Corte Mecanizado
+
+Benatar de Gestin Clad Process Ars | versus ] pan oane |
+| | )
+
+©2023, compatiaAgcl inaustil Sani Ana, S.A Ete docienato no ponder erode ised

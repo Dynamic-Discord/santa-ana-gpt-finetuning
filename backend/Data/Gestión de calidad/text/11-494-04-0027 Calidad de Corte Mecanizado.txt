@@ -1,0 +1,326 @@
+Calidad de Corte Mecanizado
+GANTAANA, | Deeramenoce estn de cata rocsos Atos | Goins | pages? |
+
+CONTENIDO
+1. OBJETIVO ALCANCE . —_
+2. DOCUMENTOS REFERENCIALES ¥ REGISTROS QUE APLICAN
+3. DEFINICIONES.
+
+BAL Cafe enter vernes
+
+32. Tolete
+33. Tocén..
+
+3.4. Caf sin despunte
+35. Asti.
+36. Pedazo. 7
+
+37. Owes.
+3.8. Cogoll
+39. NOM...
+
+3.10. Avenza Maps...
+4. NORMAS.
+
+5. MATERIALES Y EQUIPO...
+16. _DESCRIPCION DEL PROCESO.
+7. ANEXOS
+
+be RR RRR RRR
+
+LABORS 98086
+
+GB | a
+
+Coorsinader de Cala de Cote Geente Gestion
+Gestién de la Calidad ProcesosAgriclas | Jefe Departamento de estén de la we Gestiin de a Calidad
+‘Gestién de a Cad Calidad Procesos Apress ret: 1 3//2 /r002
+
+"©2023, Compaia Acai auil Sata Aa, SA Ete domaine punt sr reproduc ater,
+
+Calidad de Corte Mecanizado
+SANTANA. | DePartamento de Gestin de Calidad Procesos Agricoas
+
+verinsa | pigmas2e7 |
+
+1. OBJETIVO Y ALCANCE
+Evaluar la calidad del corte mecanizado e identificar las principales pérdidas visibles de cafia de azicar
+ara asociarlas con una causa ra(z derivada de los sistemas de la cosechadora, operacién de cosecha 0
+condiciones de campo, en busca de disminuir dichas pérdidas y promover la mejora continua, Asi
+‘mismo, evaluar la eficiencia de los recolectores con lo recuperado en campo, determinado a través de
+los muestreos antes y después de los recolectores.
+
+2. DOCUMENTOS REFERENCIALES Y REGISTROS QUE APLICAN
+2.1. Administracién de Documentos y Registros, cSdigo: 11-493-03-0001,
+2.2. Parémetros Cosecha Mecanizada, cédigo: 03-478-05-0001
+
+3. DEFINICIONES
+3.1. Cafia entera
+
+Fraccién de cafia con un tamafio igual o mayor a 30 centimetros. Esta cafa puede no estar anclada a la
+
+macolla
+
+3.2. Tolete
+Es la cafia que pasé por el sistema de corte de la maquina, puede estar aplastado o no. Los extremos
+pueden presentarse astllados 0 con un corte normal (corte suave en ambos extremas)o el corte de
+
+base (grueso cortado en un extremo y plano en el otro,
+
+3.3. Tocén
+Fraccién del tallo de catia no cortada por la méquina, corte por encima de la superficie del suelo, que
+se adjunta alas raices y que tiene una longitud entre 5 centimetros a 30 centimetros. Con una longitud
+mayor esta se considera como cafia entera,
+
+3.4. Cafiasin despunte
+Fraccién de cafia por debajo del punto de quiebre natural del cogollo, presenta un corte en un extremo
+‘ausado por el despuntador de la cosechadora,
+
+35. Astilla
+Son fragmentos de cafia totalmente desgarrados, salieron del extractor primario,
+
+3.6. Pedazo
+Son todas las partes visibles de la catia sin las caracteristicas que definen a lacafia entera,tolete, tocén,
+cafia sin despunte 0 astillas, y por lo tanto no encajan en ninguno de los ajustes mencionados
+anteriormente.
+
+©2023, Compania Aisa naustSars Ana, SA. Este documento no puede se reproduc ater.
+version's | Paginas3ce7 |
+
+3.7. Otros
+Factores que por sus caracteristicas le difcultan a cosecha llevérselos, se consideran en otros: cafla
+podrida, caf seca, cafia pegada que se encuentra fuera del surco, cafia con dafio de plagas
+(barrenador, roedor, et.) y mamones no molederos,
+
+3.8. Cogollo
+El cogollo de la catia de axticar es la parte central o el brote apical de la planta. Es una porcién joven,
+tierna y en crecimiento que se encuentra en el extremo superior del allo,
+
+3.9. NDVI
+Indice de vegetacién de diferencia normalizada. Utlizado para estimar la cantidad, calidad y desarrollo
+de la vegetacién,
+
+3.10. Avenza Maps
+Aplicacion mévil para leer mapas geoespaciales en formato PDF.
+
+4, NORMAS
+Eljefe del departamento de gestién dela calidad procesos agricolas, coordinador de calidad de corte y
+€l evaluador de calidad agricola son los responsables del cumplimiento de este instructivo.
+
+El asistente administrativo es el responsable de generar los mapas NDVI del programa semanal de
+cosecha, los cuales deben estar geo-referenciados en formato PDF. Este seré compartido a los
+evaluadores en el grupo de WhatsApp nombrado como: CALIDAD DE CORTE (periodo zafra).
+
+El coordinador deberé realizar la programacién del muestreo con un dia de anticipacién, segin el
+avance de la cosecha. Este seré compartido a los evaluadores en el grupo de WhatsApp nombrado
+‘como: CALIDAD DE CORTE (periodo zafra)
+
+I coordinador deberé calcular las pérdidas de forma porcentual. Estas se obtienen del TCH de pérdida
+‘al momento del muestreo; dividido entre la suma de la productividad de! lote (TCH de bascula) més el
+TCH de pérdida obtenido al momento del muestreo,
+
+5. MATERIALES ¥ EQUIPO
+
+Para realizar el muestreo se utiizan los siguientes materiales: cinta métrica, dispositive mévil, uantes,
+
+‘machete, costal, balanza de precisién (digital), boleta de campo, tabla, lapicero,calculadora, vernier
+ymedidor de cuchillas de corte base.
+
+(© 202, Compatia Ago ndeti Sara Ara, S.A Et oreo no put a proc i abrado
+édigo:12-494.08-0027
+INSTRUCTIVOS Fecha: 31 de octubre 2023,
+Calidad de Corte Mecanizado
+SANTANA | Pevsarento se cestin declares arcs | Vemsnca | pageaaaey
+
+6._DESCRIPCION DEL PROCESO
+
+NO. ‘ACTIVIDAD. ‘DESCRIPCION
+[2 [Medicién deta EI evaluador de calidad agricola debers ubicar en campo las
+‘operacién de ccosechadoras que serén evaluadas (segtin el programa de muestreo)
+cosechadoras. realizar las siguientes mediciones:
+
+‘© Velocidad de operacién
+
+‘+ RPM del extractor primario.
+
+‘+ Realizar la evaluacién del nivel de desgaste de las diez cuchillas
+del sistema de corte base, utilizando el medidor presente en la
+Figura 2. Dicha evaluacién seré clasficada en: nivel 0 (0a 4 mm),
+nivel 1 (5 29 mm), nivel 2 (10 a 14 mm) y nivel 3 (> = 15mm).
+
+‘Ubicacién de los El evaluador deberd ubicar los puntos de muestreo, considerando los
+
+puntos de muestreo._ | siguientes pasos:
+
+‘© Abrir la aplicacin Avenza Maps Versién 5.1.1 y cargar el mapa
+NDVI del lote.
+
+‘© Verificar el drea cosechada e identificarla en el mapa (Figura 2).
+
+* Distribuir en el mapa cuatro muestras por cosechadora. La
+distribucién debe realizarse segdn la variabilidad visual del NDVI;
+considerando areas de alta, media y baja produccién (Figura 2).
+
+‘+ _Proceder a ubicar las muestras en campo con Avenza Mops.
+
+3. | Delimitaciondelas | ET evaluador deberd realizar la delimitacién de la muestra
+
+muestras (antes de | contemplando un tamafio de 10 m?, Debe dejar dos surcos de cafia
+
+losrecolectores). | de azicar en el centro de la parcela. Para establecer el ancho yellargo
+<e la parcela debe de utilizar el distanciamiento de siembra como
+parémetro. Las dimensiones por utilizar de acuerdo con distintos
+
+distanciamientos de siembra se presentan en el Cuadro 1.
+
+Cuadro 1. Dimensiones dela parcela para medi pérdidasVisibles,
+
+oi rromeds
+bt, | sr | ance | tag | Ava | Peimewe | Pa |
+
+surcos | (m) | (m) | (m’) a perimetro.
+(oa | (om) (om) |
+
+340_| 280 | 357 | 9556 | ava
+
+130 | 300 | 333 | 3990 | 12.66
+
+10 [260 1320 [313 rome| 6s) aa
+175_| 350 [286 [10010] 12.72
+
+ia0-[-s60-[ a8 [noone [ane |
+
+© 2023, compatia Apa Indu Santa Ana, SEs documento no pute 6 produc atrade,
+SANTANA
+
+Departamento de Gestin de Calidad Procesos Agricolas
+
+(Codigo: 11-498-04-0027
+Fecha: 31 de octubre 2023
+
+INSTRUCTIVOS
+idad de Corte Mecanizado
+
+versién:3 | Pégina:Sde7
+
+No. ACTIVIDAD DESCRIPCION
+Al establecer las medidas de la muestra, el evaluador procederé @
+delimitarla, colocando estacas de cafla en cada esquina. Las cafias
+utiizadas como estacas deben encontrarse fuera del érea a
+‘muestrear, para no interferir con los resultados.
+
+‘| Clasificacion detas | Elevaluador deberd clasificar las variables de medicion antes del paso
+variables de medicin | de los recolectores. En cada muestra deberd separar la paja de cafia
+(antes de los ‘y los componentes de cafia dejada en campo (Figura 3) de acuerdo
+recolectores) ‘con las variables de medicin establecidas, las cuales son:
+
+a. Cafa entera
+
+b. Tolete
+
+© Tocén
+
+Catia sin despunte
+Astila
+Pedazo
+
+& Otros: no se consideran pérdidas, pero es importante
+‘cuantificarlo para compartir el dato con campo, son Factores que |
+se pueden mejorar, pero que le dificultan a cosecha llevarse la
+cafia con esas caracteristicas. Se consideran en otros: cafia
+ppodrida, cara seca, cafia pegada que se encuentra fuera del surco,
+cafia con dafio de plagas y mamones no molederos.
+
+5. | Pesado de las lasificadas las variables de medicion, el evaluador deberd proceder
+
+| variables de medicién | a pesar cada componente utilizando una balanza digital para asegurar
+(antes de fos la precision de los datos, asi mismo, deberd utilizar la unidad de
+| recolectores). ‘medida libras.
+
+6 | Estimacion de ET evaluador deberd estimar las pérdidas de forma absoluta
+
+pérdidas (antes de los
+recolectores).
+
+expresada en TCH (toneladas cortas de cafia por hectérea). Esta se
+‘obtiene al mutiplcar el valor obtenido de la masa de la muestra por
+el factor de conversion 0.5, de acuerdo con las siguientes formulas:
+
+Perdidas (70H) =
+
+Perdidas (8/107)
+
+same) (he) Go)
+
+Peraidas (20m)
+—T
+
+Factor de converién
+
+(©2023, compatia Agia ntutil Sara Aa, SA. le document ne pune er ord atc.
+
+Calidad de Corte Mecanizado
+GANTAANA, | D22rtamento de Gestion de Calidad Procesos Ariolas
+
+Ta
+INsTRUCTIVos | Fecteau otras
+
+| Vversién:3. | Pégina: 6 de 7
+L
+
+NO. | __ ACTIVIDAD
+
+DESCRIPCION
+
+7. | Evaluacion después
+el paso de los
+| recolectores.
+
+Elevaluador deberd realizar la medicién de calidad de corte después
+del paso de los recolectores, realizando lo siguiente:
+
++ Distribuirevatro muestras en el rea donde se realizé el muestreo |
+antes de lo recolectores, estas muestras no deben realizarse en la
+misma ubicacién,
+‘+ En Ia distribucion de las muestras se debe de considerar la
+
+variabllidad visual de NOVI presente en el lote. Esto con el
+| objetivo que la evaluacién después del paso de los recolectores
+|___ se realice bajo las mismas condiciones.
+
+de las variables de
+
+los recolectores)
+
+Clasifcacién y pesado
+
+| medicién (después de
+
+El evaluador deberd clasficar la variable de medicion después del
+paso de los recolectores. En cada muestra deberd separar la paja de
+catia y el componente eafia entera mayor a 60 em,
+
+Clasificada la variable de medici6n, el evaluador deberd pesar la cafia
+| entera en la unidad de medida libras y se multiplica por el factor de
+| conversion 0.5 para obtener la pérdida en toneladas de cafia por
+hectérea. Posteriormente, deberé evaluar la eficiencia de los
+recolectores con lo recuperado en campo para determinar la calidad
+de la recuperacién de la cafia de azicar.
+
+3._| Determinacion de
+conformidad.
+
+ET evaluador deberd determinar con los pardmetros establecidos sil
+resultado de la evaluacién es CONFORME o NO CONFORME.
+
+(© 202, Compatia Agric nti Sara Ana, S.A. Et document no puede er mproduc i ata.
+
+INSTRUCTIVOS | codigo: 11-494-08-0027
+
+| Fecha: 31 de octubre 2023
+
+- J
+
+‘Canutoo
+
+Figura 3. Clasficacién de las variables de medicién antes del paso de los recole:
