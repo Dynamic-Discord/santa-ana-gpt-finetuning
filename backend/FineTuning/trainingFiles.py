@@ -1,6 +1,7 @@
 import os
 import json
 import docx
+import tiktoken
 from openai import OpenAI
 
 def read_docx(file_path):
@@ -38,9 +39,20 @@ def save_dataset_to_jsonl(examples, output_dir, output_filename):
     output_path = os.path.join(output_dir, output_filename)
     with open(output_path, 'w', encoding='utf-8') as f:
         for i, example in enumerate(examples, 1):
-            print("Archivo:", i)
+            print("Archivo:", i,"🔄️")
             f.write(json.dumps(example, ensure_ascii=False) + '\n')
     return output_path
+
+def count_tokens(file_path):
+    tokenizer = tiktoken.get_encoding("cl100k_base")
+    total_tokens = 0
+    with open(file_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            example = json.loads(line)
+            for message in example['messages']:
+                tokens = tokenizer.encode(message['content'])
+                total_tokens += len(tokens)
+    return total_tokens
 
 def upload_file_to_openai(file_path):
     client = OpenAI(api_key='tu_api_key')
@@ -78,6 +90,11 @@ if examples:
     # Guardar dataset en archivo .jsonl
     output_path = save_dataset_to_jsonl(examples, output_dir, output_filename)
     print(f"Training File generado en {output_path}. ✅")
+
+    # Contar tokens en el archivo de entrenamiento
+    total_tokens = count_tokens(output_path)
+    print(f"El archivo de entrenamiento tiene {total_tokens} tokens. 📈")
+
     # Subir archivo y crear un trabajo de afinación
     #training_file_id = upload_file_to_openai(output_path)
     #fine_tuning_job_id = create_fine_tuning_job(training_file_id)
